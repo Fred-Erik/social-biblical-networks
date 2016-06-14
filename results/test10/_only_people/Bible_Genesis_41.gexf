@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="6">
+
+<node id="452" label="Ephraim">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="448" label="ZaphenathPaneah">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="451" label="Manasseh">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+<node id="449" label="Asenath">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="450" label="Potiphera">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="447" label="Joseph">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="11">
+<edge id="1" source="450" target="451" weight="0.26" label="Genesis_41,"/>
+<edge id="2" source="450" target="448" weight="0.26" label="Genesis_41,"/>
+<edge id="3" source="451" target="452" weight="0.11" label="Genesis_41,"/>
+<edge id="4" source="449" target="450" weight="2.02" label="Genesis_41,"/>
+<edge id="5" source="449" target="451" weight="0.26" label="Genesis_41,"/>
+<edge id="6" source="449" target="448" weight="0.26" label="Genesis_41,"/>
+<edge id="7" source="447" target="452" weight="0.33" label="Genesis_41,"/>
+<edge id="8" source="447" target="450" weight="2.35" label="Genesis_41,"/>
+<edge id="9" source="447" target="451" weight="1.45" label="Genesis_41,"/>
+<edge id="10" source="447" target="449" weight="2.35" label="Genesis_41,"/>
+<edge id="11" source="447" target="448" weight="1.32" label="Genesis_41,"/>
+</edges>
+</graph></gexf>

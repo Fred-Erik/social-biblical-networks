@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="7">
+
+<node id="1" label="Solomon">
+  <attvalues><attvalue for="occurrence" value="Reges_I_10,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="5" label="Hiram">
+  <attvalues><attvalue for="occurrence" value="Reges_I_10,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="0" label="Sheba">
+  <attvalues><attvalue for="occurrence" value="Reges_I_10,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="6" label="landofgold">
+  <attvalues><attvalue for="occurrence" value="Reges_I_10,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="4" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Reges_I_10,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="3" label="Jerusalem">
+  <attvalues><attvalue for="occurrence" value="Reges_I_10,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="2" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Reges_I_10,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="14">
+<edge id="1" source="5" target="6" weight="1.0" label="Reges_I_10,"/>
+<edge id="2" source="1" target="3" weight="0.29" label="Reges_I_10,"/>
+<edge id="3" source="1" target="5" weight="0.3" label="Reges_I_10,"/>
+<edge id="4" source="1" target="6" weight="0.3" label="Reges_I_10,"/>
+<edge id="5" source="1" target="0" weight="4.33" label="Reges_I_10,"/>
+<edge id="6" source="4" target="2" weight="1.04" label="Reges_I_10,"/>
+<edge id="7" source="2" target="3" weight="0.14" label="Reges_I_10,"/>
+<edge id="8" source="2" target="5" weight="0.3" label="Reges_I_10,"/>
+<edge id="9" source="2" target="6" weight="0.3" label="Reges_I_10,"/>
+<edge id="10" source="2" target="1" weight="2.53" label="Reges_I_10,"/>
+<edge id="11" source="2" target="0" weight="2.3" label="Reges_I_10,"/>
+<edge id="12" source="0" target="3" weight="0.14" label="Reges_I_10,"/>
+<edge id="13" source="0" target="5" weight="0.3" label="Reges_I_10,"/>
+<edge id="14" source="0" target="6" weight="0.3" label="Reges_I_10,"/>
+</edges>
+</graph></gexf>

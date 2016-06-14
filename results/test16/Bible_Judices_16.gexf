@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="7">
+
+<node id="182" label="Dagon">
+  <attvalues><attvalue for="occurrence" value="Judices_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="179" label="Samson">
+  <attvalues><attvalue for="occurrence" value="Judices_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="181" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Judices_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="185" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Judices_16,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="183" label="Lord">
+  <attvalues><attvalue for="occurrence" value="Judices_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="184" label="Manoah">
+  <attvalues><attvalue for="occurrence" value="Judices_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="180" label="Delilah">
+  <attvalues><attvalue for="occurrence" value="Judices_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="6">
+<edge id="1" source="181" target="183" weight="1.11" label="Judices_16,"/>
+<edge id="2" source="179" target="181" weight="1.62" label="Judices_16,"/>
+<edge id="3" source="179" target="183" weight="0.25" label="Judices_16,"/>
+<edge id="4" source="179" target="180" weight="3.51" label="Judices_16,"/>
+<edge id="5" source="179" target="182" weight="0.15" label="Judices_16,"/>
+<edge id="6" source="185" target="184" weight="0.25" label="Judices_16,"/>
+</edges>
+</graph></gexf>

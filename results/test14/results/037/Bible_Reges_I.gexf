@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="4">
+
+<node id="0" label="Maacah">
+  <attvalues><attvalue for="occurrence" value="Reges_I_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="2" label="Kidron">
+  <attvalues><attvalue for="occurrence" value="Reges_I_15,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="3" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Reges_I_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="1" label="Asa">
+  <attvalues><attvalue for="occurrence" value="Reges_I_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="5">
+<edge id="1" source="1" target="0" weight="0.29" label="Reges_I_15,"/>
+<edge id="2" source="1" target="3" weight="1.35" label="Reges_I_15,"/>
+<edge id="3" source="1" target="2" weight="0.36" label="Reges_I_15,"/>
+<edge id="4" source="0" target="2" weight="0.11" label="Reges_I_15,"/>
+<edge id="5" source="3" target="2" weight="0.17" label="Reges_I_15,"/>
+</edges>
+</graph></gexf>

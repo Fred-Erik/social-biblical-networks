@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="7">
+
+<node id="309" label="Esau">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="313" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="310" label="Abraham">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="312" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="311" label="Isaac">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="307" label="Laban">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="308" label="Jacob">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="10">
+<edge id="1" source="307" target="309" weight="0.25" label="Genesis_32,"/>
+<edge id="2" source="307" target="308" weight="0.79" label="Genesis_32,"/>
+<edge id="3" source="310" target="311" weight="1.0" label="Genesis_32,"/>
+<edge id="4" source="310" target="312" weight="1.0" label="Genesis_32,"/>
+<edge id="5" source="311" target="312" weight="1.0" label="Genesis_32,"/>
+<edge id="6" source="308" target="313" weight="0.67" label="Genesis_32,"/>
+<edge id="7" source="308" target="310" weight="0.28" label="Genesis_32,"/>
+<edge id="8" source="308" target="311" weight="0.28" label="Genesis_32,"/>
+<edge id="9" source="308" target="309" weight="2.66" label="Genesis_32,"/>
+<edge id="10" source="308" target="312" weight="0.28" label="Genesis_32,"/>
+</edges>
+</graph></gexf>

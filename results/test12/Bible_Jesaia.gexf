@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="42">
+
+<node id="67" label="Cush">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="63" label="Isaiah">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="52" label="Hilkiah">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="57" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,Jesaia_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="79" label="Egypt2">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="62" label="Samaria">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="48" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,Jesaia_37,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="45" label="Hizkiah2">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,Jesaia_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="53" label="Shebna2">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,Jesaia_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="73" label="Hena">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="74" label="Ivvah">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="66" label="Tirhakah">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="65" label="Libnah">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="86" label="Esarhaddon">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="81" label="Nineveh">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="75" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="58" label="Jewish">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="76" label="Zion">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="54" label="Joah">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="70" label="Rezeph">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="61" label="Sepharvaim">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="78" label="Lebanon">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="72" label="Telassar">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="68" label="Gozan">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="77" label="Lord">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="60" label="Arpad">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="69" label="town">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="59" label="Hamath">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="50" label="Jerusalem">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="82" label="Nisroch">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="85" label="Ararat">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="83" label="Adrammelech">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="71" label="Eden">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="47" label="Asshur">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="84" label="Sharezer">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="51" label="Eliakim">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,Jesaia_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="55" label="Asaph">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="56" label="Egypt">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="46" label="Sennacherib">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,Jesaia_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="49" label="Lachish">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,Jesaia_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="64" label="Amoz">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="80" label="David">
+  <attvalues><attvalue for="occurrence" value="Jesaia_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="193">
+<edge id="1" source="66" target="67" weight="1.0" label="Jesaia_37,"/>
+<edge id="2" source="63" target="75" weight="0.27" label="Jesaia_37,"/>
+<edge id="3" source="63" target="46" weight="0.13" label="Jesaia_37,"/>
+<edge id="4" source="63" target="64" weight="2.02" label="Jesaia_37,"/>
+<edge id="5" source="63" target="47" weight="0.4" label="Jesaia_37,"/>
+<edge id="6" source="63" target="53" weight="1.02" label="Jesaia_37,"/>
+<edge id="7" source="75" target="46" weight="0.3" label="Jesaia_37,"/>
+<edge id="8" source="75" target="77" weight="0.26" label="Jesaia_37,"/>
+<edge id="9" source="74" target="73" weight="1.0" label="Jesaia_37,"/>
+<edge id="10" source="74" target="60" weight="1.0" label="Jesaia_37,"/>
+<edge id="11" source="74" target="61" weight="1.0" label="Jesaia_37,"/>
+<edge id="12" source="74" target="59" weight="1.0" label="Jesaia_37,"/>
+<edge id="13" source="72" target="74" weight="0.25" label="Jesaia_37,"/>
+<edge id="14" source="72" target="73" weight="0.25" label="Jesaia_37,"/>
+<edge id="15" source="72" target="60" weight="0.25" label="Jesaia_37,"/>
+<edge id="16" source="72" target="61" weight="0.25" label="Jesaia_37,"/>
+<edge id="17" source="72" target="59" weight="0.25" label="Jesaia_37,"/>
+<edge id="18" source="72" target="68" weight="1.0" label="Jesaia_37,"/>
+<edge id="19" source="84" target="85" weight="0.25" label="Jesaia_37,"/>
+<edge id="20" source="84" target="86" weight="0.11" label="Jesaia_37,"/>
+<edge id="21" source="57" target="63" weight="1.51" label="Jesaia_37,"/>
+<edge id="22" source="57" target="58" weight="0.12" label="Jesaia_36,"/>
+<edge id="23" source="57" target="75" weight="3.05" label="Jesaia_37,"/>
+<edge id="24" source="57" target="74" weight="0.19" label="Jesaia_37,"/>
+<edge id="25" source="57" target="76" weight="0.63" label="Jesaia_37,"/>
+<edge id="26" source="57" target="72" weight="0.14" label="Jesaia_37,"/>
+<edge id="27" source="57" target="62" weight="0.16" label="Jesaia_36,"/>
+<edge id="28" source="57" target="80" weight="0.53" label="Jesaia_37,"/>
+<edge id="29" source="57" target="73" weight="0.19" label="Jesaia_37,"/>
+<edge id="30" source="57" target="46" weight="1.94" label="Jesaia_36,Jesaia_37,"/>
+<edge id="31" source="57" target="64" weight="1.02" label="Jesaia_37,"/>
+<edge id="32" source="57" target="45" weight="7.27" label="Jesaia_36,Jesaia_37,"/>
+<edge id="33" source="57" target="47" weight="7.05" label="Jesaia_36,Jesaia_37,"/>
+<edge id="34" source="57" target="56" weight="0.36" label="Jesaia_36,"/>
+<edge id="35" source="57" target="51" weight="0.47" label="Jesaia_36,Jesaia_37,"/>
+<edge id="36" source="57" target="60" weight="0.35" label="Jesaia_36,Jesaia_37,"/>
+<edge id="37" source="57" target="61" weight="0.33" label="Jesaia_36,Jesaia_37,"/>
+<edge id="38" source="57" target="48" weight="0.46" label="Jesaia_36,Jesaia_37,"/>
+<edge id="39" source="57" target="69" weight="0.14" label="Jesaia_37,"/>
+<edge id="40" source="57" target="59" weight="0.35" label="Jesaia_36,Jesaia_37,"/>
+<edge id="41" source="57" target="50" weight="1.93" label="Jesaia_36,Jesaia_37,"/>
+<edge id="42" source="57" target="71" weight="0.14" label="Jesaia_37,"/>
+<edge id="43" source="57" target="54" weight="0.17" label="Jesaia_36,"/>
+<edge id="44" source="57" target="68" weight="0.14" label="Jesaia_37,"/>
+<edge id="45" source="57" target="70" weight="0.14" label="Jesaia_37,"/>
+<edge id="46" source="57" target="53" weight="0.47" label="Jesaia_36,Jesaia_37,"/>
+<edge id="47" source="49" target="66" weight="0.25" label="Jesaia_37,"/>
+<edge id="48" source="49" target="55" weight="0.11" label="Jesaia_36,"/>
+<edge id="49" source="49" target="52" weight="0.11" label="Jesaia_36,"/>
+<edge id="50" source="49" target="51" weight="0.11" label="Jesaia_36,Jesaia_37,"/>
+<edge id="51" source="49" target="67" weight="0.25" label="Jesaia_37,"/>
+<edge id="52" source="49" target="54" weight="0.11" label="Jesaia_36,"/>
+<edge id="53" source="49" target="53" weight="0.11" label="Jesaia_36,Jesaia_37,"/>
+<edge id="54" source="85" target="86" weight="0.25" label="Jesaia_37,"/>
+<edge id="55" source="73" target="61" weight="1.0" label="Jesaia_37,"/>
+<edge id="56" source="73" target="59" weight="1.0" label="Jesaia_37,"/>
+<edge id="57" source="55" target="53" weight="2.0" label="Jesaia_36,"/>
+<edge id="58" source="46" target="76" weight="0.12" label="Jesaia_37,"/>
+<edge id="59" source="46" target="49" weight="0.11" label="Jesaia_36,Jesaia_37,"/>
+<edge id="60" source="46" target="47" weight="3.45" label="Jesaia_36,Jesaia_37,"/>
+<edge id="61" source="46" target="81" weight="0.25" label="Jesaia_37,"/>
+<edge id="62" source="64" target="75" weight="0.27" label="Jesaia_37,"/>
+<edge id="63" source="64" target="46" weight="0.12" label="Jesaia_37,"/>
+<edge id="64" source="64" target="53" weight="1.0" label="Jesaia_37,"/>
+<edge id="65" source="64" target="47" weight="0.16" label="Jesaia_37,"/>
+<edge id="66" source="45" target="66" weight="0.13" label="Jesaia_37,"/>
+<edge id="67" source="45" target="63" weight="2.49" label="Jesaia_37,"/>
+<edge id="68" source="45" target="58" weight="0.11" label="Jesaia_36,"/>
+<edge id="69" source="45" target="75" weight="0.68" label="Jesaia_37,"/>
+<edge id="70" source="45" target="74" weight="0.36" label="Jesaia_37,"/>
+<edge id="71" source="45" target="72" weight="0.21" label="Jesaia_37,"/>
+<edge id="72" source="45" target="49" weight="1.2" label="Jesaia_36,Jesaia_37,"/>
+<edge id="73" source="45" target="73" weight="0.36" label="Jesaia_37,"/>
+<edge id="74" source="45" target="55" weight="1.27" label="Jesaia_36,"/>
+<edge id="75" source="45" target="46" weight="0.56" label="Jesaia_36,Jesaia_37,"/>
+<edge id="76" source="45" target="64" weight="1.18" label="Jesaia_37,"/>
+<edge id="77" source="45" target="67" weight="0.13" label="Jesaia_37,"/>
+<edge id="78" source="45" target="52" weight="1.27" label="Jesaia_36,"/>
+<edge id="79" source="45" target="56" weight="0.16" label="Jesaia_36,"/>
+<edge id="80" source="45" target="51" weight="1.46" label="Jesaia_36,Jesaia_37,"/>
+<edge id="81" source="45" target="60" weight="0.45" label="Jesaia_36,Jesaia_37,"/>
+<edge id="82" source="45" target="61" weight="0.43" label="Jesaia_36,Jesaia_37,"/>
+<edge id="83" source="45" target="48" weight="2.69" label="Jesaia_36,Jesaia_37,"/>
+<edge id="84" source="45" target="69" weight="0.21" label="Jesaia_37,"/>
+<edge id="85" source="45" target="59" weight="0.45" label="Jesaia_36,Jesaia_37,"/>
+<edge id="86" source="45" target="71" weight="0.21" label="Jesaia_37,"/>
+<edge id="87" source="45" target="54" weight="1.3" label="Jesaia_36,"/>
+<edge id="88" source="45" target="53" weight="1.46" label="Jesaia_36,Jesaia_37,"/>
+<edge id="89" source="45" target="70" weight="0.21" label="Jesaia_37,"/>
+<edge id="90" source="45" target="68" weight="0.21" label="Jesaia_37,"/>
+<edge id="91" source="45" target="47" weight="3.78" label="Jesaia_36,Jesaia_37,"/>
+<edge id="92" source="47" target="66" weight="0.17" label="Jesaia_37,"/>
+<edge id="93" source="47" target="58" weight="0.18" label="Jesaia_36,"/>
+<edge id="94" source="47" target="75" weight="0.33" label="Jesaia_37,"/>
+<edge id="95" source="47" target="74" weight="0.12" label="Jesaia_37,"/>
+<edge id="96" source="47" target="76" weight="0.25" label="Jesaia_37,"/>
+<edge id="97" source="47" target="72" weight="0.19" label="Jesaia_37,"/>
+<edge id="98" source="47" target="80" weight="0.14" label="Jesaia_37,"/>
+<edge id="99" source="47" target="49" weight="1.44" label="Jesaia_36,Jesaia_37,"/>
+<edge id="100" source="47" target="73" weight="0.12" label="Jesaia_37,"/>
+<edge id="101" source="47" target="55" weight="0.23" label="Jesaia_36,"/>
+<edge id="102" source="47" target="52" weight="0.23" label="Jesaia_36,"/>
+<edge id="103" source="47" target="56" weight="0.14" label="Jesaia_36,"/>
+<edge id="104" source="47" target="51" weight="0.3" label="Jesaia_36,Jesaia_37,"/>
+<edge id="105" source="47" target="60" weight="0.39" label="Jesaia_36,Jesaia_37,"/>
+<edge id="106" source="47" target="67" weight="0.17" label="Jesaia_37,"/>
+<edge id="107" source="47" target="61" weight="0.25" label="Jesaia_36,Jesaia_37,"/>
+<edge id="108" source="47" target="65" weight="1.05" label="Jesaia_37,"/>
+<edge id="109" source="47" target="81" weight="0.28" label="Jesaia_37,"/>
+<edge id="110" source="47" target="69" weight="0.19" label="Jesaia_37,"/>
+<edge id="111" source="47" target="59" weight="0.39" label="Jesaia_36,Jesaia_37,"/>
+<edge id="112" source="47" target="71" weight="0.19" label="Jesaia_37,"/>
+<edge id="113" source="47" target="54" weight="0.26" label="Jesaia_36,"/>
+<edge id="114" source="47" target="68" weight="0.19" label="Jesaia_37,"/>
+<edge id="115" source="47" target="70" weight="0.19" label="Jesaia_37,"/>
+<edge id="116" source="47" target="53" weight="0.3" label="Jesaia_36,Jesaia_37,"/>
+<edge id="117" source="82" target="84" weight="0.25" label="Jesaia_37,"/>
+<edge id="118" source="82" target="85" weight="0.11" label="Jesaia_37,"/>
+<edge id="119" source="82" target="83" weight="0.25" label="Jesaia_37,"/>
+<edge id="120" source="52" target="51" weight="2.0" label="Jesaia_36,"/>
+<edge id="121" source="52" target="54" weight="2.0" label="Jesaia_36,"/>
+<edge id="122" source="52" target="53" weight="2.0" label="Jesaia_36,"/>
+<edge id="123" source="52" target="55" weight="2.0" label="Jesaia_36,"/>
+<edge id="124" source="77" target="78" weight="0.11" label="Jesaia_37,"/>
+<edge id="125" source="51" target="63" weight="1.02" label="Jesaia_37,"/>
+<edge id="126" source="51" target="55" weight="2.0" label="Jesaia_36,"/>
+<edge id="127" source="51" target="64" weight="1.0" label="Jesaia_37,"/>
+<edge id="128" source="51" target="54" weight="3.0" label="Jesaia_36,"/>
+<edge id="129" source="51" target="53" weight="4.0" label="Jesaia_36,Jesaia_37,"/>
+<edge id="130" source="83" target="84" weight="1.0" label="Jesaia_37,"/>
+<edge id="131" source="83" target="85" weight="0.25" label="Jesaia_37,"/>
+<edge id="132" source="83" target="86" weight="0.11" label="Jesaia_37,"/>
+<edge id="133" source="60" target="62" weight="0.11" label="Jesaia_36,"/>
+<edge id="134" source="60" target="73" weight="1.0" label="Jesaia_37,"/>
+<edge id="135" source="60" target="61" weight="1.25" label="Jesaia_36,Jesaia_37,"/>
+<edge id="136" source="60" target="59" weight="2.0" label="Jesaia_36,Jesaia_37,"/>
+<edge id="137" source="61" target="62" weight="0.25" label="Jesaia_36,"/>
+<edge id="138" source="65" target="66" weight="0.11" label="Jesaia_37,"/>
+<edge id="139" source="65" target="49" weight="0.25" label="Jesaia_37,"/>
+<edge id="140" source="65" target="67" weight="0.11" label="Jesaia_37,"/>
+<edge id="141" source="81" target="82" weight="0.11" label="Jesaia_37,"/>
+<edge id="142" source="48" target="76" weight="0.11" label="Jesaia_37,"/>
+<edge id="143" source="48" target="49" weight="0.14" label="Jesaia_36,Jesaia_37,"/>
+<edge id="144" source="48" target="46" weight="1.01" label="Jesaia_36,Jesaia_37,"/>
+<edge id="145" source="48" target="47" weight="1.46" label="Jesaia_36,Jesaia_37,"/>
+<edge id="146" source="48" target="56" weight="0.11" label="Jesaia_36,"/>
+<edge id="147" source="69" target="74" weight="0.25" label="Jesaia_37,"/>
+<edge id="148" source="69" target="72" weight="1.0" label="Jesaia_37,"/>
+<edge id="149" source="69" target="73" weight="0.25" label="Jesaia_37,"/>
+<edge id="150" source="69" target="60" weight="0.25" label="Jesaia_37,"/>
+<edge id="151" source="69" target="61" weight="0.25" label="Jesaia_37,"/>
+<edge id="152" source="69" target="59" weight="0.25" label="Jesaia_37,"/>
+<edge id="153" source="69" target="68" weight="1.0" label="Jesaia_37,"/>
+<edge id="154" source="59" target="62" weight="0.11" label="Jesaia_36,"/>
+<edge id="155" source="59" target="61" weight="1.25" label="Jesaia_36,Jesaia_37,"/>
+<edge id="156" source="50" target="76" weight="1.25" label="Jesaia_37,"/>
+<edge id="157" source="50" target="62" weight="0.11" label="Jesaia_36,"/>
+<edge id="158" source="50" target="49" weight="1.02" label="Jesaia_36,Jesaia_37,"/>
+<edge id="159" source="50" target="55" weight="0.14" label="Jesaia_36,"/>
+<edge id="160" source="50" target="46" weight="0.19" label="Jesaia_36,Jesaia_37,"/>
+<edge id="161" source="50" target="45" weight="2.45" label="Jesaia_36,Jesaia_37,"/>
+<edge id="162" source="50" target="47" weight="2.73" label="Jesaia_36,Jesaia_37,"/>
+<edge id="163" source="50" target="52" weight="0.14" label="Jesaia_36,"/>
+<edge id="164" source="50" target="56" weight="0.11" label="Jesaia_36,"/>
+<edge id="165" source="50" target="51" weight="0.15" label="Jesaia_36,Jesaia_37,"/>
+<edge id="166" source="50" target="61" weight="0.11" label="Jesaia_36,Jesaia_37,"/>
+<edge id="167" source="50" target="48" weight="1.34" label="Jesaia_36,Jesaia_37,"/>
+<edge id="168" source="50" target="54" weight="0.15" label="Jesaia_36,"/>
+<edge id="169" source="50" target="53" weight="0.15" label="Jesaia_36,Jesaia_37,"/>
+<edge id="170" source="71" target="74" weight="0.25" label="Jesaia_37,"/>
+<edge id="171" source="71" target="72" weight="1.0" label="Jesaia_37,"/>
+<edge id="172" source="71" target="73" weight="0.25" label="Jesaia_37,"/>
+<edge id="173" source="71" target="60" weight="0.25" label="Jesaia_37,"/>
+<edge id="174" source="71" target="61" weight="0.25" label="Jesaia_37,"/>
+<edge id="175" source="71" target="69" weight="1.0" label="Jesaia_37,"/>
+<edge id="176" source="71" target="59" weight="0.25" label="Jesaia_37,"/>
+<edge id="177" source="71" target="68" weight="1.0" label="Jesaia_37,"/>
+<edge id="178" source="71" target="70" weight="1.0" label="Jesaia_37,"/>
+<edge id="179" source="54" target="53" weight="3.0" label="Jesaia_36,"/>
+<edge id="180" source="54" target="55" weight="2.0" label="Jesaia_36,"/>
+<edge id="181" source="68" target="74" weight="0.25" label="Jesaia_37,"/>
+<edge id="182" source="68" target="73" weight="0.25" label="Jesaia_37,"/>
+<edge id="183" source="68" target="60" weight="0.25" label="Jesaia_37,"/>
+<edge id="184" source="68" target="61" weight="0.25" label="Jesaia_37,"/>
+<edge id="185" source="68" target="59" weight="0.25" label="Jesaia_37,"/>
+<edge id="186" source="70" target="74" weight="0.25" label="Jesaia_37,"/>
+<edge id="187" source="70" target="72" weight="1.0" label="Jesaia_37,"/>
+<edge id="188" source="70" target="73" weight="0.25" label="Jesaia_37,"/>
+<edge id="189" source="70" target="60" weight="0.25" label="Jesaia_37,"/>
+<edge id="190" source="70" target="61" weight="0.25" label="Jesaia_37,"/>
+<edge id="191" source="70" target="69" weight="1.0" label="Jesaia_37,"/>
+<edge id="192" source="70" target="59" weight="0.25" label="Jesaia_37,"/>
+<edge id="193" source="70" target="68" weight="1.0" label="Jesaia_37,"/>
+</edges>
+</graph></gexf>

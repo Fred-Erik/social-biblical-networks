@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="10">
+
+<node id="8" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_29,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="7" label="David">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_29,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="6" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_29,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="11" label="Jerusalem">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_29,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="5" label="Solomon">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_29,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="14" label="Gad">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_29,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="13" label="Nathan">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_29,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="12" label="Samuel">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_29,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="10" label="Hebron">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_29,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="9" label="Jesse">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_29,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="26">
+<edge id="1" source="7" target="11" weight="0.11" label="Chronica_I_29,"/>
+<edge id="2" source="7" target="9" weight="1.07" label="Chronica_I_29,"/>
+<edge id="3" source="7" target="14" weight="1.02" label="Chronica_I_29,"/>
+<edge id="4" source="7" target="12" weight="1.02" label="Chronica_I_29,"/>
+<edge id="5" source="7" target="6" weight="1.44" label="Chronica_I_29,"/>
+<edge id="6" source="7" target="13" weight="1.02" label="Chronica_I_29,"/>
+<edge id="7" source="10" target="11" weight="0.25" label="Chronica_I_29,"/>
+<edge id="8" source="14" target="13" weight="1.0" label="Chronica_I_29,"/>
+<edge id="9" source="5" target="11" weight="0.14" label="Chronica_I_29,"/>
+<edge id="10" source="5" target="7" weight="2.83" label="Chronica_I_29,"/>
+<edge id="11" source="5" target="14" weight="0.27" label="Chronica_I_29,"/>
+<edge id="12" source="5" target="12" weight="0.27" label="Chronica_I_29,"/>
+<edge id="13" source="5" target="6" weight="2.41" label="Chronica_I_29,"/>
+<edge id="14" source="5" target="9" weight="0.13" label="Chronica_I_29,"/>
+<edge id="15" source="5" target="13" weight="0.27" label="Chronica_I_29,"/>
+<edge id="16" source="8" target="11" weight="0.16" label="Chronica_I_29,"/>
+<edge id="17" source="8" target="7" weight="2.45" label="Chronica_I_29,"/>
+<edge id="18" source="8" target="10" weight="0.22" label="Chronica_I_29,"/>
+<edge id="19" source="8" target="14" weight="0.17" label="Chronica_I_29,"/>
+<edge id="20" source="8" target="5" weight="2.28" label="Chronica_I_29,"/>
+<edge id="21" source="8" target="12" weight="0.17" label="Chronica_I_29,"/>
+<edge id="22" source="8" target="6" weight="1.52" label="Chronica_I_29,"/>
+<edge id="23" source="8" target="9" weight="1.46" label="Chronica_I_29,"/>
+<edge id="24" source="8" target="13" weight="0.17" label="Chronica_I_29,"/>
+<edge id="25" source="12" target="14" weight="1.0" label="Chronica_I_29,"/>
+<edge id="26" source="12" target="13" weight="1.0" label="Chronica_I_29,"/>
+</edges>
+</graph></gexf>

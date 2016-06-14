@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="17">
+
+<node id="56" label="Heber">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="54" label="Naphtali">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="52" label="Barak">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="44" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="59" label="Jael">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="46" label="Jabin">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="58" label="Moses">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="48" label="Sisera">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="51" label="Ephraim">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="43" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="55" label="Zebulun">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="45" label="Ehud">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="57" label="Hobab">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="50" label="Lappidoth">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="49" label="Deborah">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="53" label="Abinoam">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="47" label="Canaan">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+</nodes>
+<edges count="70">
+<edge id="1" source="58" target="56" weight="1.01" label="Judices_4,"/>
+<edge id="2" source="58" target="57" weight="1.0" label="Judices_4,"/>
+<edge id="3" source="44" target="55" weight="0.18" label="Judices_4,"/>
+<edge id="4" source="44" target="56" weight="0.15" label="Judices_4,"/>
+<edge id="5" source="44" target="45" weight="0.55" label="Judices_4,"/>
+<edge id="6" source="44" target="47" weight="1.19" label="Judices_4,"/>
+<edge id="7" source="44" target="48" weight="4.63" label="Judices_4,"/>
+<edge id="8" source="44" target="49" weight="0.68" label="Judices_4,"/>
+<edge id="9" source="44" target="54" weight="0.34" label="Judices_4,"/>
+<edge id="10" source="44" target="43" weight="3.71" label="Judices_4,"/>
+<edge id="11" source="44" target="52" weight="2.43" label="Judices_4,"/>
+<edge id="12" source="44" target="51" weight="0.13" label="Judices_4,"/>
+<edge id="13" source="44" target="53" weight="0.25" label="Judices_4,"/>
+<edge id="14" source="44" target="50" weight="0.13" label="Judices_4,"/>
+<edge id="15" source="44" target="46" weight="1.29" label="Judices_4,"/>
+<edge id="16" source="45" target="47" weight="0.25" label="Judices_4,"/>
+<edge id="17" source="45" target="48" weight="0.12" label="Judices_4,"/>
+<edge id="18" source="45" target="46" weight="0.25" label="Judices_4,"/>
+<edge id="19" source="47" target="48" weight="0.39" label="Judices_4,"/>
+<edge id="20" source="47" target="46" weight="3.51" label="Judices_4,"/>
+<edge id="21" source="48" target="58" weight="0.25" label="Judices_4,"/>
+<edge id="22" source="48" target="55" weight="0.42" label="Judices_4,"/>
+<edge id="23" source="48" target="49" weight="1.07" label="Judices_4,"/>
+<edge id="24" source="48" target="54" weight="0.46" label="Judices_4,"/>
+<edge id="25" source="48" target="52" weight="5.74" label="Judices_4,"/>
+<edge id="26" source="48" target="56" weight="2.18" label="Judices_4,"/>
+<edge id="27" source="48" target="59" weight="2.79" label="Judices_4,"/>
+<edge id="28" source="48" target="53" weight="1.39" label="Judices_4,"/>
+<edge id="29" source="48" target="57" weight="0.25" label="Judices_4,"/>
+<edge id="30" source="49" target="58" weight="0.32" label="Judices_4,"/>
+<edge id="31" source="49" target="55" weight="0.26" label="Judices_4,"/>
+<edge id="32" source="49" target="54" weight="0.33" label="Judices_4,"/>
+<edge id="33" source="49" target="52" weight="2.0" label="Judices_4,"/>
+<edge id="34" source="49" target="56" weight="0.34" label="Judices_4,"/>
+<edge id="35" source="49" target="51" weight="1.0" label="Judices_4,"/>
+<edge id="36" source="49" target="53" weight="0.26" label="Judices_4,"/>
+<edge id="37" source="49" target="57" weight="0.32" label="Judices_4,"/>
+<edge id="38" source="54" target="55" weight="2.04" label="Judices_4,"/>
+<edge id="39" source="54" target="52" weight="2.45" label="Judices_4,"/>
+<edge id="40" source="43" target="55" weight="0.12" label="Judices_4,"/>
+<edge id="41" source="43" target="45" weight="0.34" label="Judices_4,"/>
+<edge id="42" source="43" target="47" weight="2.75" label="Judices_4,"/>
+<edge id="43" source="43" target="48" weight="0.53" label="Judices_4,"/>
+<edge id="44" source="43" target="49" weight="1.63" label="Judices_4,"/>
+<edge id="45" source="43" target="54" weight="0.48" label="Judices_4,"/>
+<edge id="46" source="43" target="52" weight="0.47" label="Judices_4,"/>
+<edge id="47" source="43" target="51" weight="1.6" label="Judices_4,"/>
+<edge id="48" source="43" target="53" weight="0.36" label="Judices_4,"/>
+<edge id="49" source="43" target="50" weight="1.6" label="Judices_4,"/>
+<edge id="50" source="43" target="46" weight="2.83" label="Judices_4,"/>
+<edge id="51" source="52" target="58" weight="0.29" label="Judices_4,"/>
+<edge id="52" source="52" target="55" weight="1.43" label="Judices_4,"/>
+<edge id="53" source="52" target="56" weight="0.5" label="Judices_4,"/>
+<edge id="54" source="52" target="59" weight="0.45" label="Judices_4,"/>
+<edge id="55" source="52" target="57" weight="0.29" label="Judices_4,"/>
+<edge id="56" source="56" target="59" weight="2.64" label="Judices_4,"/>
+<edge id="57" source="53" target="58" weight="0.11" label="Judices_4,"/>
+<edge id="58" source="53" target="54" weight="1.06" label="Judices_4,"/>
+<edge id="59" source="53" target="52" weight="2.23" label="Judices_4,"/>
+<edge id="60" source="53" target="56" weight="0.12" label="Judices_4,"/>
+<edge id="61" source="53" target="57" weight="0.11" label="Judices_4,"/>
+<edge id="62" source="50" target="49" weight="1.0" label="Judices_4,"/>
+<edge id="63" source="50" target="51" weight="1.0" label="Judices_4,"/>
+<edge id="64" source="57" target="56" weight="1.01" label="Judices_4,"/>
+<edge id="65" source="46" target="55" weight="0.26" label="Judices_4,"/>
+<edge id="66" source="46" target="48" weight="2.03" label="Judices_4,"/>
+<edge id="67" source="46" target="54" weight="0.3" label="Judices_4,"/>
+<edge id="68" source="46" target="52" weight="0.27" label="Judices_4,"/>
+<edge id="69" source="46" target="56" weight="1.27" label="Judices_4,"/>
+<edge id="70" source="46" target="59" weight="0.53" label="Judices_4,"/>
+</edges>
+</graph></gexf>

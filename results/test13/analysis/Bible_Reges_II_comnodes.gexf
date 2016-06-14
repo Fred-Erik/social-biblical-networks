@@ -1,0 +1,23 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="0" />
+      <node id="1" label="1" />
+      <node id="2" label="2" />
+      <node id="3" label="3" />
+      <node id="4" label="4" />
+      <node id="5" label="5" />
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="0" weight="84.24999999999997" />
+      <edge id="1" source="0" target="1" weight="8.61" />
+      <edge id="2" source="0" target="2" weight="12.280000000000003" />
+      <edge id="3" source="0" target="3" weight="0.11" />
+      <edge id="4" source="0" target="5" weight="1.3199999999999998" />
+      <edge id="5" source="1" target="1" weight="32.72" />
+      <edge id="6" source="2" target="2" weight="27.0" />
+      <edge id="7" source="3" target="3" weight="2.58" />
+      <edge id="8" source="5" target="5" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

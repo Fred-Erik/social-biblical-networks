@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="6">
+
+<node id="1" label="Solomon">
+  <attvalues><attvalue for="occurrence" value="Reges_I_3,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="4" label="Lord">
+  <attvalues><attvalue for="occurrence" value="Reges_I_3,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="3" label="David">
+  <attvalues><attvalue for="occurrence" value="Reges_I_3,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="2" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Reges_I_3,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="5" label="Jerusalem">
+  <attvalues><attvalue for="occurrence" value="Reges_I_3,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="0" label="Gibeon">
+  <attvalues><attvalue for="occurrence" value="Reges_I_3,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+</nodes>
+<edges count="8">
+<edge id="1" source="3" target="2" weight="1.07" label="Reges_I_3,"/>
+<edge id="2" source="4" target="5" weight="0.25" label="Reges_I_3,"/>
+<edge id="3" source="1" target="5" weight="0.12" label="Reges_I_3,"/>
+<edge id="4" source="1" target="2" weight="1.36" label="Reges_I_3,"/>
+<edge id="5" source="1" target="3" weight="0.5" label="Reges_I_3,"/>
+<edge id="6" source="1" target="4" weight="1.09" label="Reges_I_3,"/>
+<edge id="7" source="1" target="0" weight="1.49" label="Reges_I_3,"/>
+<edge id="8" source="2" target="0" weight="1.08" label="Reges_I_3,"/>
+</edges>
+</graph></gexf>

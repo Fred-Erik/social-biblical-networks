@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="2">
+
+<node id="13" label="Asshur">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_28,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="12" label="TiglathPileser2">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_28,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="1">
+<edge id="1" source="13" target="12" weight="1.0" label="Chronica_II_28,"/>
+</edges>
+</graph></gexf>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="16">
+
+<node id="29" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="36" label="kingofJudah">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="22" label="Jehoshaphat">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="31" label="Imlah">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="23" label="Ahab">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="32" label="Zedekiah2">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="24" label="Samaria">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="33" label="Kenaanah">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="30" label="prophet">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="37" label="Joash">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="25" label="Ramoth">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="35" label="Micah">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="26" label="Gilead">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="27" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="34" label="Aram">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="28" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_18,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+</nodes>
+<edges count="51">
+<edge id="1" source="28" target="30" weight="0.32" label="Chronica_II_18,"/>
+<edge id="2" source="28" target="29" weight="0.14" label="Chronica_II_18,"/>
+<edge id="3" source="28" target="31" weight="0.27" label="Chronica_II_18,"/>
+<edge id="4" source="32" target="33" weight="2.0" label="Chronica_II_18,"/>
+<edge id="5" source="30" target="32" weight="0.32" label="Chronica_II_18,"/>
+<edge id="6" source="30" target="37" weight="0.3" label="Chronica_II_18,"/>
+<edge id="7" source="30" target="31" weight="2.06" label="Chronica_II_18,"/>
+<edge id="8" source="30" target="36" weight="0.3" label="Chronica_II_18,"/>
+<edge id="9" source="30" target="33" weight="0.32" label="Chronica_II_18,"/>
+<edge id="10" source="26" target="28" weight="1.52" label="Chronica_II_18,"/>
+<edge id="11" source="26" target="30" weight="0.12" label="Chronica_II_18,"/>
+<edge id="12" source="26" target="27" weight="2.22" label="Chronica_II_18,"/>
+<edge id="13" source="26" target="29" weight="0.57" label="Chronica_II_18,"/>
+<edge id="14" source="26" target="35" weight="0.12" label="Chronica_II_18,"/>
+<edge id="15" source="26" target="25" weight="7.27" label="Chronica_II_18,"/>
+<edge id="16" source="27" target="28" weight="3.41" label="Chronica_II_18,"/>
+<edge id="17" source="27" target="30" weight="0.94" label="Chronica_II_18,"/>
+<edge id="18" source="27" target="29" weight="1.89" label="Chronica_II_18,"/>
+<edge id="19" source="27" target="37" weight="0.13" label="Chronica_II_18,"/>
+<edge id="20" source="27" target="34" weight="0.38" label="Chronica_II_18,"/>
+<edge id="21" source="27" target="31" weight="0.49" label="Chronica_II_18,"/>
+<edge id="22" source="27" target="36" weight="0.13" label="Chronica_II_18,"/>
+<edge id="23" source="29" target="32" weight="0.55" label="Chronica_II_18,"/>
+<edge id="24" source="29" target="30" weight="1.05" label="Chronica_II_18,"/>
+<edge id="25" source="29" target="34" weight="0.31" label="Chronica_II_18,"/>
+<edge id="26" source="29" target="31" weight="0.1" label="Chronica_II_18,"/>
+<edge id="27" source="29" target="33" weight="0.55" label="Chronica_II_18,"/>
+<edge id="28" source="36" target="37" weight="1.0" label="Chronica_II_18,"/>
+<edge id="29" source="24" target="32" weight="0.11" label="Chronica_II_18,"/>
+<edge id="30" source="24" target="27" weight="0.14" label="Chronica_II_18,"/>
+<edge id="31" source="24" target="33" weight="0.11" label="Chronica_II_18,"/>
+<edge id="32" source="25" target="28" weight="1.52" label="Chronica_II_18,"/>
+<edge id="33" source="25" target="30" weight="0.12" label="Chronica_II_18,"/>
+<edge id="34" source="25" target="27" weight="2.22" label="Chronica_II_18,"/>
+<edge id="35" source="25" target="29" weight="0.57" label="Chronica_II_18,"/>
+<edge id="36" source="25" target="35" weight="0.12" label="Chronica_II_18,"/>
+<edge id="37" source="22" target="28" weight="3.35" label="Chronica_II_18,"/>
+<edge id="38" source="22" target="30" weight="0.71" label="Chronica_II_18,"/>
+<edge id="39" source="22" target="26" weight="1.98" label="Chronica_II_18,"/>
+<edge id="40" source="22" target="27" weight="8.62" label="Chronica_II_18,"/>
+<edge id="41" source="22" target="29" weight="1.48" label="Chronica_II_18,"/>
+<edge id="42" source="22" target="31" weight="0.61" label="Chronica_II_18,"/>
+<edge id="43" source="22" target="24" weight="0.24" label="Chronica_II_18,"/>
+<edge id="44" source="22" target="25" weight="1.98" label="Chronica_II_18,"/>
+<edge id="45" source="22" target="23" weight="1.61" label="Chronica_II_18,"/>
+<edge id="46" source="23" target="28" weight="1.09" label="Chronica_II_18,"/>
+<edge id="47" source="23" target="26" weight="0.83" label="Chronica_II_18,"/>
+<edge id="48" source="23" target="27" weight="2.19" label="Chronica_II_18,"/>
+<edge id="49" source="23" target="29" weight="0.42" label="Chronica_II_18,"/>
+<edge id="50" source="23" target="24" weight="1.53" label="Chronica_II_18,"/>
+<edge id="51" source="23" target="25" weight="0.83" label="Chronica_II_18,"/>
+</edges>
+</graph></gexf>

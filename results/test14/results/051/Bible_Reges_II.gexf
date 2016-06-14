@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="3">
+
+<node id="1" label="Sela">
+  <attvalues><attvalue for="occurrence" value="Reges_II_14,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="2" label="Joktheel">
+  <attvalues><attvalue for="occurrence" value="Reges_II_14,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="0" label="Edom">
+  <attvalues><attvalue for="occurrence" value="Reges_II_14,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+</nodes>
+<edges count="3">
+<edge id="1" source="0" target="2" weight="0.11" label="Reges_II_14,"/>
+<edge id="2" source="0" target="1" weight="0.25" label="Reges_II_14,"/>
+<edge id="3" source="1" target="2" weight="0.25" label="Reges_II_14,"/>
+</edges>
+</graph></gexf>

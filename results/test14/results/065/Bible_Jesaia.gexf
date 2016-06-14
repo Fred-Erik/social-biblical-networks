@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="17">
+
+<node id="28" label="Joah">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="32" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="25" label="Eliakim">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="27" label="Shebna2">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="29" label="Asaph">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="37" label="Samaria">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="21" label="Asshur">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="31" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="22" label="Lachish">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="36" label="Sepharvaim">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="35" label="Arpad">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="34" label="Hamath">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="33" label="Jewish">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="26" label="Hilkiah">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="30" label="Egypt">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="24" label="Hizkiah">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="23" label="Jerusalem">
+  <attvalues><attvalue for="occurrence" value="Jesaia_36,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+</nodes>
+<edges count="66">
+<edge id="1" source="23" target="27" weight="0.15" label="Jesaia_36,"/>
+<edge id="2" source="23" target="32" weight="1.0" label="Jesaia_36,"/>
+<edge id="3" source="23" target="30" weight="0.11" label="Jesaia_36,"/>
+<edge id="4" source="23" target="22" weight="1.0" label="Jesaia_36,"/>
+<edge id="5" source="23" target="29" weight="0.14" label="Jesaia_36,"/>
+<edge id="6" source="23" target="31" weight="1.31" label="Jesaia_36,"/>
+<edge id="7" source="23" target="28" weight="0.15" label="Jesaia_36,"/>
+<edge id="8" source="23" target="25" weight="0.15" label="Jesaia_36,"/>
+<edge id="9" source="23" target="24" weight="2.11" label="Jesaia_36,"/>
+<edge id="10" source="23" target="37" weight="0.11" label="Jesaia_36,"/>
+<edge id="11" source="23" target="26" weight="0.14" label="Jesaia_36,"/>
+<edge id="12" source="23" target="21" weight="1.15" label="Jesaia_36,"/>
+<edge id="13" source="27" target="29" weight="2.0" label="Jesaia_36,"/>
+<edge id="14" source="27" target="28" weight="3.0" label="Jesaia_36,"/>
+<edge id="15" source="27" target="25" weight="3.0" label="Jesaia_36,"/>
+<edge id="16" source="27" target="26" weight="2.0" label="Jesaia_36,"/>
+<edge id="17" source="35" target="34" weight="1.0" label="Jesaia_36,"/>
+<edge id="18" source="35" target="36" weight="0.25" label="Jesaia_36,"/>
+<edge id="19" source="35" target="37" weight="0.11" label="Jesaia_36,"/>
+<edge id="20" source="22" target="27" weight="0.11" label="Jesaia_36,"/>
+<edge id="21" source="22" target="29" weight="0.11" label="Jesaia_36,"/>
+<edge id="22" source="22" target="28" weight="0.11" label="Jesaia_36,"/>
+<edge id="23" source="22" target="25" weight="0.11" label="Jesaia_36,"/>
+<edge id="24" source="22" target="26" weight="0.11" label="Jesaia_36,"/>
+<edge id="25" source="29" target="28" weight="2.0" label="Jesaia_36,"/>
+<edge id="26" source="29" target="25" weight="2.0" label="Jesaia_36,"/>
+<edge id="27" source="29" target="26" weight="2.0" label="Jesaia_36,"/>
+<edge id="28" source="31" target="27" weight="0.17" label="Jesaia_36,"/>
+<edge id="29" source="31" target="35" weight="0.16" label="Jesaia_36,"/>
+<edge id="30" source="31" target="30" weight="0.36" label="Jesaia_36,"/>
+<edge id="31" source="31" target="28" weight="0.17" label="Jesaia_36,"/>
+<edge id="32" source="31" target="25" weight="0.17" label="Jesaia_36,"/>
+<edge id="33" source="31" target="34" weight="0.16" label="Jesaia_36,"/>
+<edge id="34" source="31" target="24" weight="2.27" label="Jesaia_36,"/>
+<edge id="35" source="31" target="33" weight="0.12" label="Jesaia_36,"/>
+<edge id="36" source="31" target="36" weight="0.14" label="Jesaia_36,"/>
+<edge id="37" source="31" target="37" weight="0.16" label="Jesaia_36,"/>
+<edge id="38" source="31" target="21" weight="0.99" label="Jesaia_36,"/>
+<edge id="39" source="31" target="32" weight="0.27" label="Jesaia_36,"/>
+<edge id="40" source="28" target="25" weight="3.0" label="Jesaia_36,"/>
+<edge id="41" source="28" target="26" weight="2.0" label="Jesaia_36,"/>
+<edge id="42" source="34" target="36" weight="0.25" label="Jesaia_36,"/>
+<edge id="43" source="34" target="37" weight="0.11" label="Jesaia_36,"/>
+<edge id="44" source="24" target="27" weight="1.27" label="Jesaia_36,"/>
+<edge id="45" source="24" target="30" weight="0.15" label="Jesaia_36,"/>
+<edge id="46" source="24" target="22" weight="1.05" label="Jesaia_36,"/>
+<edge id="47" source="24" target="29" weight="1.24" label="Jesaia_36,"/>
+<edge id="48" source="24" target="28" weight="1.27" label="Jesaia_36,"/>
+<edge id="49" source="24" target="25" weight="1.27" label="Jesaia_36,"/>
+<edge id="50" source="24" target="33" weight="0.11" label="Jesaia_36,"/>
+<edge id="51" source="24" target="32" weight="1.01" label="Jesaia_36,"/>
+<edge id="52" source="24" target="26" weight="1.24" label="Jesaia_36,"/>
+<edge id="53" source="36" target="37" weight="0.25" label="Jesaia_36,"/>
+<edge id="54" source="21" target="27" weight="0.22" label="Jesaia_36,"/>
+<edge id="55" source="21" target="35" weight="0.27" label="Jesaia_36,"/>
+<edge id="56" source="21" target="30" weight="0.13" label="Jesaia_36,"/>
+<edge id="57" source="21" target="22" weight="1.03" label="Jesaia_36,"/>
+<edge id="58" source="21" target="29" weight="0.19" label="Jesaia_36,"/>
+<edge id="59" source="21" target="28" weight="0.22" label="Jesaia_36,"/>
+<edge id="60" source="21" target="25" weight="0.22" label="Jesaia_36,"/>
+<edge id="61" source="21" target="34" weight="0.27" label="Jesaia_36,"/>
+<edge id="62" source="21" target="24" weight="2.48" label="Jesaia_36,"/>
+<edge id="63" source="21" target="33" weight="0.18" label="Jesaia_36,"/>
+<edge id="64" source="21" target="36" weight="0.13" label="Jesaia_36,"/>
+<edge id="65" source="21" target="26" weight="0.19" label="Jesaia_36,"/>
+<edge id="66" source="26" target="25" weight="2.0" label="Jesaia_36,"/>
+</edges>
+</graph></gexf>

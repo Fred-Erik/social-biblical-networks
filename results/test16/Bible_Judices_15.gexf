@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="4">
+
+<node id="177" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Judices_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="176" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Judices_15,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="175" label="Samson">
+  <attvalues><attvalue for="occurrence" value="Judices_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="178" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Judices_15,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+</nodes>
+<edges count="1">
+<edge id="1" source="175" target="176" weight="0.7" label="Judices_15,"/>
+</edges>
+</graph></gexf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="7">
+
+<node id="170" label="Phicol">
+  <attvalues><attvalue for="occurrence" value="Genesis_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="164" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="168" label="Hagar">
+  <attvalues><attvalue for="occurrence" value="Genesis_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="169" label="Abimelech">
+  <attvalues><attvalue for="occurrence" value="Genesis_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="167" label="Isaac">
+  <attvalues><attvalue for="occurrence" value="Genesis_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="165" label="Sarah">
+  <attvalues><attvalue for="occurrence" value="Genesis_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="166" label="Abraham">
+  <attvalues><attvalue for="occurrence" value="Genesis_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="12">
+<edge id="1" source="164" target="166" weight="0.71" label="Genesis_21,"/>
+<edge id="2" source="164" target="167" weight="0.23" label="Genesis_21,"/>
+<edge id="3" source="164" target="165" weight="2.84" label="Genesis_21,"/>
+<edge id="4" source="166" target="168" weight="1.83" label="Genesis_21,"/>
+<edge id="5" source="166" target="170" weight="1.12" label="Genesis_21,"/>
+<edge id="6" source="166" target="167" weight="7.15" label="Genesis_21,"/>
+<edge id="7" source="166" target="169" weight="4.48" label="Genesis_21,"/>
+<edge id="8" source="167" target="168" weight="0.42" label="Genesis_21,"/>
+<edge id="9" source="169" target="170" weight="2.05" label="Genesis_21,"/>
+<edge id="10" source="165" target="168" weight="1.13" label="Genesis_21,"/>
+<edge id="11" source="165" target="166" weight="6.43" label="Genesis_21,"/>
+<edge id="12" source="165" target="167" weight="3.24" label="Genesis_21,"/>
+</edges>
+</graph></gexf>

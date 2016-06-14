@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="10">
+
+<node id="602" label="Manasseh">
+  <attvalues><attvalue for="occurrence" value="Genesis_50,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+<node id="598" label="Abraham">
+  <attvalues><attvalue for="occurrence" value="Genesis_50,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="603" label="Isaac">
+  <attvalues><attvalue for="occurrence" value="Genesis_50,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="604" label="Jacob">
+  <attvalues><attvalue for="occurrence" value="Genesis_50,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="601" label="Makir">
+  <attvalues><attvalue for="occurrence" value="Genesis_50,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+<node id="600" label="Ephraim">
+  <attvalues><attvalue for="occurrence" value="Genesis_50,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="596" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Genesis_50,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="597" label="Canaan">
+  <attvalues><attvalue for="occurrence" value="Genesis_50,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="595" label="Joseph">
+  <attvalues><attvalue for="occurrence" value="Genesis_50,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="599" label="Ephron">
+  <attvalues><attvalue for="occurrence" value="Genesis_50,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="21">
+<edge id="1" source="598" target="599" weight="1.0" label="Genesis_50,"/>
+<edge id="2" source="598" target="603" weight="1.0" label="Genesis_50,"/>
+<edge id="3" source="598" target="597" weight="0.25" label="Genesis_50,"/>
+<edge id="4" source="598" target="604" weight="1.0" label="Genesis_50,"/>
+<edge id="5" source="596" target="598" weight="0.25" label="Genesis_50,"/>
+<edge id="6" source="596" target="603" weight="0.25" label="Genesis_50,"/>
+<edge id="7" source="596" target="604" weight="0.25" label="Genesis_50,"/>
+<edge id="8" source="601" target="602" weight="1.0" label="Genesis_50,"/>
+<edge id="9" source="600" target="601" weight="0.25" label="Genesis_50,"/>
+<edge id="10" source="600" target="602" weight="0.25" label="Genesis_50,"/>
+<edge id="11" source="603" target="604" weight="1.0" label="Genesis_50,"/>
+<edge id="12" source="597" target="599" weight="0.25" label="Genesis_50,"/>
+<edge id="13" source="595" target="599" weight="0.46" label="Genesis_50,"/>
+<edge id="14" source="595" target="598" weight="0.93" label="Genesis_50,"/>
+<edge id="15" source="595" target="602" weight="1.73" label="Genesis_50,"/>
+<edge id="16" source="595" target="596" weight="1.52" label="Genesis_50,"/>
+<edge id="17" source="595" target="601" weight="1.73" label="Genesis_50,"/>
+<edge id="18" source="595" target="600" weight="1.77" label="Genesis_50,"/>
+<edge id="19" source="595" target="603" weight="0.47" label="Genesis_50,"/>
+<edge id="20" source="595" target="597" weight="0.33" label="Genesis_50,"/>
+<edge id="21" source="595" target="604" weight="0.47" label="Genesis_50,"/>
+</edges>
+</graph></gexf>

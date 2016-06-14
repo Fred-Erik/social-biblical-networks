@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="10">
+
+<node id="726" label="Egypt">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="733" label="Manasseh">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+<node id="727" label="Hebrew">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="728" label="Joseph">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="725" label="Nile">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="730" label="Asenath">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="732" label="Heliopolis">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="729" label="ZaphenathPaneah">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="734" label="Ephraim">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="731" label="Potiphera">
+  <attvalues><attvalue for="occurrence" value="Genesis_41,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="25">
+<edge id="1" source="731" target="730" weight="2.02" label="Genesis_41,"/>
+<edge id="2" source="731" target="733" weight="0.26" label="Genesis_41,"/>
+<edge id="3" source="731" target="729" weight="0.26" label="Genesis_41,"/>
+<edge id="4" source="731" target="726" weight="0.75" label="Genesis_41,"/>
+<edge id="5" source="731" target="732" weight="2.02" label="Genesis_41,"/>
+<edge id="6" source="730" target="733" weight="0.26" label="Genesis_41,"/>
+<edge id="7" source="730" target="729" weight="0.26" label="Genesis_41,"/>
+<edge id="8" source="730" target="726" weight="0.75" label="Genesis_41,"/>
+<edge id="9" source="730" target="732" weight="2.02" label="Genesis_41,"/>
+<edge id="10" source="728" target="731" weight="2.35" label="Genesis_41,"/>
+<edge id="11" source="728" target="730" weight="2.35" label="Genesis_41,"/>
+<edge id="12" source="728" target="729" weight="1.32" label="Genesis_41,"/>
+<edge id="13" source="728" target="733" weight="1.45" label="Genesis_41,"/>
+<edge id="14" source="728" target="734" weight="0.33" label="Genesis_41,"/>
+<edge id="15" source="728" target="725" weight="0.48" label="Genesis_41,"/>
+<edge id="16" source="728" target="726" weight="7.69" label="Genesis_41,"/>
+<edge id="17" source="728" target="732" weight="2.35" label="Genesis_41,"/>
+<edge id="18" source="733" target="734" weight="0.11" label="Genesis_41,"/>
+<edge id="19" source="733" target="726" weight="0.16" label="Genesis_41,"/>
+<edge id="20" source="734" target="726" weight="0.23" label="Genesis_41,"/>
+<edge id="21" source="725" target="726" weight="0.14" label="Genesis_41,"/>
+<edge id="22" source="726" target="729" weight="0.53" label="Genesis_41,"/>
+<edge id="23" source="732" target="733" weight="0.26" label="Genesis_41,"/>
+<edge id="24" source="732" target="729" weight="0.26" label="Genesis_41,"/>
+<edge id="25" source="732" target="726" weight="0.75" label="Genesis_41,"/>
+</edges>
+</graph></gexf>

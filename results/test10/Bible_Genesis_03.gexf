@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="3">
+
+<node id="10" label="Eve">
+  <attvalues><attvalue for="occurrence" value="Genesis_3,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="9" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_3,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="11" label="Eden">
+  <attvalues><attvalue for="occurrence" value="Genesis_3,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+</nodes>
+<edges count="2">
+<edge id="1" source="9" target="11" weight="1.16" label="Genesis_3,"/>
+<edge id="2" source="9" target="10" weight="0.16" label="Genesis_3,"/>
+</edges>
+</graph></gexf>

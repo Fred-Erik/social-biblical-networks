@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="8">
+
+<node id="3" label="valley">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_5,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="7" label="Gezer">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_5,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="6" label="Geba">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_5,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="4" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_5,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="1" label="David">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_5,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="0" label="Philistine">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_5,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="5" label="BaalPerazim">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_5,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="2" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_5,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+</nodes>
+<edges count="18">
+<edge id="1" source="6" target="7" weight="1.0" label="Samuel_II_5,"/>
+<edge id="2" source="1" target="6" weight="0.28" label="Samuel_II_5,"/>
+<edge id="3" source="1" target="7" weight="0.28" label="Samuel_II_5,"/>
+<edge id="4" source="1" target="3" weight="0.88" label="Samuel_II_5,"/>
+<edge id="5" source="1" target="5" weight="1.67" label="Samuel_II_5,"/>
+<edge id="6" source="1" target="2" weight="1.41" label="Samuel_II_5,"/>
+<edge id="7" source="4" target="6" weight="0.38" label="Samuel_II_5,"/>
+<edge id="8" source="4" target="7" weight="0.38" label="Samuel_II_5,"/>
+<edge id="9" source="4" target="3" weight="0.62" label="Samuel_II_5,"/>
+<edge id="10" source="4" target="5" weight="0.47" label="Samuel_II_5,"/>
+<edge id="11" source="4" target="1" weight="5.16" label="Samuel_II_5,"/>
+<edge id="12" source="4" target="0" weight="2.65" label="Samuel_II_5,"/>
+<edge id="13" source="0" target="6" weight="1.13" label="Samuel_II_5,"/>
+<edge id="14" source="0" target="7" weight="1.13" label="Samuel_II_5,"/>
+<edge id="15" source="0" target="3" weight="0.75" label="Samuel_II_5,"/>
+<edge id="16" source="0" target="1" weight="5.39" label="Samuel_II_5,"/>
+<edge id="17" source="0" target="5" weight="0.45" label="Samuel_II_5,"/>
+<edge id="18" source="0" target="2" weight="1.32" label="Samuel_II_5,"/>
+</edges>
+</graph></gexf>

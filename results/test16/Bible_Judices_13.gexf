@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="5">
+
+<node id="167" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Judices_13,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="170" label="Lord">
+  <attvalues><attvalue for="occurrence" value="Judices_13,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="171" label="Samson">
+  <attvalues><attvalue for="occurrence" value="Judices_13,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="168" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Judices_13,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="169" label="Manoah">
+  <attvalues><attvalue for="occurrence" value="Judices_13,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="5">
+<edge id="1" source="168" target="171" weight="0.23" label="Judices_13,"/>
+<edge id="2" source="168" target="169" weight="12.37" label="Judices_13,"/>
+<edge id="3" source="168" target="167" weight="1.29" label="Judices_13,"/>
+<edge id="4" source="168" target="170" weight="0.12" label="Judices_13,"/>
+<edge id="5" source="169" target="170" weight="0.21" label="Judices_13,"/>
+</edges>
+</graph></gexf>

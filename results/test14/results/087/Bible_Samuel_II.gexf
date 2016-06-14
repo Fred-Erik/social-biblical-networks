@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="5">
+
+<node id="3" label="Araunah">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_24,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="0" label="Gad">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_24,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="1" label="David">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_24,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="4" label="Jebusite">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_24,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="2" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_24,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="10">
+<edge id="1" source="3" target="2" weight="2.85" label="Samuel_II_24,"/>
+<edge id="2" source="3" target="4" weight="1.19" label="Samuel_II_24,"/>
+<edge id="3" source="2" target="4" weight="1.27" label="Samuel_II_24,"/>
+<edge id="4" source="1" target="3" weight="2.26" label="Samuel_II_24,"/>
+<edge id="5" source="1" target="2" weight="2.12" label="Samuel_II_24,"/>
+<edge id="6" source="1" target="0" weight="2.12" label="Samuel_II_24,"/>
+<edge id="7" source="1" target="4" weight="0.33" label="Samuel_II_24,"/>
+<edge id="8" source="0" target="3" weight="0.74" label="Samuel_II_24,"/>
+<edge id="9" source="0" target="2" weight="1.38" label="Samuel_II_24,"/>
+<edge id="10" source="0" target="4" weight="0.31" label="Samuel_II_24,"/>
+</edges>
+</graph></gexf>

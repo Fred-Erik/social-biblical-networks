@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="5">
+
+<node id="0" label="Solomon">
+  <attvalues><attvalue for="occurrence" value="Reges_I_10,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="4" label="Hiram">
+  <attvalues><attvalue for="occurrence" value="Reges_I_10,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="1" label="Arabia">
+  <attvalues><attvalue for="occurrence" value="Reges_I_10,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="3" label="Tarshish">
+  <attvalues><attvalue for="occurrence" value="Reges_I_10,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="2" label="Lebanon">
+  <attvalues><attvalue for="occurrence" value="Reges_I_10,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+</nodes>
+<edges count="7">
+<edge id="1" source="0" target="1" weight="1.4" label="Reges_I_10,"/>
+<edge id="2" source="0" target="4" weight="0.51" label="Reges_I_10,"/>
+<edge id="3" source="0" target="2" weight="0.52" label="Reges_I_10,"/>
+<edge id="4" source="3" target="0" weight="1.07" label="Reges_I_10,"/>
+<edge id="5" source="3" target="1" weight="0.1" label="Reges_I_10,"/>
+<edge id="6" source="3" target="4" weight="1.25" label="Reges_I_10,"/>
+<edge id="7" source="3" target="2" weight="0.11" label="Reges_I_10,"/>
+</edges>
+</graph></gexf>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="24">
+
+<node id="590" label="Sarah">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="585" label="Almighty">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="587" label="Ephron">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="589" label="Abraham">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="571" label="Jacob">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="584" label="Joseph">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="592" label="Rebekah">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="580" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="577" label="Zebulun">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="583" label="Naphtali">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="591" label="Isaac">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="572" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="573" label="Reuben">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="578" label="Issachar">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="581" label="Gad">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="588" label="Canaan">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="593" label="Leah">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="594" label="Heth">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="582" label="Asher">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="575" label="Levi">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+<node id="586" label="Benjamin">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="576" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="579" label="Dan">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="574" label="Simeon">
+  <attvalues><attvalue for="occurrence" value="Genesis_49,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+</nodes>
+<edges count="50">
+<edge id="1" source="587" target="592" weight="0.36" label="Genesis_49,"/>
+<edge id="2" source="587" target="591" weight="0.36" label="Genesis_49,"/>
+<edge id="3" source="587" target="594" weight="0.1" label="Genesis_49,"/>
+<edge id="4" source="587" target="590" weight="1.25" label="Genesis_49,"/>
+<edge id="5" source="587" target="589" weight="1.25" label="Genesis_49,"/>
+<edge id="6" source="587" target="593" weight="0.17" label="Genesis_49,"/>
+<edge id="7" source="587" target="588" weight="1.25" label="Genesis_49,"/>
+<edge id="8" source="592" target="594" weight="0.11" label="Genesis_49,"/>
+<edge id="9" source="592" target="593" weight="0.25" label="Genesis_49,"/>
+<edge id="10" source="575" target="574" weight="1.0" label="Genesis_49,"/>
+<edge id="11" source="591" target="592" weight="1.0" label="Genesis_49,"/>
+<edge id="12" source="591" target="594" weight="0.11" label="Genesis_49,"/>
+<edge id="13" source="591" target="593" weight="0.25" label="Genesis_49,"/>
+<edge id="14" source="590" target="592" weight="0.25" label="Genesis_49,"/>
+<edge id="15" source="590" target="591" weight="0.25" label="Genesis_49,"/>
+<edge id="16" source="590" target="593" weight="0.11" label="Genesis_49,"/>
+<edge id="17" source="581" target="582" weight="0.25" label="Genesis_49,"/>
+<edge id="18" source="581" target="583" weight="0.11" label="Genesis_49,"/>
+<edge id="19" source="572" target="573" weight="0.26" label="Genesis_49,"/>
+<edge id="20" source="572" target="576" weight="0.33" label="Genesis_49,"/>
+<edge id="21" source="572" target="580" weight="0.12" label="Genesis_49,"/>
+<edge id="22" source="572" target="585" weight="0.27" label="Genesis_49,"/>
+<edge id="23" source="572" target="584" weight="0.12" label="Genesis_49,"/>
+<edge id="24" source="572" target="579" weight="1.27" label="Genesis_49,"/>
+<edge id="25" source="589" target="592" weight="0.25" label="Genesis_49,"/>
+<edge id="26" source="589" target="591" weight="0.25" label="Genesis_49,"/>
+<edge id="27" source="589" target="590" weight="1.0" label="Genesis_49,"/>
+<edge id="28" source="589" target="593" weight="0.11" label="Genesis_49,"/>
+<edge id="29" source="589" target="588" weight="1.0" label="Genesis_49,"/>
+<edge id="30" source="580" target="581" weight="0.25" label="Genesis_49,"/>
+<edge id="31" source="580" target="582" weight="0.11" label="Genesis_49,"/>
+<edge id="32" source="593" target="594" weight="0.25" label="Genesis_49,"/>
+<edge id="33" source="588" target="592" weight="0.25" label="Genesis_49,"/>
+<edge id="34" source="588" target="591" weight="0.25" label="Genesis_49,"/>
+<edge id="35" source="588" target="590" weight="1.0" label="Genesis_49,"/>
+<edge id="36" source="588" target="593" weight="0.11" label="Genesis_49,"/>
+<edge id="37" source="584" target="586" weight="0.26" label="Genesis_49,"/>
+<edge id="38" source="571" target="573" weight="0.13" label="Genesis_49,"/>
+<edge id="39" source="571" target="594" weight="0.25" label="Genesis_49,"/>
+<edge id="40" source="571" target="572" weight="0.82" label="Genesis_49,"/>
+<edge id="41" source="571" target="576" weight="0.17" label="Genesis_49,"/>
+<edge id="42" source="571" target="593" weight="0.11" label="Genesis_49,"/>
+<edge id="43" source="571" target="585" weight="0.12" label="Genesis_49,"/>
+<edge id="44" source="582" target="584" weight="0.12" label="Genesis_49,"/>
+<edge id="45" source="582" target="583" weight="0.25" label="Genesis_49,"/>
+<edge id="46" source="577" target="578" weight="0.25" label="Genesis_49,"/>
+<edge id="47" source="583" target="584" weight="0.26" label="Genesis_49,"/>
+<edge id="48" source="579" target="581" weight="0.17" label="Genesis_49,"/>
+<edge id="49" source="579" target="580" weight="0.36" label="Genesis_49,"/>
+<edge id="50" source="579" target="582" weight="0.1" label="Genesis_49,"/>
+</edges>
+</graph></gexf>

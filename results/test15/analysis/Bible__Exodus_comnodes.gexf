@@ -1,0 +1,39 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="0" />
+      <node id="1" label="1" />
+      <node id="2" label="2" />
+      <node id="3" label="3" />
+      <node id="4" label="4" />
+      <node id="5" label="5" />
+      <node id="6" label="6" />
+      <node id="7" label="7" />
+      <node id="8" label="8" />
+      <node id="9" label="9" />
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="0" weight="29.590000000000003" />
+      <edge id="1" source="0" target="2" weight="33.35" />
+      <edge id="2" source="0" target="3" weight="6.01" />
+      <edge id="3" source="0" target="6" weight="2.7299999999999995" />
+      <edge id="4" source="1" target="1" weight="97.07000000000004" />
+      <edge id="5" source="1" target="2" weight="50.099999999999994" />
+      <edge id="6" source="1" target="3" weight="7.000000000000001" />
+      <edge id="7" source="2" target="2" weight="685.7499999999999" />
+      <edge id="8" source="2" target="3" weight="60.02000000000003" />
+      <edge id="9" source="2" target="4" weight="4.32" />
+      <edge id="10" source="2" target="5" weight="2.5200000000000005" />
+      <edge id="11" source="2" target="6" weight="27.72" />
+      <edge id="12" source="2" target="8" weight="12.150000000000002" />
+      <edge id="13" source="2" target="9" weight="2.58" />
+      <edge id="14" source="3" target="3" weight="131.70000000000005" />
+      <edge id="15" source="3" target="6" weight="8.200000000000001" />
+      <edge id="16" source="4" target="4" weight="2.25" />
+      <edge id="17" source="5" target="5" weight="1.0" />
+      <edge id="18" source="6" target="6" weight="88.05000000000001" />
+      <edge id="19" source="8" target="8" weight="5.390000000000001" />
+      <edge id="20" source="9" target="9" weight="4.0" />
+    </edges>
+  </graph>
+</gexf>

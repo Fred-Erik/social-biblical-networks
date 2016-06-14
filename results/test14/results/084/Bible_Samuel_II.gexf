@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="34">
+
+<node id="16" label="Ammon">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="gens"/></attvalues>
+</node>
+<node id="24" label="Ahilud">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="17" label="Amalek">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+<node id="12" label="Berothai">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="7" label="Aram">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="4" label="Rehob">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="21" label="Joab">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="8" label="Damascus">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="28" label="Abiathar">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="3" label="Hadadezer">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="11" label="Tebah">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="22" label="Zeruiah">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="20" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="15" label="Joram">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="10" label="Jerusalem">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="6" label="Euphrates">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="13" label="Tou">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="32" label="Cherethite">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="9" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="0" label="David">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="27" label="Ahimelech">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="5" label="Zobah">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="29" label="Seraiah">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="14" label="Hamath">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="18" label="theValleyofSalt">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="30" label="Benaiah">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="1" label="Philistine">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="31" label="Jehoiada">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="25" label="Zadok">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="26" label="Ahitub">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="19" label="Edom">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="23" label="Jehoshaphat">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="2" label="Moab">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="33" label="Pelethite">
+  <attvalues><attvalue for="occurrence" value="Samuel_II_8,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+</nodes>
+<edges count="198">
+<edge id="1" source="10" target="14" weight="0.11" label="Samuel_II_8,"/>
+<edge id="2" source="10" target="12" weight="0.25" label="Samuel_II_8,"/>
+<edge id="3" source="10" target="13" weight="0.21" label="Samuel_II_8,"/>
+<edge id="4" source="10" target="11" weight="0.25" label="Samuel_II_8,"/>
+<edge id="5" source="26" target="25" weight="1.0" label="Samuel_II_8,"/>
+<edge id="6" source="26" target="31" weight="0.11" label="Samuel_II_8,"/>
+<edge id="7" source="26" target="32" weight="0.11" label="Samuel_II_8,"/>
+<edge id="8" source="26" target="30" weight="0.11" label="Samuel_II_8,"/>
+<edge id="9" source="26" target="33" weight="0.11" label="Samuel_II_8,"/>
+<edge id="10" source="26" target="29" weight="0.25" label="Samuel_II_8,"/>
+<edge id="11" source="2" target="5" weight="1.33" label="Samuel_II_8,"/>
+<edge id="12" source="2" target="9" weight="1.06" label="Samuel_II_8,"/>
+<edge id="13" source="2" target="13" weight="0.24" label="Samuel_II_8,"/>
+<edge id="14" source="2" target="18" weight="0.25" label="Samuel_II_8,"/>
+<edge id="15" source="2" target="16" weight="1.01" label="Samuel_II_8,"/>
+<edge id="16" source="2" target="4" weight="1.29" label="Samuel_II_8,"/>
+<edge id="17" source="2" target="6" weight="0.28" label="Samuel_II_8,"/>
+<edge id="18" source="2" target="7" weight="1.4" label="Samuel_II_8,"/>
+<edge id="19" source="2" target="19" weight="0.23" label="Samuel_II_8,"/>
+<edge id="20" source="2" target="3" weight="1.63" label="Samuel_II_8,"/>
+<edge id="21" source="2" target="17" weight="1.01" label="Samuel_II_8,"/>
+<edge id="22" source="5" target="9" weight="1.11" label="Samuel_II_8,"/>
+<edge id="23" source="5" target="13" weight="0.26" label="Samuel_II_8,"/>
+<edge id="24" source="5" target="18" weight="0.26" label="Samuel_II_8,"/>
+<edge id="25" source="5" target="16" weight="1.01" label="Samuel_II_8,"/>
+<edge id="26" source="5" target="7" weight="2.83" label="Samuel_II_8,"/>
+<edge id="27" source="5" target="19" weight="0.23" label="Samuel_II_8,"/>
+<edge id="28" source="5" target="17" weight="1.01" label="Samuel_II_8,"/>
+<edge id="29" source="5" target="8" weight="1.19" label="Samuel_II_8,"/>
+<edge id="30" source="28" target="26" weight="1.0" label="Samuel_II_8,"/>
+<edge id="31" source="28" target="25" weight="1.0" label="Samuel_II_8,"/>
+<edge id="32" source="28" target="31" weight="0.11" label="Samuel_II_8,"/>
+<edge id="33" source="28" target="32" weight="0.11" label="Samuel_II_8,"/>
+<edge id="34" source="28" target="30" weight="0.11" label="Samuel_II_8,"/>
+<edge id="35" source="28" target="33" weight="0.11" label="Samuel_II_8,"/>
+<edge id="36" source="28" target="27" weight="1.0" label="Samuel_II_8,"/>
+<edge id="37" source="28" target="29" weight="0.25" label="Samuel_II_8,"/>
+<edge id="38" source="9" target="10" weight="0.14" label="Samuel_II_8,"/>
+<edge id="39" source="9" target="15" weight="0.1" label="Samuel_II_8,"/>
+<edge id="40" source="9" target="13" weight="0.34" label="Samuel_II_8,"/>
+<edge id="41" source="9" target="18" weight="0.3" label="Samuel_II_8,"/>
+<edge id="42" source="9" target="16" weight="1.04" label="Samuel_II_8,"/>
+<edge id="43" source="9" target="20" weight="0.27" label="Samuel_II_8,"/>
+<edge id="44" source="9" target="19" weight="0.66" label="Samuel_II_8,"/>
+<edge id="45" source="9" target="17" weight="1.04" label="Samuel_II_8,"/>
+<edge id="46" source="14" target="15" weight="0.25" label="Samuel_II_8,"/>
+<edge id="47" source="12" target="15" weight="0.11" label="Samuel_II_8,"/>
+<edge id="48" source="12" target="14" weight="0.25" label="Samuel_II_8,"/>
+<edge id="49" source="12" target="13" weight="0.42" label="Samuel_II_8,"/>
+<edge id="50" source="13" target="14" weight="1.36" label="Samuel_II_8,"/>
+<edge id="51" source="13" target="15" weight="1.5" label="Samuel_II_8,"/>
+<edge id="52" source="13" target="18" weight="0.13" label="Samuel_II_8,"/>
+<edge id="53" source="13" target="16" weight="0.21" label="Samuel_II_8,"/>
+<edge id="54" source="13" target="19" weight="0.2" label="Samuel_II_8,"/>
+<edge id="55" source="13" target="17" weight="0.21" label="Samuel_II_8,"/>
+<edge id="56" source="18" target="19" weight="0.42" label="Samuel_II_8,"/>
+<edge id="57" source="25" target="31" weight="0.11" label="Samuel_II_8,"/>
+<edge id="58" source="25" target="32" weight="0.11" label="Samuel_II_8,"/>
+<edge id="59" source="25" target="30" weight="0.11" label="Samuel_II_8,"/>
+<edge id="60" source="25" target="33" weight="0.11" label="Samuel_II_8,"/>
+<edge id="61" source="25" target="29" weight="0.25" label="Samuel_II_8,"/>
+<edge id="62" source="16" target="18" weight="0.25" label="Samuel_II_8,"/>
+<edge id="63" source="16" target="19" weight="0.21" label="Samuel_II_8,"/>
+<edge id="64" source="21" target="26" weight="0.11" label="Samuel_II_8,"/>
+<edge id="65" source="21" target="28" weight="0.11" label="Samuel_II_8,"/>
+<edge id="66" source="21" target="25" weight="0.11" label="Samuel_II_8,"/>
+<edge id="67" source="21" target="24" weight="0.25" label="Samuel_II_8,"/>
+<edge id="68" source="21" target="27" weight="0.11" label="Samuel_II_8,"/>
+<edge id="69" source="21" target="23" weight="0.25" label="Samuel_II_8,"/>
+<edge id="70" source="24" target="26" weight="0.25" label="Samuel_II_8,"/>
+<edge id="71" source="24" target="28" weight="0.25" label="Samuel_II_8,"/>
+<edge id="72" source="24" target="25" weight="0.25" label="Samuel_II_8,"/>
+<edge id="73" source="24" target="27" weight="0.25" label="Samuel_II_8,"/>
+<edge id="74" source="24" target="23" weight="1.0" label="Samuel_II_8,"/>
+<edge id="75" source="24" target="29" weight="0.11" label="Samuel_II_8,"/>
+<edge id="76" source="4" target="5" weight="2.05" label="Samuel_II_8,"/>
+<edge id="77" source="4" target="9" weight="1.06" label="Samuel_II_8,"/>
+<edge id="78" source="4" target="13" weight="0.23" label="Samuel_II_8,"/>
+<edge id="79" source="4" target="18" weight="0.25" label="Samuel_II_8,"/>
+<edge id="80" source="4" target="16" weight="1.0" label="Samuel_II_8,"/>
+<edge id="81" source="4" target="7" weight="1.39" label="Samuel_II_8,"/>
+<edge id="82" source="4" target="6" weight="1.0" label="Samuel_II_8,"/>
+<edge id="83" source="4" target="19" weight="0.22" label="Samuel_II_8,"/>
+<edge id="84" source="4" target="17" weight="1.0" label="Samuel_II_8,"/>
+<edge id="85" source="6" target="5" weight="1.04" label="Samuel_II_8,"/>
+<edge id="86" source="6" target="7" weight="0.11" label="Samuel_II_8,"/>
+<edge id="87" source="0" target="10" weight="1.02" label="Samuel_II_8,"/>
+<edge id="88" source="0" target="26" weight="0.27" label="Samuel_II_8,"/>
+<edge id="89" source="0" target="2" weight="3.59" label="Samuel_II_8,"/>
+<edge id="90" source="0" target="5" weight="4.13" label="Samuel_II_8,"/>
+<edge id="91" source="0" target="28" weight="0.27" label="Samuel_II_8,"/>
+<edge id="92" source="0" target="9" weight="5.23" label="Samuel_II_8,"/>
+<edge id="93" source="0" target="14" weight="1.81" label="Samuel_II_8,"/>
+<edge id="94" source="0" target="12" weight="1.74" label="Samuel_II_8,"/>
+<edge id="95" source="0" target="13" weight="4.23" label="Samuel_II_8,"/>
+<edge id="96" source="0" target="18" weight="1.55" label="Samuel_II_8,"/>
+<edge id="97" source="0" target="25" weight="0.27" label="Samuel_II_8,"/>
+<edge id="98" source="0" target="16" weight="1.56" label="Samuel_II_8,"/>
+<edge id="99" source="0" target="21" weight="0.56" label="Samuel_II_8,"/>
+<edge id="100" source="0" target="24" weight="0.34" label="Samuel_II_8,"/>
+<edge id="101" source="0" target="4" weight="3.32" label="Samuel_II_8,"/>
+<edge id="102" source="0" target="15" weight="1.66" label="Samuel_II_8,"/>
+<edge id="103" source="0" target="7" weight="9.44" label="Samuel_II_8,"/>
+<edge id="104" source="0" target="31" weight="0.37" label="Samuel_II_8,"/>
+<edge id="105" source="0" target="32" weight="0.37" label="Samuel_II_8,"/>
+<edge id="106" source="0" target="20" weight="1.73" label="Samuel_II_8,"/>
+<edge id="107" source="0" target="30" weight="0.37" label="Samuel_II_8,"/>
+<edge id="108" source="0" target="11" weight="1.74" label="Samuel_II_8,"/>
+<edge id="109" source="0" target="33" weight="0.37" label="Samuel_II_8,"/>
+<edge id="110" source="0" target="1" weight="3.98" label="Samuel_II_8,"/>
+<edge id="111" source="0" target="6" weight="1.76" label="Samuel_II_8,"/>
+<edge id="112" source="0" target="19" weight="3.07" label="Samuel_II_8,"/>
+<edge id="113" source="0" target="27" weight="0.27" label="Samuel_II_8,"/>
+<edge id="114" source="0" target="23" weight="0.34" label="Samuel_II_8,"/>
+<edge id="115" source="0" target="3" weight="11.89" label="Samuel_II_8,"/>
+<edge id="116" source="0" target="29" weight="0.26" label="Samuel_II_8,"/>
+<edge id="117" source="0" target="17" weight="1.56" label="Samuel_II_8,"/>
+<edge id="118" source="0" target="22" weight="0.56" label="Samuel_II_8,"/>
+<edge id="119" source="0" target="8" weight="2.69" label="Samuel_II_8,"/>
+<edge id="120" source="32" target="31" weight="1.0" label="Samuel_II_8,"/>
+<edge id="121" source="32" target="30" weight="1.0" label="Samuel_II_8,"/>
+<edge id="122" source="32" target="33" weight="1.0" label="Samuel_II_8,"/>
+<edge id="123" source="20" target="21" weight="0.11" label="Samuel_II_8,"/>
+<edge id="124" source="20" target="22" weight="0.11" label="Samuel_II_8,"/>
+<edge id="125" source="30" target="31" weight="1.0" label="Samuel_II_8,"/>
+<edge id="126" source="30" target="33" weight="1.0" label="Samuel_II_8,"/>
+<edge id="127" source="11" target="14" weight="0.25" label="Samuel_II_8,"/>
+<edge id="128" source="11" target="12" weight="1.0" label="Samuel_II_8,"/>
+<edge id="129" source="11" target="15" weight="0.11" label="Samuel_II_8,"/>
+<edge id="130" source="11" target="13" weight="0.42" label="Samuel_II_8,"/>
+<edge id="131" source="33" target="31" weight="1.0" label="Samuel_II_8,"/>
+<edge id="132" source="1" target="2" weight="1.36" label="Samuel_II_8,"/>
+<edge id="133" source="1" target="5" weight="1.06" label="Samuel_II_8,"/>
+<edge id="134" source="1" target="9" weight="1.05" label="Samuel_II_8,"/>
+<edge id="135" source="1" target="13" weight="0.23" label="Samuel_II_8,"/>
+<edge id="136" source="1" target="18" weight="0.25" label="Samuel_II_8,"/>
+<edge id="137" source="1" target="16" weight="1.0" label="Samuel_II_8,"/>
+<edge id="138" source="1" target="4" weight="1.04" label="Samuel_II_8,"/>
+<edge id="139" source="1" target="7" weight="1.33" label="Samuel_II_8,"/>
+<edge id="140" source="1" target="19" weight="0.22" label="Samuel_II_8,"/>
+<edge id="141" source="1" target="3" weight="1.34" label="Samuel_II_8,"/>
+<edge id="142" source="1" target="17" weight="1.0" label="Samuel_II_8,"/>
+<edge id="143" source="7" target="10" weight="0.19" label="Samuel_II_8,"/>
+<edge id="144" source="7" target="9" weight="1.85" label="Samuel_II_8,"/>
+<edge id="145" source="7" target="14" weight="0.14" label="Samuel_II_8,"/>
+<edge id="146" source="7" target="12" weight="0.15" label="Samuel_II_8,"/>
+<edge id="147" source="7" target="13" weight="0.52" label="Samuel_II_8,"/>
+<edge id="148" source="7" target="18" weight="1.28" label="Samuel_II_8,"/>
+<edge id="149" source="7" target="16" weight="1.28" label="Samuel_II_8,"/>
+<edge id="150" source="7" target="15" weight="0.16" label="Samuel_II_8,"/>
+<edge id="151" source="7" target="11" weight="0.15" label="Samuel_II_8,"/>
+<edge id="152" source="7" target="19" weight="0.7" label="Samuel_II_8,"/>
+<edge id="153" source="7" target="17" weight="1.28" label="Samuel_II_8,"/>
+<edge id="154" source="7" target="8" weight="3.06" label="Samuel_II_8,"/>
+<edge id="155" source="19" target="20" weight="0.21" label="Samuel_II_8,"/>
+<edge id="156" source="27" target="26" weight="1.0" label="Samuel_II_8,"/>
+<edge id="157" source="27" target="25" weight="1.0" label="Samuel_II_8,"/>
+<edge id="158" source="27" target="31" weight="0.11" label="Samuel_II_8,"/>
+<edge id="159" source="27" target="32" weight="0.11" label="Samuel_II_8,"/>
+<edge id="160" source="27" target="30" weight="0.11" label="Samuel_II_8,"/>
+<edge id="161" source="27" target="33" weight="0.11" label="Samuel_II_8,"/>
+<edge id="162" source="27" target="29" weight="0.25" label="Samuel_II_8,"/>
+<edge id="163" source="23" target="26" weight="0.25" label="Samuel_II_8,"/>
+<edge id="164" source="23" target="28" weight="0.25" label="Samuel_II_8,"/>
+<edge id="165" source="23" target="25" weight="0.25" label="Samuel_II_8,"/>
+<edge id="166" source="23" target="27" weight="0.25" label="Samuel_II_8,"/>
+<edge id="167" source="23" target="29" weight="0.11" label="Samuel_II_8,"/>
+<edge id="168" source="3" target="10" weight="0.76" label="Samuel_II_8,"/>
+<edge id="169" source="3" target="6" weight="1.08" label="Samuel_II_8,"/>
+<edge id="170" source="3" target="5" weight="3.46" label="Samuel_II_8,"/>
+<edge id="171" source="3" target="9" weight="1.82" label="Samuel_II_8,"/>
+<edge id="172" source="3" target="14" weight="1.73" label="Samuel_II_8,"/>
+<edge id="173" source="3" target="12" weight="1.59" label="Samuel_II_8,"/>
+<edge id="174" source="3" target="13" weight="5.04" label="Samuel_II_8,"/>
+<edge id="175" source="3" target="18" weight="0.42" label="Samuel_II_8,"/>
+<edge id="176" source="3" target="16" weight="1.27" label="Samuel_II_8,"/>
+<edge id="177" source="3" target="4" weight="2.34" label="Samuel_II_8,"/>
+<edge id="178" source="3" target="15" weight="1.73" label="Samuel_II_8,"/>
+<edge id="179" source="3" target="11" weight="1.59" label="Samuel_II_8,"/>
+<edge id="180" source="3" target="7" weight="3.77" label="Samuel_II_8,"/>
+<edge id="181" source="3" target="19" weight="0.5" label="Samuel_II_8,"/>
+<edge id="182" source="3" target="17" weight="1.27" label="Samuel_II_8,"/>
+<edge id="183" source="3" target="8" weight="1.4" label="Samuel_II_8,"/>
+<edge id="184" source="29" target="31" weight="0.25" label="Samuel_II_8,"/>
+<edge id="185" source="29" target="32" weight="0.25" label="Samuel_II_8,"/>
+<edge id="186" source="29" target="30" weight="0.25" label="Samuel_II_8,"/>
+<edge id="187" source="29" target="33" weight="0.25" label="Samuel_II_8,"/>
+<edge id="188" source="17" target="18" weight="0.25" label="Samuel_II_8,"/>
+<edge id="189" source="17" target="16" weight="1.0" label="Samuel_II_8,"/>
+<edge id="190" source="17" target="19" weight="0.21" label="Samuel_II_8,"/>
+<edge id="191" source="22" target="26" weight="0.11" label="Samuel_II_8,"/>
+<edge id="192" source="22" target="28" weight="0.11" label="Samuel_II_8,"/>
+<edge id="193" source="22" target="25" weight="0.11" label="Samuel_II_8,"/>
+<edge id="194" source="22" target="21" weight="1.0" label="Samuel_II_8,"/>
+<edge id="195" source="22" target="27" weight="0.11" label="Samuel_II_8,"/>
+<edge id="196" source="22" target="23" weight="0.25" label="Samuel_II_8,"/>
+<edge id="197" source="22" target="24" weight="0.25" label="Samuel_II_8,"/>
+<edge id="198" source="8" target="9" weight="0.17" label="Samuel_II_8,"/>
+</edges>
+</graph></gexf>

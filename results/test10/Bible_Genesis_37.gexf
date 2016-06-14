@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="17">
+
+<node id="688" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="687" label="Zilpah">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="gens"/></attvalues>
+</node>
+<node id="699" label="Potiphar">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="696" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="695" label="Egypt">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="692" label="Reuben">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="691" label="Dothan">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="693" label="Ishmaelite">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="686" label="motherofDanNaphtali">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="694" label="Gilead">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="690" label="Hebron">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="698" label="Medanite">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="689" label="Shechem">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="697" label="Midianite">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="683" label="Jacob">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="684" label="Canaan">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="685" label="Joseph">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="31">
+<edge id="1" source="689" target="690" weight="0.27" label="Genesis_37,"/>
+<edge id="2" source="687" target="686" weight="1.0" label="Genesis_37,"/>
+<edge id="3" source="687" target="688" weight="0.11" label="Genesis_37,"/>
+<edge id="4" source="685" target="689" weight="0.53" label="Genesis_37,"/>
+<edge id="5" source="685" target="687" weight="0.63" label="Genesis_37,"/>
+<edge id="6" source="685" target="683" weight="0.81" label="Genesis_37,"/>
+<edge id="7" source="685" target="686" weight="0.63" label="Genesis_37,"/>
+<edge id="8" source="685" target="684" weight="0.19" label="Genesis_37,"/>
+<edge id="9" source="685" target="695" weight="1.55" label="Genesis_37,"/>
+<edge id="10" source="685" target="692" weight="0.81" label="Genesis_37,"/>
+<edge id="11" source="685" target="693" weight="1.69" label="Genesis_37,"/>
+<edge id="12" source="685" target="691" weight="0.52" label="Genesis_37,"/>
+<edge id="13" source="685" target="697" weight="0.25" label="Genesis_37,"/>
+<edge id="14" source="685" target="688" weight="2.34" label="Genesis_37,"/>
+<edge id="15" source="683" target="686" weight="0.17" label="Genesis_37,"/>
+<edge id="16" source="683" target="687" weight="0.17" label="Genesis_37,"/>
+<edge id="17" source="686" target="688" weight="0.11" label="Genesis_37,"/>
+<edge id="18" source="684" target="683" weight="1.25" label="Genesis_37,"/>
+<edge id="19" source="694" target="693" weight="1.02" label="Genesis_37,"/>
+<edge id="20" source="694" target="696" weight="0.11" label="Genesis_37,"/>
+<edge id="21" source="699" target="695" weight="1.0" label="Genesis_37,"/>
+<edge id="22" source="695" target="694" weight="0.25" label="Genesis_37,"/>
+<edge id="23" source="695" target="692" weight="0.26" label="Genesis_37,"/>
+<edge id="24" source="695" target="693" weight="0.54" label="Genesis_37,"/>
+<edge id="25" source="695" target="696" weight="0.26" label="Genesis_37,"/>
+<edge id="26" source="698" target="699" weight="1.0" label="Genesis_37,"/>
+<edge id="27" source="698" target="695" weight="1.0" label="Genesis_37,"/>
+<edge id="28" source="692" target="693" weight="0.14" label="Genesis_37,"/>
+<edge id="29" source="693" target="697" weight="0.11" label="Genesis_37,"/>
+<edge id="30" source="693" target="696" weight="0.14" label="Genesis_37,"/>
+<edge id="31" source="688" target="689" weight="0.51" label="Genesis_37,"/>
+</edges>
+</graph></gexf>

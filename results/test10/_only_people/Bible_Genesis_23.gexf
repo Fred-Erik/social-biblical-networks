@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="6">
+
+<node id="194" label="Ephron">
+  <attvalues><attvalue for="occurrence" value="Genesis_23,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="191" label="Canaan">
+  <attvalues><attvalue for="occurrence" value="Genesis_23,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="195" label="Zohar">
+  <attvalues><attvalue for="occurrence" value="Genesis_23,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="190" label="Sarah">
+  <attvalues><attvalue for="occurrence" value="Genesis_23,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="193" label="Heth">
+  <attvalues><attvalue for="occurrence" value="Genesis_23,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="192" label="Abraham">
+  <attvalues><attvalue for="occurrence" value="Genesis_23,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="13">
+<edge id="1" source="194" target="195" weight="1.12" label="Genesis_23,"/>
+<edge id="2" source="193" target="194" weight="5.86" label="Genesis_23,"/>
+<edge id="3" source="193" target="195" weight="0.16" label="Genesis_23,"/>
+<edge id="4" source="192" target="194" weight="7.83" label="Genesis_23,"/>
+<edge id="5" source="192" target="193" weight="7.83" label="Genesis_23,"/>
+<edge id="6" source="192" target="195" weight="0.1" label="Genesis_23,"/>
+<edge id="7" source="191" target="192" weight="1.12" label="Genesis_23,"/>
+<edge id="8" source="191" target="194" weight="0.25" label="Genesis_23,"/>
+<edge id="9" source="191" target="193" weight="0.52" label="Genesis_23,"/>
+<edge id="10" source="190" target="192" weight="3.25" label="Genesis_23,"/>
+<edge id="11" source="190" target="194" weight="0.49" label="Genesis_23,"/>
+<edge id="12" source="190" target="191" weight="0.93" label="Genesis_23,"/>
+<edge id="13" source="190" target="193" weight="0.77" label="Genesis_23,"/>
+</edges>
+</graph></gexf>

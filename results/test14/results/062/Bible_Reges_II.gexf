@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="8">
+
+<node id="4" label="David">
+  <attvalues><attvalue for="occurrence" value="Reges_II_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="6" label="Hezekiah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="2" label="Amoz">
+  <attvalues><attvalue for="occurrence" value="Reges_II_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="7" label="Ahaz">
+  <attvalues><attvalue for="occurrence" value="Reges_II_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="3" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Reges_II_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="5" label="Asshur">
+  <attvalues><attvalue for="occurrence" value="Reges_II_20,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="0" label="Hizkiah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="1" label="Isaiah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="15">
+<edge id="1" source="0" target="2" weight="0.27" label="Reges_II_20,"/>
+<edge id="2" source="0" target="1" weight="1.55" label="Reges_II_20,"/>
+<edge id="3" source="0" target="3" weight="1.27" label="Reges_II_20,"/>
+<edge id="4" source="0" target="4" weight="0.32" label="Reges_II_20,"/>
+<edge id="5" source="1" target="7" weight="0.27" label="Reges_II_20,"/>
+<edge id="6" source="1" target="5" weight="0.15" label="Reges_II_20,"/>
+<edge id="7" source="1" target="3" weight="2.74" label="Reges_II_20,"/>
+<edge id="8" source="1" target="4" weight="0.36" label="Reges_II_20,"/>
+<edge id="9" source="1" target="2" weight="1.01" label="Reges_II_20,"/>
+<edge id="10" source="3" target="7" weight="0.29" label="Reges_II_20,"/>
+<edge id="11" source="3" target="6" weight="0.19" label="Reges_II_20,"/>
+<edge id="12" source="3" target="5" weight="0.19" label="Reges_II_20,"/>
+<edge id="13" source="3" target="4" weight="1.28" label="Reges_II_20,"/>
+<edge id="14" source="4" target="5" weight="0.27" label="Reges_II_20,"/>
+<edge id="15" source="2" target="3" weight="0.16" label="Reges_II_20,"/>
+</edges>
+</graph></gexf>

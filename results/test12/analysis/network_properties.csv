@@ -1,0 +1,3 @@
+graph,density,avg_clust,centralization_betweenness_centrality,centralization_eigenvector_centrality,centralization_closeness_centrality
+Jesaia,0.22416,0.75751,0.00767,0.01048,0.02651
+Reges_II,0.20404,0.73428,0.0103,0.00952,0.02395

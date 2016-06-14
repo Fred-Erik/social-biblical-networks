@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="11">
+
+<node id="286" label="Bered">
+  <attvalues><attvalue for="occurrence" value="Genesis_16,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="277" label="Abram">
+  <attvalues><attvalue for="occurrence" value="Genesis_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="283" label="Ishmael">
+  <attvalues><attvalue for="occurrence" value="Genesis_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="281" label="Canaan">
+  <attvalues><attvalue for="occurrence" value="Genesis_16,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="285" label="Kadesh">
+  <attvalues><attvalue for="occurrence" value="Genesis_16,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="279" label="Hagar">
+  <attvalues><attvalue for="occurrence" value="Genesis_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="280" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="276" label="Sarai">
+  <attvalues><attvalue for="occurrence" value="Genesis_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="284" label="BeerLahaiRoi">
+  <attvalues><attvalue for="occurrence" value="Genesis_16,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="278" label="Egyptian">
+  <attvalues><attvalue for="occurrence" value="Genesis_16,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="282" label="Shur">
+  <attvalues><attvalue for="occurrence" value="Genesis_16,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+</nodes>
+<edges count="32">
+<edge id="1" source="276" target="282" weight="0.31" label="Genesis_16,"/>
+<edge id="2" source="276" target="280" weight="1.57" label="Genesis_16,"/>
+<edge id="3" source="276" target="279" weight="3.21" label="Genesis_16,"/>
+<edge id="4" source="276" target="281" weight="1.32" label="Genesis_16,"/>
+<edge id="5" source="276" target="277" weight="7.58" label="Genesis_16,"/>
+<edge id="6" source="276" target="278" weight="1.73" label="Genesis_16,"/>
+<edge id="7" source="283" target="285" weight="0.18" label="Genesis_16,"/>
+<edge id="8" source="283" target="284" weight="0.11" label="Genesis_16,"/>
+<edge id="9" source="283" target="286" weight="0.18" label="Genesis_16,"/>
+<edge id="10" source="280" target="282" weight="1.08" label="Genesis_16,"/>
+<edge id="11" source="280" target="283" weight="0.43" label="Genesis_16,"/>
+<edge id="12" source="285" target="286" weight="1.0" label="Genesis_16,"/>
+<edge id="13" source="279" target="282" weight="0.12" label="Genesis_16,"/>
+<edge id="14" source="279" target="280" weight="0.54" label="Genesis_16,"/>
+<edge id="15" source="279" target="285" weight="0.43" label="Genesis_16,"/>
+<edge id="16" source="279" target="283" weight="2.89" label="Genesis_16,"/>
+<edge id="17" source="279" target="281" weight="1.14" label="Genesis_16,"/>
+<edge id="18" source="279" target="284" weight="0.22" label="Genesis_16,"/>
+<edge id="19" source="279" target="286" weight="0.43" label="Genesis_16,"/>
+<edge id="20" source="284" target="285" weight="0.25" label="Genesis_16,"/>
+<edge id="21" source="284" target="286" weight="0.25" label="Genesis_16,"/>
+<edge id="22" source="277" target="280" weight="0.94" label="Genesis_16,"/>
+<edge id="23" source="277" target="285" weight="0.43" label="Genesis_16,"/>
+<edge id="24" source="277" target="279" weight="6.77" label="Genesis_16,"/>
+<edge id="25" source="277" target="281" weight="1.57" label="Genesis_16,"/>
+<edge id="26" source="277" target="284" weight="0.22" label="Genesis_16,"/>
+<edge id="27" source="277" target="278" weight="1.99" label="Genesis_16,"/>
+<edge id="28" source="277" target="286" weight="0.43" label="Genesis_16,"/>
+<edge id="29" source="277" target="283" weight="2.89" label="Genesis_16,"/>
+<edge id="30" source="278" target="280" weight="0.13" label="Genesis_16,"/>
+<edge id="31" source="278" target="279" weight="1.41" label="Genesis_16,"/>
+<edge id="32" source="278" target="281" weight="1.02" label="Genesis_16,"/>
+</edges>
+</graph></gexf>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="12">
+
+<node id="131" label="Zebul">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="130" label="Ebed">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="124" label="JerubBaal">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="129" label="Gaal">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="132" label="Hamor">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="134" label="ElBerith">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="128" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="133" label="Shechem">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="127" label="Midian">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="123" label="Abimelech">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="125" label="BaalBerith">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="126" label="Jotham">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="25">
+<edge id="1" source="129" target="130" weight="5.29" label="Judices_9,"/>
+<edge id="2" source="129" target="131" weight="2.81" label="Judices_9,"/>
+<edge id="3" source="132" target="133" weight="1.0" label="Judices_9,"/>
+<edge id="4" source="124" target="129" weight="0.13" label="Judices_9,"/>
+<edge id="5" source="124" target="127" weight="0.14" label="Judices_9,"/>
+<edge id="6" source="124" target="132" weight="0.25" label="Judices_9,"/>
+<edge id="7" source="124" target="130" weight="0.12" label="Judices_9,"/>
+<edge id="8" source="124" target="131" weight="1.03" label="Judices_9,"/>
+<edge id="9" source="124" target="126" weight="2.36" label="Judices_9,"/>
+<edge id="10" source="124" target="123" weight="4.04" label="Judices_9,"/>
+<edge id="11" source="124" target="133" weight="0.25" label="Judices_9,"/>
+<edge id="12" source="124" target="128" weight="0.16" label="Judices_9,"/>
+<edge id="13" source="131" target="132" weight="0.27" label="Judices_9,"/>
+<edge id="14" source="131" target="130" weight="1.23" label="Judices_9,"/>
+<edge id="15" source="131" target="133" weight="0.27" label="Judices_9,"/>
+<edge id="16" source="123" target="129" weight="3.03" label="Judices_9,"/>
+<edge id="17" source="123" target="127" weight="0.18" label="Judices_9,"/>
+<edge id="18" source="123" target="132" weight="0.2" label="Judices_9,"/>
+<edge id="19" source="123" target="130" weight="1.78" label="Judices_9,"/>
+<edge id="20" source="123" target="131" weight="1.28" label="Judices_9,"/>
+<edge id="21" source="123" target="126" weight="1.03" label="Judices_9,"/>
+<edge id="22" source="123" target="133" weight="0.2" label="Judices_9,"/>
+<edge id="23" source="123" target="125" weight="0.33" label="Judices_9,"/>
+<edge id="24" source="123" target="134" weight="0.48" label="Judices_9,"/>
+<edge id="25" source="123" target="128" weight="2.84" label="Judices_9,"/>
+</edges>
+</graph></gexf>

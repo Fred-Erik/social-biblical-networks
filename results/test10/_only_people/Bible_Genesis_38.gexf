@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="10">
+
+<node id="434" label="Hirah">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="435" label="Shua">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="437" label="Onan">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="442" label="Zerah">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="433" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="440" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="436" label="Er">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="438" label="Shelah2">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="439" label="Tamar">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="441" label="Perez">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="21">
+<edge id="1" source="437" target="440" weight="0.49" label="Genesis_38,"/>
+<edge id="2" source="437" target="438" weight="0.12" label="Genesis_38,"/>
+<edge id="3" source="437" target="439" weight="0.15" label="Genesis_38,"/>
+<edge id="4" source="438" target="440" weight="0.13" label="Genesis_38,"/>
+<edge id="5" source="438" target="439" weight="0.29" label="Genesis_38,"/>
+<edge id="6" source="439" target="440" weight="0.52" label="Genesis_38,"/>
+<edge id="7" source="436" target="437" weight="0.3" label="Genesis_38,"/>
+<edge id="8" source="436" target="440" weight="1.46" label="Genesis_38,"/>
+<edge id="9" source="436" target="438" weight="0.18" label="Genesis_38,"/>
+<edge id="10" source="436" target="439" weight="0.53" label="Genesis_38,"/>
+<edge id="11" source="434" target="439" weight="0.29" label="Genesis_38,"/>
+<edge id="12" source="434" target="435" weight="0.22" label="Genesis_38,"/>
+<edge id="13" source="441" target="442" weight="0.11" label="Genesis_38,"/>
+<edge id="14" source="435" target="439" weight="0.15" label="Genesis_38,"/>
+<edge id="15" source="433" target="437" weight="1.36" label="Genesis_38,"/>
+<edge id="16" source="433" target="440" weight="1.98" label="Genesis_38,"/>
+<edge id="17" source="433" target="438" weight="0.72" label="Genesis_38,"/>
+<edge id="18" source="433" target="439" weight="2.38" label="Genesis_38,"/>
+<edge id="19" source="433" target="436" weight="2.47" label="Genesis_38,"/>
+<edge id="20" source="433" target="434" weight="0.77" label="Genesis_38,"/>
+<edge id="21" source="433" target="435" weight="1.59" label="Genesis_38,"/>
+</edges>
+</graph></gexf>

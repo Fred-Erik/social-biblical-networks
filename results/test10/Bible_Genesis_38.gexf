@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="15">
+
+<node id="712" label="Enaim">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="706" label="Onan">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="710" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="703" label="Canaanite">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="704" label="Shua">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="705" label="Er">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="714" label="Zerah">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="700" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="711" label="Timnah">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="707" label="Shelah2">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="708" label="Kezib">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="701" label="Adullamite">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="713" label="Perez">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="702" label="Hirah">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="709" label="Tamar">
+  <attvalues><attvalue for="occurrence" value="Genesis_38,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="43">
+<edge id="1" source="706" target="710" weight="0.49" label="Genesis_38,"/>
+<edge id="2" source="706" target="707" weight="0.12" label="Genesis_38,"/>
+<edge id="3" source="706" target="709" weight="0.15" label="Genesis_38,"/>
+<edge id="4" source="701" target="702" weight="1.25" label="Genesis_38,"/>
+<edge id="5" source="701" target="703" weight="0.11" label="Genesis_38,"/>
+<edge id="6" source="701" target="704" weight="0.18" label="Genesis_38,"/>
+<edge id="7" source="701" target="709" weight="0.3" label="Genesis_38,"/>
+<edge id="8" source="701" target="711" weight="1.14" label="Genesis_38,"/>
+<edge id="9" source="702" target="703" weight="0.25" label="Genesis_38,"/>
+<edge id="10" source="702" target="704" weight="0.22" label="Genesis_38,"/>
+<edge id="11" source="702" target="709" weight="0.29" label="Genesis_38,"/>
+<edge id="12" source="702" target="711" weight="1.13" label="Genesis_38,"/>
+<edge id="13" source="703" target="704" weight="0.25" label="Genesis_38,"/>
+<edge id="14" source="705" target="706" weight="0.3" label="Genesis_38,"/>
+<edge id="15" source="705" target="710" weight="1.46" label="Genesis_38,"/>
+<edge id="16" source="705" target="707" weight="0.18" label="Genesis_38,"/>
+<edge id="17" source="705" target="709" weight="0.53" label="Genesis_38,"/>
+<edge id="18" source="705" target="708" weight="0.33" label="Genesis_38,"/>
+<edge id="19" source="704" target="711" weight="0.17" label="Genesis_38,"/>
+<edge id="20" source="704" target="709" weight="0.15" label="Genesis_38,"/>
+<edge id="21" source="707" target="710" weight="0.13" label="Genesis_38,"/>
+<edge id="22" source="707" target="712" weight="0.26" label="Genesis_38,"/>
+<edge id="23" source="707" target="709" weight="0.29" label="Genesis_38,"/>
+<edge id="24" source="707" target="711" weight="0.32" label="Genesis_38,"/>
+<edge id="25" source="707" target="708" weight="0.25" label="Genesis_38,"/>
+<edge id="26" source="713" target="714" weight="0.11" label="Genesis_38,"/>
+<edge id="27" source="712" target="711" weight="1.06" label="Genesis_38,"/>
+<edge id="28" source="709" target="710" weight="0.52" label="Genesis_38,"/>
+<edge id="29" source="709" target="711" weight="0.6" label="Genesis_38,"/>
+<edge id="30" source="708" target="709" weight="0.12" label="Genesis_38,"/>
+<edge id="31" source="708" target="710" weight="0.11" label="Genesis_38,"/>
+<edge id="32" source="700" target="706" weight="1.36" label="Genesis_38,"/>
+<edge id="33" source="700" target="701" weight="1.8" label="Genesis_38,"/>
+<edge id="34" source="700" target="702" weight="0.77" label="Genesis_38,"/>
+<edge id="35" source="700" target="704" weight="1.59" label="Genesis_38,"/>
+<edge id="36" source="700" target="703" weight="1.08" label="Genesis_38,"/>
+<edge id="37" source="700" target="705" weight="2.47" label="Genesis_38,"/>
+<edge id="38" source="700" target="707" weight="0.72" label="Genesis_38,"/>
+<edge id="39" source="700" target="712" weight="0.28" label="Genesis_38,"/>
+<edge id="40" source="700" target="709" weight="2.38" label="Genesis_38,"/>
+<edge id="41" source="700" target="711" weight="0.68" label="Genesis_38,"/>
+<edge id="42" source="700" target="708" weight="0.36" label="Genesis_38,"/>
+<edge id="43" source="700" target="710" weight="1.98" label="Genesis_38,"/>
+</edges>
+</graph></gexf>

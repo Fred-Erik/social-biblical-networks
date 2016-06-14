@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="9">
+
+<node id="290" label="Abraham">
+  <attvalues><attvalue for="occurrence" value="Genesis_17,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="294" label="Ishmael">
+  <attvalues><attvalue for="occurrence" value="Genesis_17,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="287" label="Abram">
+  <attvalues><attvalue for="occurrence" value="Genesis_17,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="289" label="Almighty">
+  <attvalues><attvalue for="occurrence" value="Genesis_17,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="292" label="Sarai">
+  <attvalues><attvalue for="occurrence" value="Genesis_17,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="291" label="Canaan">
+  <attvalues><attvalue for="occurrence" value="Genesis_17,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="295" label="Isaac">
+  <attvalues><attvalue for="occurrence" value="Genesis_17,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="288" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_17,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="293" label="Sarah">
+  <attvalues><attvalue for="occurrence" value="Genesis_17,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="13">
+<edge id="1" source="290" target="292" weight="0.29" label="Genesis_17,"/>
+<edge id="2" source="290" target="295" weight="0.31" label="Genesis_17,"/>
+<edge id="3" source="290" target="293" weight="0.93" label="Genesis_17,"/>
+<edge id="4" source="290" target="291" weight="0.14" label="Genesis_17,"/>
+<edge id="5" source="290" target="294" weight="3.56" label="Genesis_17,"/>
+<edge id="6" source="288" target="289" weight="0.11" label="Genesis_17,"/>
+<edge id="7" source="293" target="292" weight="1.01" label="Genesis_17,"/>
+<edge id="8" source="293" target="295" weight="1.31" label="Genesis_17,"/>
+<edge id="9" source="293" target="294" weight="0.46" label="Genesis_17,"/>
+<edge id="10" source="287" target="289" weight="0.21" label="Genesis_17,"/>
+<edge id="11" source="287" target="290" weight="0.34" label="Genesis_17,"/>
+<edge id="12" source="287" target="288" weight="1.27" label="Genesis_17,"/>
+<edge id="13" source="294" target="295" weight="0.31" label="Genesis_17,"/>
+</edges>
+</graph></gexf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="9">
+
+<node id="743" label="Egypt">
+  <attvalues><attvalue for="occurrence" value="Genesis_43,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="745" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Genesis_43,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="744" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Genesis_43,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="749" label="Simeon">
+  <attvalues><attvalue for="occurrence" value="Genesis_43,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="750" label="Egyptian">
+  <attvalues><attvalue for="occurrence" value="Genesis_43,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="747" label="Benjamin">
+  <attvalues><attvalue for="occurrence" value="Genesis_43,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="746" label="Almighty">
+  <attvalues><attvalue for="occurrence" value="Genesis_43,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="748" label="Joseph">
+  <attvalues><attvalue for="occurrence" value="Genesis_43,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="751" label="Hebrew">
+  <attvalues><attvalue for="occurrence" value="Genesis_43,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+</nodes>
+<edges count="9">
+<edge id="1" source="747" target="746" weight="0.3" label="Genesis_43,"/>
+<edge id="2" source="748" target="747" weight="1.54" label="Genesis_43,"/>
+<edge id="3" source="748" target="749" weight="0.31" label="Genesis_43,"/>
+<edge id="4" source="744" target="745" weight="1.02" label="Genesis_43,"/>
+<edge id="5" source="750" target="751" weight="1.25" label="Genesis_43,"/>
+<edge id="6" source="743" target="748" weight="0.41" label="Genesis_43,"/>
+<edge id="7" source="743" target="751" weight="0.25" label="Genesis_43,"/>
+<edge id="8" source="743" target="747" weight="0.3" label="Genesis_43,"/>
+<edge id="9" source="743" target="750" weight="0.36" label="Genesis_43,"/>
+</edges>
+</graph></gexf>

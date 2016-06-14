@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="5">
+
+<node id="18" label="David">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_27,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="20" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_27,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="19" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_27,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="22" label="Zeruiah">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_27,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="21" label="Joab">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_27,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="10">
+<edge id="1" source="20" target="21" weight="0.31" label="Chronica_I_27,"/>
+<edge id="2" source="20" target="22" weight="0.31" label="Chronica_I_27,"/>
+<edge id="3" source="19" target="21" weight="0.11" label="Chronica_I_27,"/>
+<edge id="4" source="19" target="20" weight="0.28" label="Chronica_I_27,"/>
+<edge id="5" source="19" target="22" weight="0.11" label="Chronica_I_27,"/>
+<edge id="6" source="22" target="21" weight="1.0" label="Chronica_I_27,"/>
+<edge id="7" source="18" target="21" weight="0.1" label="Chronica_I_27,"/>
+<edge id="8" source="18" target="20" weight="0.41" label="Chronica_I_27,"/>
+<edge id="9" source="18" target="19" weight="0.27" label="Chronica_I_27,"/>
+<edge id="10" source="18" target="22" weight="0.1" label="Chronica_I_27,"/>
+</edges>
+</graph></gexf>

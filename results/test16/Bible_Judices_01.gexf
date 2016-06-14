@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="22">
+
+<node id="19" label="Asher">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="7" label="Ahiman">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="6" label="Sheshai">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="11" label="Othniel">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="13" label="Moses">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="2" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="14" label="Benjamin">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="21" label="Dan">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="15" label="Joseph">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="5" label="AdoniBezek">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="0" label="Joshua">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="20" label="Naphtali">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="9" label="Caleb">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="3" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="10" label="Acsah">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="4" label="Simeon">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="12" label="Kenaz">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+<node id="17" label="Ephraim">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="8" label="Talmai">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="18" label="Zebulun">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="1" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="16" label="Manasseh">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+</nodes>
+<edges count="37">
+<edge id="1" source="11" target="12" weight="1.0" label="Judices_1,"/>
+<edge id="2" source="8" target="9" weight="0.1" label="Judices_1,"/>
+<edge id="3" source="8" target="6" weight="1.0" label="Judices_1,"/>
+<edge id="4" source="17" target="18" weight="0.11" label="Judices_1,"/>
+<edge id="5" source="3" target="8" weight="0.2" label="Judices_1,"/>
+<edge id="6" source="3" target="6" weight="0.2" label="Judices_1,"/>
+<edge id="7" source="3" target="4" weight="2.6" label="Judices_1,"/>
+<edge id="8" source="3" target="10" weight="0.11" label="Judices_1,"/>
+<edge id="9" source="3" target="9" weight="0.62" label="Judices_1,"/>
+<edge id="10" source="3" target="7" weight="0.2" label="Judices_1,"/>
+<edge id="11" source="3" target="13" weight="1.22" label="Judices_1,"/>
+<edge id="12" source="3" target="5" weight="0.22" label="Judices_1,"/>
+<edge id="13" source="9" target="11" weight="1.15" label="Judices_1,"/>
+<edge id="14" source="9" target="12" weight="1.15" label="Judices_1,"/>
+<edge id="15" source="9" target="10" weight="0.89" label="Judices_1,"/>
+<edge id="16" source="9" target="13" weight="1.29" label="Judices_1,"/>
+<edge id="17" source="6" target="9" weight="0.1" label="Judices_1,"/>
+<edge id="18" source="2" target="9" weight="0.13" label="Judices_1,"/>
+<edge id="19" source="2" target="15" weight="0.53" label="Judices_1,"/>
+<edge id="20" source="2" target="1" weight="1.12" label="Judices_1,"/>
+<edge id="21" source="2" target="4" weight="0.28" label="Judices_1,"/>
+<edge id="22" source="2" target="3" weight="2.06" label="Judices_1,"/>
+<edge id="23" source="2" target="13" weight="0.11" label="Judices_1,"/>
+<edge id="24" source="2" target="5" weight="0.18" label="Judices_1,"/>
+<edge id="25" source="0" target="2" weight="0.32" label="Judices_1,"/>
+<edge id="26" source="0" target="1" weight="0.25" label="Judices_1,"/>
+<edge id="27" source="1" target="3" weight="0.11" label="Judices_1,"/>
+<edge id="28" source="10" target="11" weight="0.5" label="Judices_1,"/>
+<edge id="29" source="10" target="12" weight="0.5" label="Judices_1,"/>
+<edge id="30" source="14" target="9" weight="0.19" label="Judices_1,"/>
+<edge id="31" source="14" target="2" weight="0.22" label="Judices_1,"/>
+<edge id="32" source="14" target="15" weight="0.46" label="Judices_1,"/>
+<edge id="33" source="14" target="3" weight="0.12" label="Judices_1,"/>
+<edge id="34" source="14" target="13" weight="0.18" label="Judices_1,"/>
+<edge id="35" source="7" target="9" weight="0.1" label="Judices_1,"/>
+<edge id="36" source="7" target="8" weight="1.0" label="Judices_1,"/>
+<edge id="37" source="7" target="6" weight="1.0" label="Judices_1,"/>
+</edges>
+</graph></gexf>

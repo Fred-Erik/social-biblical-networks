@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="6">
+
+<node id="190" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Judices_17,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="186" label="Ephraim">
+  <attvalues><attvalue for="occurrence" value="Judices_17,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="191" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Judices_17,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="188" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Judices_17,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="189" label="Micah">
+  <attvalues><attvalue for="occurrence" value="Judices_17,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="187" label="prophet">
+  <attvalues><attvalue for="occurrence" value="Judices_17,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="9">
+<edge id="1" source="189" target="191" weight="0.8" label="Judices_17,"/>
+<edge id="2" source="189" target="188" weight="0.46" label="Judices_17,"/>
+<edge id="3" source="189" target="190" weight="0.3" label="Judices_17,"/>
+<edge id="4" source="186" target="189" weight="1.31" label="Judices_17,"/>
+<edge id="5" source="186" target="191" weight="0.34" label="Judices_17,"/>
+<edge id="6" source="186" target="187" weight="0.27" label="Judices_17,"/>
+<edge id="7" source="187" target="189" weight="0.29" label="Judices_17,"/>
+<edge id="8" source="187" target="190" weight="0.11" label="Judices_17,"/>
+<edge id="9" source="190" target="191" weight="0.15" label="Judices_17,"/>
+</edges>
+</graph></gexf>

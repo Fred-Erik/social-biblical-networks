@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="5">
+
+<node id="36" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_6,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="37" label="Noah">
+  <attvalues><attvalue for="occurrence" value="Genesis_6,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="38" label="Shem">
+  <attvalues><attvalue for="occurrence" value="Genesis_6,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="40" label="Japheth">
+  <attvalues><attvalue for="occurrence" value="Genesis_6,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="39" label="Ham">
+  <attvalues><attvalue for="occurrence" value="Genesis_6,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+</nodes>
+<edges count="7">
+<edge id="1" source="38" target="39" weight="1.0" label="Genesis_6,"/>
+<edge id="2" source="38" target="40" weight="1.0" label="Genesis_6,"/>
+<edge id="3" source="40" target="39" weight="1.0" label="Genesis_6,"/>
+<edge id="4" source="37" target="38" weight="1.49" label="Genesis_6,"/>
+<edge id="5" source="37" target="40" weight="1.49" label="Genesis_6,"/>
+<edge id="6" source="37" target="39" weight="1.49" label="Genesis_6,"/>
+<edge id="7" source="36" target="37" weight="1.72" label="Genesis_6,"/>
+</edges>
+</graph></gexf>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="4">
+
+<node id="151" label="Lord">
+  <attvalues><attvalue for="occurrence" value="Genesis_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="153" label="Sarah">
+  <attvalues><attvalue for="occurrence" value="Genesis_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="150" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="152" label="Abraham">
+  <attvalues><attvalue for="occurrence" value="Genesis_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="5">
+<edge id="1" source="152" target="151" weight="0.23" label="Genesis_18,"/>
+<edge id="2" source="152" target="150" weight="6.4" label="Genesis_18,"/>
+<edge id="3" source="152" target="153" weight="3.25" label="Genesis_18,"/>
+<edge id="4" source="150" target="151" weight="0.11" label="Genesis_18,"/>
+<edge id="5" source="150" target="153" weight="0.85" label="Genesis_18,"/>
+</edges>
+</graph></gexf>

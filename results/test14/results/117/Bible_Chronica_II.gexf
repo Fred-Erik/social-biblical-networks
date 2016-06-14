@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="5">
+
+<node id="16" label="Jeremiah">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_36,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="13" label="Babel">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_36,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="12" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_36,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="15" label="Persia">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_36,"/><attvalue for="nametype" value="gens,topo"/></attvalues>
+</node>
+<node id="14" label="Jerusalem">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_36,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+</nodes>
+<edges count="7">
+<edge id="1" source="13" target="14" weight="0.15" label="Chronica_II_36,"/>
+<edge id="2" source="13" target="12" weight="1.09" label="Chronica_II_36,"/>
+<edge id="3" source="13" target="15" weight="0.12" label="Chronica_II_36,"/>
+<edge id="4" source="16" target="12" weight="1.01" label="Chronica_II_36,"/>
+<edge id="5" source="16" target="15" weight="0.25" label="Chronica_II_36,"/>
+<edge id="6" source="12" target="14" weight="0.13" label="Chronica_II_36,"/>
+<edge id="7" source="12" target="15" weight="0.26" label="Chronica_II_36,"/>
+</edges>
+</graph></gexf>

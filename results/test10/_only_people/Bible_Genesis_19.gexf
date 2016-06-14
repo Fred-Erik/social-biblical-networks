@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="5">
+
+<node id="157" label="Moab">
+  <attvalues><attvalue for="occurrence" value="Genesis_19,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="156" label="Abraham">
+  <attvalues><attvalue for="occurrence" value="Genesis_19,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="158" label="BenAmmi">
+  <attvalues><attvalue for="occurrence" value="Genesis_19,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="154" label="Lot">
+  <attvalues><attvalue for="occurrence" value="Genesis_19,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="155" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_19,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="5">
+<edge id="1" source="157" target="158" weight="0.17" label="Genesis_19,"/>
+<edge id="2" source="155" target="156" weight="1.08" label="Genesis_19,"/>
+<edge id="3" source="154" target="156" weight="0.44" label="Genesis_19,"/>
+<edge id="4" source="154" target="157" weight="0.18" label="Genesis_19,"/>
+<edge id="5" source="154" target="155" weight="0.99" label="Genesis_19,"/>
+</edges>
+</graph></gexf>

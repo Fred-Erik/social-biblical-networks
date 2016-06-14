@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="4">
+
+<node id="217" label="Canaan">
+  <attvalues><attvalue for="occurrence" value="Judices_21,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="215" label="Benjamin">
+  <attvalues><attvalue for="occurrence" value="Judices_21,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="216" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Judices_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="214" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Judices_21,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+</nodes>
+<edges count="4">
+<edge id="1" source="215" target="217" weight="0.19" label="Judices_21,"/>
+<edge id="2" source="215" target="216" weight="1.17" label="Judices_21,"/>
+<edge id="3" source="215" target="214" weight="2.92" label="Judices_21,"/>
+<edge id="4" source="214" target="216" weight="5.55" label="Judices_21,"/>
+</edges>
+</graph></gexf>

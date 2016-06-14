@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="3">
+
+<node id="2" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Reges_II_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="0" label="Jehoash">
+  <attvalues><attvalue for="occurrence" value="Reges_II_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="1" label="Jehoiada">
+  <attvalues><attvalue for="occurrence" value="Reges_II_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="2">
+<edge id="1" source="2" target="1" weight="0.27" label="Reges_II_12,"/>
+<edge id="2" source="1" target="0" weight="1.14" label="Reges_II_12,"/>
+</edges>
+</graph></gexf>

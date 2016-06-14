@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="13">
+
+<node id="88" label="Manasseh">
+  <attvalues><attvalue for="occurrence" value="Judices_6,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+<node id="90" label="Abiezer">
+  <attvalues><attvalue for="occurrence" value="Judices_6,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="93" label="Naphtali">
+  <attvalues><attvalue for="occurrence" value="Judices_6,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="87" label="Lord">
+  <attvalues><attvalue for="occurrence" value="Judices_6,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="81" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Judices_6,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="91" label="Asher">
+  <attvalues><attvalue for="occurrence" value="Judices_6,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="92" label="Zebulun">
+  <attvalues><attvalue for="occurrence" value="Judices_6,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="84" label="Amalek">
+  <attvalues><attvalue for="occurrence" value="Judices_6,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+<node id="89" label="JerubBaal">
+  <attvalues><attvalue for="occurrence" value="Judices_6,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="85" label="Joash">
+  <attvalues><attvalue for="occurrence" value="Judices_6,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="83" label="Midian">
+  <attvalues><attvalue for="occurrence" value="Judices_6,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="86" label="Gideon">
+  <attvalues><attvalue for="occurrence" value="Judices_6,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="82" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Judices_6,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="33">
+<edge id="1" source="83" target="85" weight="0.29" label="Judices_6,"/>
+<edge id="2" source="83" target="86" weight="1.21" label="Judices_6,"/>
+<edge id="3" source="83" target="88" weight="0.1" label="Judices_6,"/>
+<edge id="4" source="83" target="87" weight="0.11" label="Judices_6,"/>
+<edge id="5" source="83" target="84" weight="2.15" label="Judices_6,"/>
+<edge id="6" source="82" target="83" weight="5.39" label="Judices_6,"/>
+<edge id="7" source="82" target="85" weight="0.57" label="Judices_6,"/>
+<edge id="8" source="82" target="86" weight="6.04" label="Judices_6,"/>
+<edge id="9" source="82" target="81" weight="8.15" label="Judices_6,"/>
+<edge id="10" source="82" target="88" weight="0.23" label="Judices_6,"/>
+<edge id="11" source="82" target="90" weight="0.12" label="Judices_6,"/>
+<edge id="12" source="82" target="87" weight="1.52" label="Judices_6,"/>
+<edge id="13" source="82" target="84" weight="0.15" label="Judices_6,"/>
+<edge id="14" source="86" target="85" weight="1.59" label="Judices_6,"/>
+<edge id="15" source="86" target="92" weight="0.15" label="Judices_6,"/>
+<edge id="16" source="86" target="93" weight="0.15" label="Judices_6,"/>
+<edge id="17" source="86" target="88" weight="0.13" label="Judices_6,"/>
+<edge id="18" source="86" target="91" weight="0.15" label="Judices_6,"/>
+<edge id="19" source="86" target="90" weight="0.15" label="Judices_6,"/>
+<edge id="20" source="86" target="87" weight="0.4" label="Judices_6,"/>
+<edge id="21" source="81" target="83" weight="8.18" label="Judices_6,"/>
+<edge id="22" source="81" target="86" weight="0.43" label="Judices_6,"/>
+<edge id="23" source="81" target="88" weight="0.32" label="Judices_6,"/>
+<edge id="24" source="81" target="87" weight="0.32" label="Judices_6,"/>
+<edge id="25" source="81" target="84" weight="0.46" label="Judices_6,"/>
+<edge id="26" source="92" target="93" weight="1.0" label="Judices_6,"/>
+<edge id="27" source="92" target="91" weight="1.0" label="Judices_6,"/>
+<edge id="28" source="88" target="93" weight="0.11" label="Judices_6,"/>
+<edge id="29" source="88" target="92" weight="0.11" label="Judices_6,"/>
+<edge id="30" source="88" target="91" weight="0.11" label="Judices_6,"/>
+<edge id="31" source="88" target="90" weight="0.25" label="Judices_6,"/>
+<edge id="32" source="88" target="87" weight="0.11" label="Judices_6,"/>
+<edge id="33" source="91" target="93" weight="1.0" label="Judices_6,"/>
+</edges>
+</graph></gexf>

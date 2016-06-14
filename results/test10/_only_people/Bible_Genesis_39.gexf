@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="3">
+
+<node id="443" label="Joseph">
+  <attvalues><attvalue for="occurrence" value="Genesis_39,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="445" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_39,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="444" label="Potiphar">
+  <attvalues><attvalue for="occurrence" value="Genesis_39,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="3">
+<edge id="1" source="443" target="445" weight="4.8" label="Genesis_39,"/>
+<edge id="2" source="443" target="444" weight="0.55" label="Genesis_39,"/>
+<edge id="3" source="444" target="445" weight="0.31" label="Genesis_39,"/>
+</edges>
+</graph></gexf>

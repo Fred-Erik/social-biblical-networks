@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="12">
+
+<node id="546" label="Shechem">
+  <attvalues><attvalue for="occurrence" value="Genesis_33,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="539" label="Jacob">
+  <attvalues><attvalue for="occurrence" value="Genesis_33,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="543" label="Joseph">
+  <attvalues><attvalue for="occurrence" value="Genesis_33,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="550" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Genesis_33,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="540" label="Esau">
+  <attvalues><attvalue for="occurrence" value="Genesis_33,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="541" label="Leah">
+  <attvalues><attvalue for="occurrence" value="Genesis_33,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="542" label="Rachel">
+  <attvalues><attvalue for="occurrence" value="Genesis_33,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="547" label="Canaan">
+  <attvalues><attvalue for="occurrence" value="Genesis_33,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="549" label="Hamor">
+  <attvalues><attvalue for="occurrence" value="Genesis_33,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="545" label="Succoth">
+  <attvalues><attvalue for="occurrence" value="Genesis_33,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="548" label="Aram">
+  <attvalues><attvalue for="occurrence" value="Genesis_33,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="544" label="Seir">
+  <attvalues><attvalue for="occurrence" value="Genesis_33,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+</nodes>
+<edges count="24">
+<edge id="1" source="539" target="547" weight="1.04" label="Genesis_33,"/>
+<edge id="2" source="539" target="546" weight="1.12" label="Genesis_33,"/>
+<edge id="3" source="539" target="540" weight="0.51" label="Genesis_33,"/>
+<edge id="4" source="539" target="545" weight="1.36" label="Genesis_33,"/>
+<edge id="5" source="539" target="548" weight="1.04" label="Genesis_33,"/>
+<edge id="6" source="539" target="544" weight="0.31" label="Genesis_33,"/>
+<edge id="7" source="540" target="542" weight="0.31" label="Genesis_33,"/>
+<edge id="8" source="540" target="543" weight="0.16" label="Genesis_33,"/>
+<edge id="9" source="540" target="541" weight="0.3" label="Genesis_33,"/>
+<edge id="10" source="540" target="545" weight="0.33" label="Genesis_33,"/>
+<edge id="11" source="540" target="544" weight="1.32" label="Genesis_33,"/>
+<edge id="12" source="545" target="547" weight="0.29" label="Genesis_33,"/>
+<edge id="13" source="545" target="548" weight="0.29" label="Genesis_33,"/>
+<edge id="14" source="545" target="544" weight="0.32" label="Genesis_33,"/>
+<edge id="15" source="542" target="543" weight="2.26" label="Genesis_33,"/>
+<edge id="16" source="542" target="541" weight="2.62" label="Genesis_33,"/>
+<edge id="17" source="549" target="546" weight="1.06" label="Genesis_33,"/>
+<edge id="18" source="549" target="550" weight="0.11" label="Genesis_33,"/>
+<edge id="19" source="546" target="547" weight="1.06" label="Genesis_33,"/>
+<edge id="20" source="546" target="550" weight="0.14" label="Genesis_33,"/>
+<edge id="21" source="546" target="545" weight="0.35" label="Genesis_33,"/>
+<edge id="22" source="546" target="548" weight="1.06" label="Genesis_33,"/>
+<edge id="23" source="548" target="547" weight="1.0" label="Genesis_33,"/>
+<edge id="24" source="541" target="543" weight="1.37" label="Genesis_33,"/>
+</edges>
+</graph></gexf>

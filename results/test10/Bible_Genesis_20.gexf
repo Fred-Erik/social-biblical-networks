@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="8">
+
+<node id="317" label="Abimelech">
+  <attvalues><attvalue for="occurrence" value="Genesis_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="319" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="313" label="Kadesh">
+  <attvalues><attvalue for="occurrence" value="Genesis_20,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="315" label="Gerar">
+  <attvalues><attvalue for="occurrence" value="Genesis_20,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="312" label="Abraham">
+  <attvalues><attvalue for="occurrence" value="Genesis_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="314" label="Shur">
+  <attvalues><attvalue for="occurrence" value="Genesis_20,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="316" label="Sarah">
+  <attvalues><attvalue for="occurrence" value="Genesis_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="318" label="Lord">
+  <attvalues><attvalue for="occurrence" value="Genesis_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="17">
+<edge id="1" source="313" target="314" weight="1.0" label="Genesis_20,"/>
+<edge id="2" source="313" target="316" weight="0.14" label="Genesis_20,"/>
+<edge id="3" source="313" target="315" weight="0.29" label="Genesis_20,"/>
+<edge id="4" source="312" target="313" weight="0.36" label="Genesis_20,"/>
+<edge id="5" source="312" target="319" weight="1.07" label="Genesis_20,"/>
+<edge id="6" source="312" target="314" weight="0.36" label="Genesis_20,"/>
+<edge id="7" source="312" target="316" weight="2.57" label="Genesis_20,"/>
+<edge id="8" source="312" target="315" weight="0.51" label="Genesis_20,"/>
+<edge id="9" source="312" target="317" weight="4.33" label="Genesis_20,"/>
+<edge id="10" source="314" target="316" weight="0.14" label="Genesis_20,"/>
+<edge id="11" source="314" target="315" weight="0.29" label="Genesis_20,"/>
+<edge id="12" source="316" target="319" weight="1.02" label="Genesis_20,"/>
+<edge id="13" source="316" target="317" weight="2.35" label="Genesis_20,"/>
+<edge id="14" source="315" target="316" weight="0.65" label="Genesis_20,"/>
+<edge id="15" source="315" target="317" weight="1.25" label="Genesis_20,"/>
+<edge id="16" source="317" target="318" weight="0.32" label="Genesis_20,"/>
+<edge id="17" source="319" target="317" weight="1.13" label="Genesis_20,"/>
+</edges>
+</graph></gexf>

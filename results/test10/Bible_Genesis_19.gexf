@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="9">
+
+<node id="310" label="BenAmmi">
+  <attvalues><attvalue for="occurrence" value="Genesis_19,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="305" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_19,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="303" label="Sodom">
+  <attvalues><attvalue for="occurrence" value="Genesis_19,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="304" label="Lot">
+  <attvalues><attvalue for="occurrence" value="Genesis_19,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="308" label="Abraham">
+  <attvalues><attvalue for="occurrence" value="Genesis_19,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="306" label="Zoar">
+  <attvalues><attvalue for="occurrence" value="Genesis_19,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="311" label="Ammon">
+  <attvalues><attvalue for="occurrence" value="Genesis_19,"/><attvalue for="nametype" value="gens"/></attvalues>
+</node>
+<node id="307" label="Gomorrah">
+  <attvalues><attvalue for="occurrence" value="Genesis_19,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="309" label="Moab">
+  <attvalues><attvalue for="occurrence" value="Genesis_19,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+</nodes>
+<edges count="19">
+<edge id="1" source="304" target="309" weight="0.18" label="Genesis_19,"/>
+<edge id="2" source="304" target="305" weight="0.99" label="Genesis_19,"/>
+<edge id="3" source="304" target="307" weight="0.34" label="Genesis_19,"/>
+<edge id="4" source="304" target="308" weight="0.44" label="Genesis_19,"/>
+<edge id="5" source="304" target="306" weight="2.52" label="Genesis_19,"/>
+<edge id="6" source="310" target="311" weight="0.25" label="Genesis_19,"/>
+<edge id="7" source="309" target="310" weight="0.17" label="Genesis_19,"/>
+<edge id="8" source="309" target="311" weight="0.1" label="Genesis_19,"/>
+<edge id="9" source="305" target="307" weight="1.32" label="Genesis_19,"/>
+<edge id="10" source="305" target="308" weight="1.08" label="Genesis_19,"/>
+<edge id="11" source="305" target="306" weight="0.4" label="Genesis_19,"/>
+<edge id="12" source="307" target="308" weight="0.34" label="Genesis_19,"/>
+<edge id="13" source="306" target="307" weight="0.39" label="Genesis_19,"/>
+<edge id="14" source="306" target="308" weight="0.22" label="Genesis_19,"/>
+<edge id="15" source="303" target="304" weight="2.25" label="Genesis_19,"/>
+<edge id="16" source="303" target="305" weight="1.33" label="Genesis_19,"/>
+<edge id="17" source="303" target="307" weight="2.06" label="Genesis_19,"/>
+<edge id="18" source="303" target="308" weight="0.34" label="Genesis_19,"/>
+<edge id="19" source="303" target="306" weight="0.39" label="Genesis_19,"/>
+</edges>
+</graph></gexf>

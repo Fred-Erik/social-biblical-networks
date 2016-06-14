@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="8">
+
+<node id="207" label="Dan">
+  <attvalues><attvalue for="occurrence" value="Judices_20,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="213" label="Aaron">
+  <attvalues><attvalue for="occurrence" value="Judices_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="210" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Judices_20,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="212" label="Eleazar">
+  <attvalues><attvalue for="occurrence" value="Judices_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="206" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Judices_20,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="209" label="Benjamin">
+  <attvalues><attvalue for="occurrence" value="Judices_20,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="211" label="Phinehas">
+  <attvalues><attvalue for="occurrence" value="Judices_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="208" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Judices_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="21">
+<edge id="1" source="208" target="213" weight="0.28" label="Judices_20,"/>
+<edge id="2" source="208" target="210" weight="0.28" label="Judices_20,"/>
+<edge id="3" source="208" target="209" weight="3.5" label="Judices_20,"/>
+<edge id="4" source="208" target="212" weight="0.28" label="Judices_20,"/>
+<edge id="5" source="208" target="211" weight="0.28" label="Judices_20,"/>
+<edge id="6" source="207" target="208" weight="1.0" label="Judices_20,"/>
+<edge id="7" source="207" target="209" weight="0.13" label="Judices_20,"/>
+<edge id="8" source="209" target="213" weight="0.32" label="Judices_20,"/>
+<edge id="9" source="209" target="210" weight="0.25" label="Judices_20,"/>
+<edge id="10" source="209" target="212" weight="0.32" label="Judices_20,"/>
+<edge id="11" source="209" target="211" weight="0.32" label="Judices_20,"/>
+<edge id="12" source="212" target="213" weight="1.0" label="Judices_20,"/>
+<edge id="13" source="212" target="211" weight="1.0" label="Judices_20,"/>
+<edge id="14" source="211" target="213" weight="1.0" label="Judices_20,"/>
+<edge id="15" source="206" target="208" weight="5.55" label="Judices_20,"/>
+<edge id="16" source="206" target="210" weight="0.51" label="Judices_20,"/>
+<edge id="17" source="206" target="207" weight="0.69" label="Judices_20,"/>
+<edge id="18" source="206" target="209" weight="24.49" label="Judices_20,"/>
+<edge id="19" source="206" target="212" weight="0.22" label="Judices_20,"/>
+<edge id="20" source="206" target="211" weight="0.22" label="Judices_20,"/>
+<edge id="21" source="206" target="213" weight="0.22" label="Judices_20,"/>
+</edges>
+</graph></gexf>

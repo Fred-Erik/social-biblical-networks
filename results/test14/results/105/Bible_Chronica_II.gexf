@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="4">
+
+<node id="28" label="Uzziah2">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_26,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="30" label="Amoz">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_26,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="31" label="Jotham">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_26,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="29" label="Isaiah">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_26,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="3">
+<edge id="1" source="29" target="30" weight="1.0" label="Chronica_II_26,"/>
+<edge id="2" source="29" target="28" weight="1.25" label="Chronica_II_26,"/>
+<edge id="3" source="30" target="28" weight="1.25" label="Chronica_II_26,"/>
+</edges>
+</graph></gexf>

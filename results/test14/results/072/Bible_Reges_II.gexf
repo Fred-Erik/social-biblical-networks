@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="14">
+
+<node id="2" label="Hephzibah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="6" label="Ahab">
+  <attvalues><attvalue for="occurrence" value="Reges_II_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="10" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_21,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="7" label="David">
+  <attvalues><attvalue for="occurrence" value="Reges_II_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="11" label="Amorite">
+  <attvalues><attvalue for="occurrence" value="Reges_II_21,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="13" label="Egypt">
+  <attvalues><attvalue for="occurrence" value="Reges_II_21,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="8" label="Solomon">
+  <attvalues><attvalue for="occurrence" value="Reges_II_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="3" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Reges_II_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="5" label="Hizkiah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="1" label="Jerusalem">
+  <attvalues><attvalue for="occurrence" value="Reges_II_21,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="9" label="Moses">
+  <attvalues><attvalue for="occurrence" value="Reges_II_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="12" label="Samaria">
+  <attvalues><attvalue for="occurrence" value="Reges_II_21,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="4" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Reges_II_21,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="0" label="Manasseh">
+  <attvalues><attvalue for="occurrence" value="Reges_II_21,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+</nodes>
+<edges count="46">
+<edge id="1" source="1" target="10" weight="2.74" label="Reges_II_21,"/>
+<edge id="2" source="1" target="13" weight="0.39" label="Reges_II_21,"/>
+<edge id="3" source="1" target="8" weight="0.29" label="Reges_II_21,"/>
+<edge id="4" source="1" target="4" weight="2.07" label="Reges_II_21,"/>
+<edge id="5" source="1" target="3" weight="2.85" label="Reges_II_21,"/>
+<edge id="6" source="1" target="11" weight="0.12" label="Reges_II_21,"/>
+<edge id="7" source="1" target="6" weight="1.61" label="Reges_II_21,"/>
+<edge id="8" source="1" target="2" weight="0.27" label="Reges_II_21,"/>
+<edge id="9" source="1" target="12" weight="1.54" label="Reges_II_21,"/>
+<edge id="10" source="1" target="7" weight="0.29" label="Reges_II_21,"/>
+<edge id="11" source="1" target="9" weight="0.15" label="Reges_II_21,"/>
+<edge id="12" source="10" target="13" weight="0.3" label="Reges_II_21,"/>
+<edge id="13" source="10" target="11" weight="0.55" label="Reges_II_21,"/>
+<edge id="14" source="10" target="12" weight="0.34" label="Reges_II_21,"/>
+<edge id="15" source="8" target="7" weight="1.0" label="Reges_II_21,"/>
+<edge id="16" source="4" target="10" weight="0.7" label="Reges_II_21,"/>
+<edge id="17" source="4" target="8" weight="0.41" label="Reges_II_21,"/>
+<edge id="18" source="4" target="3" weight="4.4" label="Reges_II_21,"/>
+<edge id="19" source="4" target="11" weight="0.17" label="Reges_II_21,"/>
+<edge id="20" source="4" target="6" weight="1.2" label="Reges_II_21,"/>
+<edge id="21" source="4" target="5" weight="0.23" label="Reges_II_21,"/>
+<edge id="22" source="4" target="12" weight="0.14" label="Reges_II_21,"/>
+<edge id="23" source="4" target="7" weight="0.41" label="Reges_II_21,"/>
+<edge id="24" source="4" target="9" weight="0.49" label="Reges_II_21,"/>
+<edge id="25" source="3" target="10" weight="2.06" label="Reges_II_21,"/>
+<edge id="26" source="3" target="13" weight="0.29" label="Reges_II_21,"/>
+<edge id="27" source="3" target="8" weight="1.34" label="Reges_II_21,"/>
+<edge id="28" source="3" target="11" weight="0.28" label="Reges_II_21,"/>
+<edge id="29" source="3" target="6" weight="0.34" label="Reges_II_21,"/>
+<edge id="30" source="3" target="5" weight="0.17" label="Reges_II_21,"/>
+<edge id="31" source="3" target="12" weight="0.18" label="Reges_II_21,"/>
+<edge id="32" source="3" target="7" weight="1.34" label="Reges_II_21,"/>
+<edge id="33" source="3" target="9" weight="0.31" label="Reges_II_21,"/>
+<edge id="34" source="6" target="10" weight="0.35" label="Reges_II_21,"/>
+<edge id="35" source="6" target="12" weight="1.0" label="Reges_II_21,"/>
+<edge id="36" source="5" target="6" weight="0.11" label="Reges_II_21,"/>
+<edge id="37" source="2" target="4" weight="0.29" label="Reges_II_21,"/>
+<edge id="38" source="2" target="3" weight="0.28" label="Reges_II_21,"/>
+<edge id="39" source="0" target="1" weight="1.54" label="Reges_II_21,"/>
+<edge id="40" source="0" target="10" weight="2.36" label="Reges_II_21,"/>
+<edge id="41" source="0" target="13" weight="0.26" label="Reges_II_21,"/>
+<edge id="42" source="0" target="4" weight="1.45" label="Reges_II_21,"/>
+<edge id="43" source="0" target="3" weight="2.91" label="Reges_II_21,"/>
+<edge id="44" source="0" target="11" weight="0.32" label="Reges_II_21,"/>
+<edge id="45" source="0" target="2" weight="0.12" label="Reges_II_21,"/>
+<edge id="46" source="0" target="9" weight="0.16" label="Reges_II_21,"/>
+</edges>
+</graph></gexf>

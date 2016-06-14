@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="9">
+
+<node id="5" label="Ammonite">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_20,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="8" label="HazazonTamar">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_20,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="6" label="Jehoshaphat">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="10" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="11" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_20,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="3" label="Moab">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_20,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="9" label="EnGedi">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_20,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="4" label="Ammon">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_20,"/><attvalue for="nametype" value="gens"/></attvalues>
+</node>
+<node id="7" label="Aram">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_20,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+</nodes>
+<edges count="15">
+<edge id="1" source="7" target="9" weight="0.11" label="Chronica_II_20,"/>
+<edge id="2" source="7" target="8" weight="0.25" label="Chronica_II_20,"/>
+<edge id="3" source="3" target="5" weight="0.25" label="Chronica_II_20,"/>
+<edge id="4" source="3" target="4" weight="1.0" label="Chronica_II_20,"/>
+<edge id="5" source="3" target="6" weight="0.16" label="Chronica_II_20,"/>
+<edge id="6" source="10" target="11" weight="0.25" label="Chronica_II_20,"/>
+<edge id="7" source="4" target="5" weight="0.25" label="Chronica_II_20,"/>
+<edge id="8" source="4" target="6" weight="0.16" label="Chronica_II_20,"/>
+<edge id="9" source="6" target="7" weight="0.19" label="Chronica_II_20,"/>
+<edge id="10" source="6" target="11" weight="0.13" label="Chronica_II_20,"/>
+<edge id="11" source="6" target="9" weight="0.17" label="Chronica_II_20,"/>
+<edge id="12" source="6" target="10" weight="0.28" label="Chronica_II_20,"/>
+<edge id="13" source="6" target="8" weight="0.15" label="Chronica_II_20,"/>
+<edge id="14" source="5" target="6" weight="0.32" label="Chronica_II_20,"/>
+<edge id="15" source="8" target="9" weight="0.25" label="Chronica_II_20,"/>
+</edges>
+</graph></gexf>

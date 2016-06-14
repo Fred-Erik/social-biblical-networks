@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="17">
+
+<node id="114" label="Amraphel">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="115" label="Arioch">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="123" label="Lot">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="128" label="Dan">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="122" label="Shemeber">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="116" label="Kedorlaomer">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="117" label="Elam">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="121" label="Shinab">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="118" label="Tidal">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="126" label="Eshcol">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="127" label="Aner">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="119" label="Bera">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="130" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="120" label="Birsha">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="129" label="Melchizedek">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="124" label="Abram">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="125" label="Mamre">
+  <attvalues><attvalue for="occurrence" value="Genesis_14,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="48">
+<edge id="1" source="117" target="119" weight="0.25" label="Genesis_14,"/>
+<edge id="2" source="117" target="118" weight="2.01" label="Genesis_14,"/>
+<edge id="3" source="117" target="121" weight="0.25" label="Genesis_14,"/>
+<edge id="4" source="117" target="122" weight="0.25" label="Genesis_14,"/>
+<edge id="5" source="117" target="116" weight="2.07" label="Genesis_14,"/>
+<edge id="6" source="117" target="115" weight="2.01" label="Genesis_14,"/>
+<edge id="7" source="117" target="120" weight="0.25" label="Genesis_14,"/>
+<edge id="8" source="119" target="120" weight="1.0" label="Genesis_14,"/>
+<edge id="9" source="118" target="119" weight="0.25" label="Genesis_14,"/>
+<edge id="10" source="118" target="121" weight="0.25" label="Genesis_14,"/>
+<edge id="11" source="118" target="122" weight="0.25" label="Genesis_14,"/>
+<edge id="12" source="118" target="116" weight="2.07" label="Genesis_14,"/>
+<edge id="13" source="118" target="115" weight="2.01" label="Genesis_14,"/>
+<edge id="14" source="118" target="120" weight="0.25" label="Genesis_14,"/>
+<edge id="15" source="121" target="119" weight="1.0" label="Genesis_14,"/>
+<edge id="16" source="121" target="122" weight="1.0" label="Genesis_14,"/>
+<edge id="17" source="121" target="120" weight="1.0" label="Genesis_14,"/>
+<edge id="18" source="122" target="119" weight="1.0" label="Genesis_14,"/>
+<edge id="19" source="122" target="120" weight="1.0" label="Genesis_14,"/>
+<edge id="20" source="114" target="119" weight="0.25" label="Genesis_14,"/>
+<edge id="21" source="114" target="118" weight="2.01" label="Genesis_14,"/>
+<edge id="22" source="114" target="121" weight="0.25" label="Genesis_14,"/>
+<edge id="23" source="114" target="122" weight="0.25" label="Genesis_14,"/>
+<edge id="24" source="114" target="117" weight="2.01" label="Genesis_14,"/>
+<edge id="25" source="114" target="116" weight="2.07" label="Genesis_14,"/>
+<edge id="26" source="114" target="115" weight="2.01" label="Genesis_14,"/>
+<edge id="27" source="114" target="120" weight="0.25" label="Genesis_14,"/>
+<edge id="28" source="124" target="130" weight="0.37" label="Genesis_14,"/>
+<edge id="29" source="123" target="124" weight="1.15" label="Genesis_14,"/>
+<edge id="30" source="116" target="119" weight="0.32" label="Genesis_14,"/>
+<edge id="31" source="116" target="121" weight="0.32" label="Genesis_14,"/>
+<edge id="32" source="116" target="122" weight="0.32" label="Genesis_14,"/>
+<edge id="33" source="116" target="124" weight="0.14" label="Genesis_14,"/>
+<edge id="34" source="116" target="123" weight="0.28" label="Genesis_14,"/>
+<edge id="35" source="116" target="129" weight="0.12" label="Genesis_14,"/>
+<edge id="36" source="116" target="120" weight="0.32" label="Genesis_14,"/>
+<edge id="37" source="125" target="124" weight="0.95" label="Genesis_14,"/>
+<edge id="38" source="125" target="126" weight="2.0" label="Genesis_14,"/>
+<edge id="39" source="125" target="127" weight="2.0" label="Genesis_14,"/>
+<edge id="40" source="126" target="124" weight="0.95" label="Genesis_14,"/>
+<edge id="41" source="115" target="119" weight="0.25" label="Genesis_14,"/>
+<edge id="42" source="115" target="121" weight="0.25" label="Genesis_14,"/>
+<edge id="43" source="115" target="122" weight="0.25" label="Genesis_14,"/>
+<edge id="44" source="115" target="116" weight="2.07" label="Genesis_14,"/>
+<edge id="45" source="115" target="120" weight="0.25" label="Genesis_14,"/>
+<edge id="46" source="128" target="124" weight="0.23" label="Genesis_14,"/>
+<edge id="47" source="127" target="124" weight="0.95" label="Genesis_14,"/>
+<edge id="48" source="127" target="126" weight="2.0" label="Genesis_14,"/>
+</edges>
+</graph></gexf>

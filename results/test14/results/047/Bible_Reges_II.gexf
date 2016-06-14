@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="8">
+
+<node id="1" label="Carites">
+  <attvalues><attvalue for="occurrence" value="Reges_II_11,"/><attvalue for="nametype" value="gens"/></attvalues>
+</node>
+<node id="4" label="David">
+  <attvalues><attvalue for="occurrence" value="Reges_II_11,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="2" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Reges_II_11,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="3" label="Sur">
+  <attvalues><attvalue for="occurrence" value="Reges_II_11,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="5" label="Athaliah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_11,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="0" label="Jehoiada">
+  <attvalues><attvalue for="occurrence" value="Reges_II_11,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="6" label="Mattan">
+  <attvalues><attvalue for="occurrence" value="Reges_II_11,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="7" label="Athaliah2">
+  <attvalues><attvalue for="occurrence" value="Reges_II_11,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="9">
+<edge id="1" source="5" target="2" weight="0.32" label="Reges_II_11,"/>
+<edge id="2" source="1" target="6" weight="0.11" label="Reges_II_11,"/>
+<edge id="3" source="0" target="1" weight="0.29" label="Reges_II_11,"/>
+<edge id="4" source="0" target="4" weight="0.32" label="Reges_II_11,"/>
+<edge id="5" source="2" target="3" weight="0.33" label="Reges_II_11,"/>
+<edge id="6" source="2" target="1" weight="0.86" label="Reges_II_11,"/>
+<edge id="7" source="2" target="6" weight="0.37" label="Reges_II_11,"/>
+<edge id="8" source="2" target="0" weight="1.71" label="Reges_II_11,"/>
+<edge id="9" source="2" target="4" weight="1.03" label="Reges_II_11,"/>
+</edges>
+</graph></gexf>

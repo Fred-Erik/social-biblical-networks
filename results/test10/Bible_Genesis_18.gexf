@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="7">
+
+<node id="296" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="302" label="Gomorrah">
+  <attvalues><attvalue for="occurrence" value="Genesis_18,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="299" label="Abraham">
+  <attvalues><attvalue for="occurrence" value="Genesis_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="301" label="Sodom">
+  <attvalues><attvalue for="occurrence" value="Genesis_18,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="297" label="Mamre">
+  <attvalues><attvalue for="occurrence" value="Genesis_18,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="300" label="Sarah">
+  <attvalues><attvalue for="occurrence" value="Genesis_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="298" label="Lord">
+  <attvalues><attvalue for="occurrence" value="Genesis_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="11">
+<edge id="1" source="299" target="298" weight="0.23" label="Genesis_18,"/>
+<edge id="2" source="299" target="302" weight="0.21" label="Genesis_18,"/>
+<edge id="3" source="299" target="300" weight="3.25" label="Genesis_18,"/>
+<edge id="4" source="299" target="301" weight="1.13" label="Genesis_18,"/>
+<edge id="5" source="299" target="296" weight="6.4" label="Genesis_18,"/>
+<edge id="6" source="296" target="298" weight="0.11" label="Genesis_18,"/>
+<edge id="7" source="296" target="302" weight="0.46" label="Genesis_18,"/>
+<edge id="8" source="296" target="300" weight="0.85" label="Genesis_18,"/>
+<edge id="9" source="296" target="301" weight="1.21" label="Genesis_18,"/>
+<edge id="10" source="296" target="297" weight="1.0" label="Genesis_18,"/>
+<edge id="11" source="301" target="302" weight="1.03" label="Genesis_18,"/>
+</edges>
+</graph></gexf>

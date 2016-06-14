@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="2">
+
+<node id="1" label="Solomon">
+  <attvalues><attvalue for="occurrence" value="Reges_I_2,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="0" label="David">
+  <attvalues><attvalue for="occurrence" value="Reges_I_2,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="1">
+<edge id="1" source="0" target="1" weight="0.25" label="Reges_I_2,"/>
+</edges>
+</graph></gexf>

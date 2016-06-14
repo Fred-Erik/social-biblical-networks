@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="34">
+
+<node id="32" label="Azmaveth">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="23" label="Saul">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="36" label="Ishmaiah">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="24" label="Kish">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="29" label="Gibeathite">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="39" label="Jahaziel">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="49" label="Elkanah">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="33" label="Beracah">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="47" label="Shephatiah">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="35" label="Anathothite">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="21" label="David">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="38" label="Jeremiah">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="26" label="Ahiezer">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="40" label="Johanan">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="50" label="Isshiah">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="41" label="Jozabad">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="27" label="Joash">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="30" label="Jeziel">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="28" label="Shemaah">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="34" label="Jehu">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="45" label="Bealiah">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="44" label="Jerimoth">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="37" label="Gibeonite">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="43" label="Eluzai">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="31" label="Pelet">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="51" label="Azarel">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="25" label="Benjamin">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="52" label="Joezer">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="54" label="Korahite">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="46" label="Shemariah">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="53" label="Jashobeam">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="42" label="Gederathite">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="22" label="Ziklag">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="48" label="Haruphite">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_12,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+</nodes>
+<edges count="243">
+<edge id="1" source="39" target="49" weight="0.11" label="Chronica_I_12,"/>
+<edge id="2" source="39" target="44" weight="0.25" label="Chronica_I_12,"/>
+<edge id="3" source="39" target="53" weight="0.11" label="Chronica_I_12,"/>
+<edge id="4" source="39" target="50" weight="0.11" label="Chronica_I_12,"/>
+<edge id="5" source="39" target="46" weight="0.25" label="Chronica_I_12,"/>
+<edge id="6" source="39" target="54" weight="0.11" label="Chronica_I_12,"/>
+<edge id="7" source="39" target="41" weight="1.0" label="Chronica_I_12,"/>
+<edge id="8" source="39" target="48" weight="0.25" label="Chronica_I_12,"/>
+<edge id="9" source="39" target="40" weight="1.0" label="Chronica_I_12,"/>
+<edge id="10" source="39" target="51" weight="0.11" label="Chronica_I_12,"/>
+<edge id="11" source="39" target="45" weight="0.25" label="Chronica_I_12,"/>
+<edge id="12" source="39" target="43" weight="0.25" label="Chronica_I_12,"/>
+<edge id="13" source="39" target="42" weight="1.0" label="Chronica_I_12,"/>
+<edge id="14" source="39" target="52" weight="0.11" label="Chronica_I_12,"/>
+<edge id="15" source="39" target="47" weight="0.25" label="Chronica_I_12,"/>
+<edge id="16" source="34" target="31" weight="1.0" label="Chronica_I_12,"/>
+<edge id="17" source="34" target="27" weight="1.0" label="Chronica_I_12,"/>
+<edge id="18" source="34" target="37" weight="0.25" label="Chronica_I_12,"/>
+<edge id="19" source="34" target="30" weight="1.0" label="Chronica_I_12,"/>
+<edge id="20" source="34" target="32" weight="1.0" label="Chronica_I_12,"/>
+<edge id="21" source="34" target="29" weight="1.0" label="Chronica_I_12,"/>
+<edge id="22" source="34" target="35" weight="1.0" label="Chronica_I_12,"/>
+<edge id="23" source="34" target="36" weight="0.25" label="Chronica_I_12,"/>
+<edge id="24" source="34" target="33" weight="1.0" label="Chronica_I_12,"/>
+<edge id="25" source="34" target="26" weight="1.0" label="Chronica_I_12,"/>
+<edge id="26" source="49" target="54" weight="1.0" label="Chronica_I_12,"/>
+<edge id="27" source="49" target="52" weight="1.0" label="Chronica_I_12,"/>
+<edge id="28" source="44" target="49" weight="0.25" label="Chronica_I_12,"/>
+<edge id="29" source="44" target="52" weight="0.25" label="Chronica_I_12,"/>
+<edge id="30" source="44" target="53" weight="0.25" label="Chronica_I_12,"/>
+<edge id="31" source="44" target="50" weight="0.25" label="Chronica_I_12,"/>
+<edge id="32" source="44" target="54" weight="0.25" label="Chronica_I_12,"/>
+<edge id="33" source="44" target="48" weight="1.0" label="Chronica_I_12,"/>
+<edge id="34" source="44" target="51" weight="0.25" label="Chronica_I_12,"/>
+<edge id="35" source="44" target="45" weight="1.0" label="Chronica_I_12,"/>
+<edge id="36" source="44" target="43" weight="1.0" label="Chronica_I_12,"/>
+<edge id="37" source="44" target="47" weight="1.0" label="Chronica_I_12,"/>
+<edge id="38" source="31" target="27" weight="1.0" label="Chronica_I_12,"/>
+<edge id="39" source="31" target="37" weight="0.25" label="Chronica_I_12,"/>
+<edge id="40" source="31" target="30" weight="1.0" label="Chronica_I_12,"/>
+<edge id="41" source="31" target="32" weight="1.0" label="Chronica_I_12,"/>
+<edge id="42" source="31" target="29" weight="1.0" label="Chronica_I_12,"/>
+<edge id="43" source="31" target="35" weight="1.0" label="Chronica_I_12,"/>
+<edge id="44" source="31" target="36" weight="0.25" label="Chronica_I_12,"/>
+<edge id="45" source="31" target="26" weight="1.0" label="Chronica_I_12,"/>
+<edge id="46" source="53" target="49" weight="1.0" label="Chronica_I_12,"/>
+<edge id="47" source="53" target="54" weight="1.0" label="Chronica_I_12,"/>
+<edge id="48" source="53" target="51" weight="1.0" label="Chronica_I_12,"/>
+<edge id="49" source="53" target="52" weight="1.0" label="Chronica_I_12,"/>
+<edge id="50" source="27" target="37" weight="0.25" label="Chronica_I_12,"/>
+<edge id="51" source="27" target="29" weight="1.0" label="Chronica_I_12,"/>
+<edge id="52" source="27" target="36" weight="0.25" label="Chronica_I_12,"/>
+<edge id="53" source="28" target="34" weight="1.0" label="Chronica_I_12,"/>
+<edge id="54" source="28" target="31" weight="1.0" label="Chronica_I_12,"/>
+<edge id="55" source="28" target="27" weight="1.0" label="Chronica_I_12,"/>
+<edge id="56" source="28" target="37" weight="0.25" label="Chronica_I_12,"/>
+<edge id="57" source="28" target="30" weight="1.0" label="Chronica_I_12,"/>
+<edge id="58" source="28" target="32" weight="1.0" label="Chronica_I_12,"/>
+<edge id="59" source="28" target="29" weight="1.0" label="Chronica_I_12,"/>
+<edge id="60" source="28" target="35" weight="1.0" label="Chronica_I_12,"/>
+<edge id="61" source="28" target="36" weight="0.25" label="Chronica_I_12,"/>
+<edge id="62" source="28" target="33" weight="1.0" label="Chronica_I_12,"/>
+<edge id="63" source="28" target="26" weight="1.0" label="Chronica_I_12,"/>
+<edge id="64" source="50" target="49" weight="1.0" label="Chronica_I_12,"/>
+<edge id="65" source="50" target="53" weight="1.0" label="Chronica_I_12,"/>
+<edge id="66" source="50" target="54" weight="1.0" label="Chronica_I_12,"/>
+<edge id="67" source="50" target="51" weight="1.0" label="Chronica_I_12,"/>
+<edge id="68" source="50" target="52" weight="1.0" label="Chronica_I_12,"/>
+<edge id="69" source="46" target="49" weight="0.25" label="Chronica_I_12,"/>
+<edge id="70" source="46" target="44" weight="1.0" label="Chronica_I_12,"/>
+<edge id="71" source="46" target="53" weight="0.25" label="Chronica_I_12,"/>
+<edge id="72" source="46" target="50" weight="0.25" label="Chronica_I_12,"/>
+<edge id="73" source="46" target="54" weight="0.25" label="Chronica_I_12,"/>
+<edge id="74" source="46" target="48" weight="1.0" label="Chronica_I_12,"/>
+<edge id="75" source="46" target="51" weight="0.25" label="Chronica_I_12,"/>
+<edge id="76" source="46" target="45" weight="1.0" label="Chronica_I_12,"/>
+<edge id="77" source="46" target="43" weight="1.0" label="Chronica_I_12,"/>
+<edge id="78" source="46" target="52" weight="0.25" label="Chronica_I_12,"/>
+<edge id="79" source="46" target="47" weight="1.0" label="Chronica_I_12,"/>
+<edge id="80" source="37" target="39" weight="0.11" label="Chronica_I_12,"/>
+<edge id="81" source="37" target="41" weight="0.11" label="Chronica_I_12,"/>
+<edge id="82" source="37" target="40" weight="0.11" label="Chronica_I_12,"/>
+<edge id="83" source="37" target="36" weight="1.0" label="Chronica_I_12,"/>
+<edge id="84" source="37" target="38" weight="0.11" label="Chronica_I_12,"/>
+<edge id="85" source="37" target="42" weight="0.11" label="Chronica_I_12,"/>
+<edge id="86" source="54" target="52" weight="1.0" label="Chronica_I_12,"/>
+<edge id="87" source="41" target="49" weight="0.11" label="Chronica_I_12,"/>
+<edge id="88" source="41" target="44" weight="0.25" label="Chronica_I_12,"/>
+<edge id="89" source="41" target="53" weight="0.11" label="Chronica_I_12,"/>
+<edge id="90" source="41" target="50" weight="0.11" label="Chronica_I_12,"/>
+<edge id="91" source="41" target="46" weight="0.25" label="Chronica_I_12,"/>
+<edge id="92" source="41" target="54" weight="0.11" label="Chronica_I_12,"/>
+<edge id="93" source="41" target="48" weight="0.25" label="Chronica_I_12,"/>
+<edge id="94" source="41" target="51" weight="0.11" label="Chronica_I_12,"/>
+<edge id="95" source="41" target="45" weight="0.25" label="Chronica_I_12,"/>
+<edge id="96" source="41" target="43" weight="0.25" label="Chronica_I_12,"/>
+<edge id="97" source="41" target="52" weight="0.11" label="Chronica_I_12,"/>
+<edge id="98" source="41" target="47" weight="0.25" label="Chronica_I_12,"/>
+<edge id="99" source="48" target="49" weight="0.25" label="Chronica_I_12,"/>
+<edge id="100" source="48" target="53" weight="0.25" label="Chronica_I_12,"/>
+<edge id="101" source="48" target="50" weight="0.25" label="Chronica_I_12,"/>
+<edge id="102" source="48" target="54" weight="0.25" label="Chronica_I_12,"/>
+<edge id="103" source="48" target="51" weight="0.25" label="Chronica_I_12,"/>
+<edge id="104" source="48" target="52" weight="0.25" label="Chronica_I_12,"/>
+<edge id="105" source="30" target="27" weight="1.0" label="Chronica_I_12,"/>
+<edge id="106" source="30" target="37" weight="0.25" label="Chronica_I_12,"/>
+<edge id="107" source="30" target="32" weight="1.0" label="Chronica_I_12,"/>
+<edge id="108" source="30" target="29" weight="1.0" label="Chronica_I_12,"/>
+<edge id="109" source="30" target="36" weight="0.25" label="Chronica_I_12,"/>
+<edge id="110" source="32" target="27" weight="1.0" label="Chronica_I_12,"/>
+<edge id="111" source="32" target="37" weight="0.25" label="Chronica_I_12,"/>
+<edge id="112" source="32" target="29" weight="1.0" label="Chronica_I_12,"/>
+<edge id="113" source="32" target="36" weight="0.25" label="Chronica_I_12,"/>
+<edge id="114" source="40" target="49" weight="0.11" label="Chronica_I_12,"/>
+<edge id="115" source="40" target="44" weight="0.25" label="Chronica_I_12,"/>
+<edge id="116" source="40" target="47" weight="0.25" label="Chronica_I_12,"/>
+<edge id="117" source="40" target="53" weight="0.11" label="Chronica_I_12,"/>
+<edge id="118" source="40" target="50" weight="0.11" label="Chronica_I_12,"/>
+<edge id="119" source="40" target="46" weight="0.25" label="Chronica_I_12,"/>
+<edge id="120" source="40" target="41" weight="1.0" label="Chronica_I_12,"/>
+<edge id="121" source="40" target="48" weight="0.25" label="Chronica_I_12,"/>
+<edge id="122" source="40" target="51" weight="0.11" label="Chronica_I_12,"/>
+<edge id="123" source="40" target="45" weight="0.25" label="Chronica_I_12,"/>
+<edge id="124" source="40" target="43" weight="0.25" label="Chronica_I_12,"/>
+<edge id="125" source="40" target="52" weight="0.11" label="Chronica_I_12,"/>
+<edge id="126" source="40" target="54" weight="0.11" label="Chronica_I_12,"/>
+<edge id="127" source="29" target="37" weight="0.25" label="Chronica_I_12,"/>
+<edge id="128" source="29" target="36" weight="0.25" label="Chronica_I_12,"/>
+<edge id="129" source="35" target="27" weight="1.0" label="Chronica_I_12,"/>
+<edge id="130" source="35" target="37" weight="0.25" label="Chronica_I_12,"/>
+<edge id="131" source="35" target="30" weight="1.0" label="Chronica_I_12,"/>
+<edge id="132" source="35" target="32" weight="1.0" label="Chronica_I_12,"/>
+<edge id="133" source="35" target="29" weight="1.0" label="Chronica_I_12,"/>
+<edge id="134" source="35" target="36" weight="0.25" label="Chronica_I_12,"/>
+<edge id="135" source="35" target="26" weight="1.0" label="Chronica_I_12,"/>
+<edge id="136" source="51" target="49" weight="1.0" label="Chronica_I_12,"/>
+<edge id="137" source="51" target="54" weight="1.0" label="Chronica_I_12,"/>
+<edge id="138" source="51" target="52" weight="1.0" label="Chronica_I_12,"/>
+<edge id="139" source="45" target="49" weight="0.25" label="Chronica_I_12,"/>
+<edge id="140" source="45" target="53" weight="0.25" label="Chronica_I_12,"/>
+<edge id="141" source="45" target="54" weight="0.25" label="Chronica_I_12,"/>
+<edge id="142" source="45" target="48" weight="1.0" label="Chronica_I_12,"/>
+<edge id="143" source="45" target="51" weight="0.25" label="Chronica_I_12,"/>
+<edge id="144" source="45" target="50" weight="0.25" label="Chronica_I_12,"/>
+<edge id="145" source="45" target="43" weight="1.0" label="Chronica_I_12,"/>
+<edge id="146" source="45" target="52" weight="0.25" label="Chronica_I_12,"/>
+<edge id="147" source="45" target="47" weight="1.0" label="Chronica_I_12,"/>
+<edge id="148" source="22" target="24" weight="0.25" label="Chronica_I_12,"/>
+<edge id="149" source="22" target="21" weight="1.0" label="Chronica_I_12,"/>
+<edge id="150" source="22" target="23" weight="0.27" label="Chronica_I_12,"/>
+<edge id="151" source="36" target="39" weight="0.11" label="Chronica_I_12,"/>
+<edge id="152" source="36" target="41" weight="0.11" label="Chronica_I_12,"/>
+<edge id="153" source="36" target="40" weight="0.11" label="Chronica_I_12,"/>
+<edge id="154" source="36" target="38" weight="0.11" label="Chronica_I_12,"/>
+<edge id="155" source="36" target="42" weight="0.11" label="Chronica_I_12,"/>
+<edge id="156" source="38" target="39" weight="1.0" label="Chronica_I_12,"/>
+<edge id="157" source="38" target="49" weight="0.11" label="Chronica_I_12,"/>
+<edge id="158" source="38" target="44" weight="0.25" label="Chronica_I_12,"/>
+<edge id="159" source="38" target="53" weight="0.11" label="Chronica_I_12,"/>
+<edge id="160" source="38" target="50" weight="0.11" label="Chronica_I_12,"/>
+<edge id="161" source="38" target="46" weight="0.25" label="Chronica_I_12,"/>
+<edge id="162" source="38" target="54" weight="0.11" label="Chronica_I_12,"/>
+<edge id="163" source="38" target="41" weight="1.0" label="Chronica_I_12,"/>
+<edge id="164" source="38" target="48" weight="0.25" label="Chronica_I_12,"/>
+<edge id="165" source="38" target="40" weight="1.0" label="Chronica_I_12,"/>
+<edge id="166" source="38" target="51" weight="0.11" label="Chronica_I_12,"/>
+<edge id="167" source="38" target="45" weight="0.25" label="Chronica_I_12,"/>
+<edge id="168" source="38" target="43" weight="0.25" label="Chronica_I_12,"/>
+<edge id="169" source="38" target="42" weight="1.0" label="Chronica_I_12,"/>
+<edge id="170" source="38" target="52" weight="0.11" label="Chronica_I_12,"/>
+<edge id="171" source="38" target="47" weight="0.25" label="Chronica_I_12,"/>
+<edge id="172" source="43" target="49" weight="0.25" label="Chronica_I_12,"/>
+<edge id="173" source="43" target="53" weight="0.25" label="Chronica_I_12,"/>
+<edge id="174" source="43" target="50" weight="0.25" label="Chronica_I_12,"/>
+<edge id="175" source="43" target="54" weight="0.25" label="Chronica_I_12,"/>
+<edge id="176" source="43" target="48" weight="1.0" label="Chronica_I_12,"/>
+<edge id="177" source="43" target="51" weight="0.25" label="Chronica_I_12,"/>
+<edge id="178" source="43" target="52" weight="0.25" label="Chronica_I_12,"/>
+<edge id="179" source="43" target="47" weight="1.0" label="Chronica_I_12,"/>
+<edge id="180" source="33" target="31" weight="1.0" label="Chronica_I_12,"/>
+<edge id="181" source="33" target="27" weight="1.0" label="Chronica_I_12,"/>
+<edge id="182" source="33" target="37" weight="0.25" label="Chronica_I_12,"/>
+<edge id="183" source="33" target="30" weight="1.0" label="Chronica_I_12,"/>
+<edge id="184" source="33" target="32" weight="1.0" label="Chronica_I_12,"/>
+<edge id="185" source="33" target="29" weight="1.0" label="Chronica_I_12,"/>
+<edge id="186" source="33" target="35" weight="1.0" label="Chronica_I_12,"/>
+<edge id="187" source="33" target="36" weight="0.25" label="Chronica_I_12,"/>
+<edge id="188" source="33" target="26" weight="1.0" label="Chronica_I_12,"/>
+<edge id="189" source="25" target="34" weight="0.25" label="Chronica_I_12,"/>
+<edge id="190" source="25" target="27" weight="0.25" label="Chronica_I_12,"/>
+<edge id="191" source="25" target="28" weight="0.25" label="Chronica_I_12,"/>
+<edge id="192" source="25" target="37" weight="0.11" label="Chronica_I_12,"/>
+<edge id="193" source="25" target="30" weight="0.25" label="Chronica_I_12,"/>
+<edge id="194" source="25" target="32" weight="0.25" label="Chronica_I_12,"/>
+<edge id="195" source="25" target="29" weight="0.25" label="Chronica_I_12,"/>
+<edge id="196" source="25" target="35" weight="0.25" label="Chronica_I_12,"/>
+<edge id="197" source="25" target="36" weight="0.11" label="Chronica_I_12,"/>
+<edge id="198" source="25" target="33" weight="0.25" label="Chronica_I_12,"/>
+<edge id="199" source="25" target="31" weight="0.25" label="Chronica_I_12,"/>
+<edge id="200" source="25" target="26" weight="0.25" label="Chronica_I_12,"/>
+<edge id="201" source="42" target="49" weight="0.11" label="Chronica_I_12,"/>
+<edge id="202" source="42" target="44" weight="0.25" label="Chronica_I_12,"/>
+<edge id="203" source="42" target="53" weight="0.11" label="Chronica_I_12,"/>
+<edge id="204" source="42" target="50" weight="0.11" label="Chronica_I_12,"/>
+<edge id="205" source="42" target="46" weight="0.25" label="Chronica_I_12,"/>
+<edge id="206" source="42" target="54" weight="0.11" label="Chronica_I_12,"/>
+<edge id="207" source="42" target="41" weight="1.0" label="Chronica_I_12,"/>
+<edge id="208" source="42" target="48" weight="0.25" label="Chronica_I_12,"/>
+<edge id="209" source="42" target="40" weight="1.0" label="Chronica_I_12,"/>
+<edge id="210" source="42" target="51" weight="0.11" label="Chronica_I_12,"/>
+<edge id="211" source="42" target="45" weight="0.25" label="Chronica_I_12,"/>
+<edge id="212" source="42" target="43" weight="0.25" label="Chronica_I_12,"/>
+<edge id="213" source="42" target="52" weight="0.11" label="Chronica_I_12,"/>
+<edge id="214" source="42" target="47" weight="0.25" label="Chronica_I_12,"/>
+<edge id="215" source="26" target="27" weight="1.0" label="Chronica_I_12,"/>
+<edge id="216" source="26" target="37" weight="0.25" label="Chronica_I_12,"/>
+<edge id="217" source="26" target="30" weight="1.0" label="Chronica_I_12,"/>
+<edge id="218" source="26" target="32" weight="1.0" label="Chronica_I_12,"/>
+<edge id="219" source="26" target="29" weight="1.0" label="Chronica_I_12,"/>
+<edge id="220" source="26" target="36" weight="0.25" label="Chronica_I_12,"/>
+<edge id="221" source="21" target="24" weight="0.25" label="Chronica_I_12,"/>
+<edge id="222" source="21" target="23" weight="0.27" label="Chronica_I_12,"/>
+<edge id="223" source="23" target="34" weight="0.27" label="Chronica_I_12,"/>
+<edge id="224" source="23" target="31" weight="0.27" label="Chronica_I_12,"/>
+<edge id="225" source="23" target="24" weight="1.03" label="Chronica_I_12,"/>
+<edge id="226" source="23" target="27" weight="0.27" label="Chronica_I_12,"/>
+<edge id="227" source="23" target="28" weight="0.27" label="Chronica_I_12,"/>
+<edge id="228" source="23" target="37" weight="0.13" label="Chronica_I_12,"/>
+<edge id="229" source="23" target="30" weight="0.27" label="Chronica_I_12,"/>
+<edge id="230" source="23" target="32" weight="0.27" label="Chronica_I_12,"/>
+<edge id="231" source="23" target="29" weight="0.27" label="Chronica_I_12,"/>
+<edge id="232" source="23" target="35" weight="0.27" label="Chronica_I_12,"/>
+<edge id="233" source="23" target="36" weight="0.13" label="Chronica_I_12,"/>
+<edge id="234" source="23" target="33" weight="0.27" label="Chronica_I_12,"/>
+<edge id="235" source="23" target="25" weight="1.03" label="Chronica_I_12,"/>
+<edge id="236" source="23" target="26" weight="0.27" label="Chronica_I_12,"/>
+<edge id="237" source="47" target="49" weight="0.25" label="Chronica_I_12,"/>
+<edge id="238" source="47" target="53" weight="0.25" label="Chronica_I_12,"/>
+<edge id="239" source="47" target="50" weight="0.25" label="Chronica_I_12,"/>
+<edge id="240" source="47" target="48" weight="1.0" label="Chronica_I_12,"/>
+<edge id="241" source="47" target="51" weight="0.25" label="Chronica_I_12,"/>
+<edge id="242" source="47" target="52" weight="0.25" label="Chronica_I_12,"/>
+<edge id="243" source="47" target="54" weight="0.25" label="Chronica_I_12,"/>
+</edges>
+</graph></gexf>

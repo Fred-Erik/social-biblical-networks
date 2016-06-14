@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="7">
+
+<node id="252" label="Isaac">
+  <attvalues><attvalue for="occurrence" value="Genesis_27,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="257" label="Laban">
+  <attvalues><attvalue for="occurrence" value="Genesis_27,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="258" label="Heth">
+  <attvalues><attvalue for="occurrence" value="Genesis_27,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="256" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_27,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="253" label="Esau">
+  <attvalues><attvalue for="occurrence" value="Genesis_27,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="254" label="Rebekah">
+  <attvalues><attvalue for="occurrence" value="Genesis_27,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="255" label="Jacob">
+  <attvalues><attvalue for="occurrence" value="Genesis_27,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="12">
+<edge id="1" source="254" target="258" weight="0.37" label="Genesis_27,"/>
+<edge id="2" source="252" target="254" weight="2.16" label="Genesis_27,"/>
+<edge id="3" source="252" target="256" weight="0.4" label="Genesis_27,"/>
+<edge id="4" source="252" target="258" weight="0.37" label="Genesis_27,"/>
+<edge id="5" source="252" target="253" weight="3.2" label="Genesis_27,"/>
+<edge id="6" source="252" target="255" weight="4.88" label="Genesis_27,"/>
+<edge id="7" source="253" target="254" weight="4.42" label="Genesis_27,"/>
+<edge id="8" source="253" target="256" weight="0.19" label="Genesis_27,"/>
+<edge id="9" source="253" target="255" weight="4.82" label="Genesis_27,"/>
+<edge id="10" source="255" target="254" weight="3.01" label="Genesis_27,"/>
+<edge id="11" source="255" target="256" weight="0.38" label="Genesis_27,"/>
+<edge id="12" source="255" target="258" weight="1.28" label="Genesis_27,"/>
+</edges>
+</graph></gexf>

@@ -1,0 +1,2564 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="3" title="label" type="string" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="community" type="long" />
+      <attribute id="1" title="occurrence" type="string" />
+      <attribute id="2" title="nametype" type="string" />
+    </attributes>
+    <nodes>
+      <node id="3" label="Judah">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_1,Judices_10,Judices_15,Judices_17,Judices_18,Judices_19,Judices_20," />
+          <attvalue for="2" value="pers,gens,topo" />
+        </attvalues>
+      </node>
+      <node id="1" label="Israel">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_1,Judices_2,Judices_3,Judices_4,Judices_5,Judices_6,Judices_7,Judices_8,Judices_9,Judices_10,Judices_11,Judices_12,Judices_13,Judices_14,Judices_15,Judices_16,Judices_17,Judices_18,Judices_19,Judices_20,Judices_21," />
+          <attvalue for="2" value="pers,gens,topo" />
+        </attvalues>
+      </node>
+      <node id="52" label="Zeeb">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="Judices_7,Judices_8," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="65" label="Tola">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="Judices_10," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="19" label="Asher">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_1,Judices_5,Judices_6,Judices_7," />
+          <attvalue for="2" value="pers,gens,topo" />
+        </attvalues>
+      </node>
+      <node id="16" label="Manasseh">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_1,Judices_6,Judices_7,Judices_11,Judices_12,Judices_18," />
+          <attvalue for="2" value="pers,gens" />
+        </attvalues>
+      </node>
+      <node id="15" label="Joseph">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_1," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="41" label="Makir">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_5," />
+          <attvalue for="2" value="pers,gens" />
+        </attvalues>
+      </node>
+      <node id="21" label="Dan">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_1,Judices_5,Judices_18,Judices_20," />
+          <attvalue for="2" value="pers,gens,topo" />
+        </attvalues>
+      </node>
+      <node id="72" label="Balak">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_11," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="76" label="Abdon">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_12," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="63" label="Shechem">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="Judices_9," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="0" label="Joshua">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_1,Judices_2," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="73" label="Zippor">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_11," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="83" label="Micah">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_17,Judices_18," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="4" label="Simeon">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_1," />
+          <attvalue for="2" value="pers,gens,topo" />
+        </attvalues>
+      </node>
+      <node id="37" label="Abinoam">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="Judices_4,Judices_5," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="29" label="Gera">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_3," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="33" label="Sisera">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="Judices_4,Judices_5," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="86" label="Phinehas">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="Judices_20," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="31" label="Anath">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="Judices_3,Judices_5," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="59" label="Gaal">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="Judices_9," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="81" label="Dagon">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="Judices_16," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="12" label="Kenaz">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="Judices_1,Judices_3," />
+          <attvalue for="2" value="pers,gens" />
+        </attvalues>
+      </node>
+      <node id="17" label="Ephraim">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_1,Judices_2,Judices_3,Judices_4,Judices_5,Judices_7,Judices_8,Judices_10,Judices_12,Judices_17,Judices_18,Judices_19," />
+          <attvalue for="2" value="pers,gens,topo" />
+        </attvalues>
+      </node>
+      <node id="6" label="Sheshai">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="Judices_1," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="2" label="YHWH">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_1,Judices_2,Judices_3,Judices_4,Judices_5,Judices_6,Judices_7,Judices_8,Judices_10,Judices_11,Judices_12,Judices_13,Judices_14,Judices_15,Judices_16,Judices_17,Judices_18,Judices_19,Judices_20,Judices_21," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="7" label="Ahiman">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="Judices_1," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="53" label="Zebah">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="Judices_8," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="9" label="Caleb">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="Judices_1,Judices_3," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="39" label="Hobab">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="Judices_4," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="32" label="Jabin">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="Judices_4," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="84" label="Jehonathan">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_18," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="38" label="Heber">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="Judices_4,Judices_5," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="25" label="Eglon">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_3," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="23" label="Canaan">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="Judices_3,Judices_4,Judices_5,Judices_21," />
+          <attvalue for="2" value="pers,gens,topo" />
+        </attvalues>
+      </node>
+      <node id="42" label="Issachar">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="Judices_5,Judices_10," />
+          <attvalue for="2" value="pers,gens,topo" />
+        </attvalues>
+      </node>
+      <node id="28" label="Ehud">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_3,Judices_4," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="64" label="ElBerith">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="Judices_9," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="34" label="Deborah">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="Judices_4,Judices_5," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="8" label="Talmai">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="Judices_1," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="69" label="judge">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_11,Judices_12," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="54" label="Zalmunna">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="Judices_8," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="58" label="Jotham">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="Judices_9," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="80" label="Delilah">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="Judices_16," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="27" label="Amalek">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="Judices_3,Judices_5,Judices_6,Judices_7,Judices_10," />
+          <attvalue for="2" value="pers,gens" />
+        </attvalues>
+      </node>
+      <node id="43" label="Reuben">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="Judices_5," />
+          <attvalue for="2" value="pers,gens,topo" />
+        </attvalues>
+      </node>
+      <node id="11" label="Othniel">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="Judices_1,Judices_3," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="57" label="BaalBerith">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="Judices_8,Judices_9," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="40" label="Jael">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="Judices_4,Judices_5," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="14" label="Benjamin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_1,Judices_5,Judices_10,Judices_19,Judices_20,Judices_21," />
+          <attvalue for="2" value="pers,gens,topo" />
+        </attvalues>
+      </node>
+      <node id="67" label="Dodo">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="Judices_10," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="55" label="Jether">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="Judices_8," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="50" label="Purah">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="Judices_7," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="44" label="Midian">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="Judices_6,Judices_7,Judices_8,Judices_9," />
+          <attvalue for="2" value="pers,gens,topo" />
+        </attvalues>
+      </node>
+      <node id="82" label="prophet">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_17," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="45" label="Joash">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="Judices_6,Judices_7,Judices_8," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="20" label="Naphtali">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_1,Judices_4,Judices_5,Judices_6,Judices_7," />
+          <attvalue for="2" value="pers,gens,topo" />
+        </attvalues>
+      </node>
+      <node id="10" label="Acsah">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="Judices_1," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="49" label="Abiezer">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_6,Judices_8," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="68" label="Jair">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_10," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="71" label="Chemosh">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_11," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="36" label="Barak">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="Judices_4,Judices_5," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="26" label="Moab">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_3,Judices_10,Judices_11," />
+          <attvalue for="2" value="pers,gens,topo" />
+        </attvalues>
+      </node>
+      <node id="18" label="Zebulun">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_1,Judices_4,Judices_5,Judices_6,Judices_12," />
+          <attvalue for="2" value="pers,gens,topo" />
+        </attvalues>
+      </node>
+      <node id="87" label="Eleazar">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="Judices_20," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="66" label="Puah">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="Judices_10," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="74" label="Ibzan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_12," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="79" label="Samson">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="Judices_13,Judices_14,Judices_15,Judices_16," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="62" label="Hamor">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="Judices_9," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="48" label="JerubBaal">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="Judices_6,Judices_7,Judices_8,Judices_9," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="22" label="Nun">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_2," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="70" label="Sihon">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_11," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="61" label="Zebul">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="Judices_9," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="60" label="Ebed">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="Judices_9," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="13" label="Moses">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="Judices_1,Judices_3,Judices_4," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="5" label="AdoniBezek">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_1," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="88" label="Aaron">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="Judices_20," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="46" label="Gideon">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="Judices_6,Judices_7,Judices_8," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="47" label="Lord">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_6,Judices_13,Judices_16," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="30" label="Shamgar">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="Judices_3,Judices_5," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="85" label="Gershom">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_18," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="24" label="CushanRishathaim">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_3," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="75" label="judge2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_12," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="35" label="Lappidoth">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_4," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="78" label="Manoah">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Judices_13,Judices_16," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="56" label="Abimelech">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="Judices_8,Judices_9,Judices_10," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="51" label="Oreb">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="Judices_7,Judices_8," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+      <node id="77" label="Hillel">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Judices_12," />
+          <attvalue for="2" value="pers" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="257" source="3" target="83" weight="0.85">
+        <attvalues>
+          <attvalue for="3" value="Judices_17,Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="171" source="3" target="79" weight="0.7">
+        <attvalues>
+          <attvalue for="3" value="Judices_15," />
+        </attvalues>
+      </edge>
+      <edge id="24" source="3" target="7" weight="0.2">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="334" source="3" target="1" weight="1.63">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_10,Judices_15,Judices_17,Judices_18,Judices_19,Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="18" source="3" target="4" weight="2.6">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="126" source="3" target="14" weight="1.37">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_10,Judices_19,Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="23" source="3" target="10" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="20" source="3" target="9" weight="0.62">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="19" source="3" target="17" weight="2.85">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_10,Judices_17,Judices_18,Judices_19," />
+        </attvalues>
+      </edge>
+      <edge id="21" source="3" target="6" weight="0.2">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="25" source="3" target="5" weight="0.22">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="22" source="3" target="13" weight="1.22">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="52" source="3" target="2" weight="2.9">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_10,Judices_15,Judices_17,Judices_18,Judices_19,Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="17" source="3" target="8" weight="0.2">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="348" source="1" target="42" weight="1.19">
+        <attvalues>
+          <attvalue for="3" value="Judices_5,Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="369" source="1" target="57" weight="0.48">
+        <attvalues>
+          <attvalue for="3" value="Judices_8,Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="340" source="1" target="40" weight="0.64">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="346" source="1" target="20" weight="1.58">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_4,Judices_5,Judices_6,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="167" source="1" target="65" weight="1.15">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="134" source="1" target="14" weight="28.15">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_5,Judices_10,Judices_19,Judices_20,Judices_21," />
+        </attvalues>
+      </edge>
+      <edge id="356" source="1" target="16" weight="1.58">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_6,Judices_7,Judices_11,Judices_12,Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="10" source="1" target="67" weight="1.15">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="379" source="1" target="88" weight="0.22">
+        <attvalues>
+          <attvalue for="3" value="Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="349" source="1" target="21" weight="2.17">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_5,Judices_18,Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="380" source="1" target="72" weight="0.39">
+        <attvalues>
+          <attvalue for="3" value="Judices_11," />
+        </attvalues>
+      </edge>
+      <edge id="366" source="1" target="76" weight="1.6">
+        <attvalues>
+          <attvalue for="3" value="Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="374" source="1" target="68" weight="0.79">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="365" source="1" target="35" weight="1.6">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="239" source="1" target="0" weight="3.72">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_2," />
+        </attvalues>
+      </edge>
+      <edge id="357" source="1" target="73" weight="0.39">
+        <attvalues>
+          <attvalue for="3" value="Judices_11," />
+        </attvalues>
+      </edge>
+      <edge id="259" source="1" target="83" weight="0.49">
+        <attvalues>
+          <attvalue for="3" value="Judices_17,Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="355" source="1" target="44" weight="10.8">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7,Judices_8,Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="337" source="1" target="37" weight="0.75">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="347" source="1" target="29" weight="0.69">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="371" source="1" target="24" weight="2.93">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="338" source="1" target="86" weight="0.22">
+        <attvalues>
+          <attvalue for="3" value="Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="272" source="1" target="82" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Judices_17," />
+        </attvalues>
+      </edge>
+      <edge id="372" source="1" target="45" weight="1.51">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="370" source="1" target="31" weight="0.84">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="336" source="1" target="9" weight="0.64">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="345" source="1" target="12" weight="1.12">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="341" source="1" target="71" weight="0.2">
+        <attvalues>
+          <attvalue for="3" value="Judices_11," />
+        </attvalues>
+      </edge>
+      <edge id="359" source="1" target="17" weight="4.62">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_2,Judices_3,Judices_4,Judices_5,Judices_7,Judices_8,Judices_10,Judices_12,Judices_17,Judices_18,Judices_19," />
+        </attvalues>
+      </edge>
+      <edge id="342" source="1" target="26" weight="9.26">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_10,Judices_11," />
+        </attvalues>
+      </edge>
+      <edge id="362" source="1" target="18" weight="0.79">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_4,Judices_5,Judices_6,Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="376" source="1" target="87" weight="0.22">
+        <attvalues>
+          <attvalue for="3" value="Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="83" source="1" target="2" weight="70.32">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_2,Judices_3,Judices_4,Judices_5,Judices_6,Judices_7,Judices_8,Judices_10,Judices_11,Judices_12,Judices_13,Judices_14,Judices_15,Judices_16,Judices_17,Judices_18,Judices_19,Judices_20,Judices_21," />
+        </attvalues>
+      </edge>
+      <edge id="106" source="1" target="69" weight="5.77">
+        <attvalues>
+          <attvalue for="3" value="Judices_11,Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="350" source="1" target="79" weight="0.34">
+        <attvalues>
+          <attvalue for="3" value="Judices_13,Judices_14,Judices_15,Judices_16," />
+        </attvalues>
+      </edge>
+      <edge id="364" source="1" target="48" weight="1.62">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7,Judices_8,Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="333" source="1" target="19" weight="1.11">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_5,Judices_6,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="343" source="1" target="22" weight="0.48">
+        <attvalues>
+          <attvalue for="3" value="Judices_2," />
+        </attvalues>
+      </edge>
+      <edge id="373" source="1" target="70" weight="4.83">
+        <attvalues>
+          <attvalue for="3" value="Judices_11," />
+        </attvalues>
+      </edge>
+      <edge id="352" source="1" target="78" weight="0.34">
+        <attvalues>
+          <attvalue for="3" value="Judices_13,Judices_16," />
+        </attvalues>
+      </edge>
+      <edge id="332" source="1" target="25" weight="4.26">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="361" source="1" target="13" weight="1.59">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_3,Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="368" source="1" target="32" weight="2.83">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="339" source="1" target="36" weight="0.89">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="375" source="1" target="46" weight="5.93">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="360" source="1" target="47" weight="0.33">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_13,Judices_16," />
+        </attvalues>
+      </edge>
+      <edge id="351" source="1" target="27" weight="1.09">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_5,Judices_6,Judices_7,Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="244" source="1" target="23" weight="4.21">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_4,Judices_5,Judices_21," />
+        </attvalues>
+      </edge>
+      <edge id="378" source="1" target="30" weight="0.84">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="363" source="1" target="33" weight="0.54">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="354" source="1" target="28" weight="1.55">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="353" source="1" target="75" weight="1.95">
+        <attvalues>
+          <attvalue for="3" value="Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="97" source="1" target="66" weight="1.15">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="377" source="1" target="34" weight="3.58">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="358" source="1" target="74" weight="1.64">
+        <attvalues>
+          <attvalue for="3" value="Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="283" source="1" target="54" weight="0.15">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="335" source="1" target="56" weight="4.09">
+        <attvalues>
+          <attvalue for="3" value="Judices_8,Judices_9,Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="9" source="1" target="53" weight="0.15">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="344" source="1" target="77" weight="1.6">
+        <attvalues>
+          <attvalue for="3" value="Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="367" source="1" target="11" weight="1.12">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="314" source="52" target="46" weight="1.3">
+        <attvalues>
+          <attvalue for="3" value="Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="140" source="52" target="51" weight="3.86">
+        <attvalues>
+          <attvalue for="3" value="Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="188" source="52" target="44" weight="2.87">
+        <attvalues>
+          <attvalue for="3" value="Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="139" source="52" target="17" weight="0.49">
+        <attvalues>
+          <attvalue for="3" value="Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="270" source="52" target="49" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="11" source="65" target="67" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="170" source="65" target="17" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="169" source="65" target="56" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="168" source="65" target="42" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="99" source="65" target="66" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="310" source="19" target="46" weight="0.29">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="16" source="19" target="21" weight="0.27">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="211" source="19" target="17" weight="0.17">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_5,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="231" source="19" target="18" weight="1.18">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_5,Judices_6," />
+        </attvalues>
+      </edge>
+      <edge id="153" source="19" target="20" weight="2.12">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_5,Judices_6,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="190" source="19" target="44" weight="0.35">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="15" source="19" target="16" weight="1.12">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_6,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="50" source="19" target="2" weight="0.19">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_5,Judices_6,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="255" source="16" target="83" weight="0.26">
+        <attvalues>
+          <attvalue for="3" value="Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="308" source="16" target="46" weight="0.27">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="203" source="16" target="47" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Judices_6," />
+        </attvalues>
+      </edge>
+      <edge id="196" source="16" target="44" weight="0.44">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="202" source="16" target="85" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="157" source="16" target="20" weight="1.12">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_6,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="204" source="16" target="49" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_6," />
+        </attvalues>
+      </edge>
+      <edge id="166" source="16" target="21" weight="0.32">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="216" source="16" target="17" weight="1.83">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_7,Judices_12,Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="205" source="16" target="84" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="232" source="16" target="18" weight="0.12">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_6,Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="63" source="16" target="2" weight="0.8">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_6,Judices_7,Judices_11,Judices_12,Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="104" source="16" target="69" weight="0.49">
+        <attvalues>
+          <attvalue for="3" value="Judices_11,Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="133" source="15" target="14" weight="0.46">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="84" source="15" target="2" weight="0.53">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="319" source="41" target="34" weight="0.27">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="207" source="41" target="42" weight="0.36">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="210" source="41" target="17" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="110" source="41" target="36" weight="0.1">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="230" source="41" target="18" weight="1.01">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="175" source="41" target="27" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="124" source="41" target="14" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="48" source="41" target="2" weight="0.28">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="165" source="21" target="83" weight="1.51">
+        <attvalues>
+          <attvalue for="3" value="Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="163" source="21" target="85" weight="0.32">
+        <attvalues>
+          <attvalue for="3" value="Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="294" source="21" target="43" weight="0.15">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="164" source="21" target="84" weight="0.32">
+        <attvalues>
+          <attvalue for="3" value="Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="158" source="21" target="20" weight="0.1">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="136" source="21" target="14" weight="0.14">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_5,Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="90" source="21" target="2" weight="1.03">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_5,Judices_18,Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="206" source="72" target="73" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_11," />
+        </attvalues>
+      </edge>
+      <edge id="147" source="72" target="26" weight="1.01">
+        <attvalues>
+          <attvalue for="3" value="Judices_11," />
+        </attvalues>
+      </edge>
+      <edge id="78" source="72" target="2" weight="0.18">
+        <attvalues>
+          <attvalue for="3" value="Judices_11," />
+        </attvalues>
+      </edge>
+      <edge id="234" source="76" target="18" weight="0.29">
+        <attvalues>
+          <attvalue for="3" value="Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="275" source="76" target="77" weight="2.12">
+        <attvalues>
+          <attvalue for="3" value="Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="220" source="76" target="17" weight="0.31">
+        <attvalues>
+          <attvalue for="3" value="Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="181" source="76" target="75" weight="0.19">
+        <attvalues>
+          <attvalue for="3" value="Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="226" source="63" target="61" weight="0.27">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="266" source="63" target="48" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="151" source="63" target="62" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="32" source="63" target="56" weight="0.2">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="236" source="0" target="22" weight="1.31">
+        <attvalues>
+          <attvalue for="3" value="Judices_2," />
+        </attvalues>
+      </edge>
+      <edge id="237" source="0" target="17" weight="0.4">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_2," />
+        </attvalues>
+      </edge>
+      <edge id="238" source="0" target="2" weight="5.42">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_2," />
+        </attvalues>
+      </edge>
+      <edge id="47" source="73" target="2" weight="0.18">
+        <attvalues>
+          <attvalue for="3" value="Judices_11," />
+        </attvalues>
+      </edge>
+      <edge id="141" source="73" target="26" weight="1.01">
+        <attvalues>
+          <attvalue for="3" value="Judices_11," />
+        </attvalues>
+      </edge>
+      <edge id="260" source="83" target="85" weight="0.26">
+        <attvalues>
+          <attvalue for="3" value="Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="223" source="83" target="17" weight="2.71">
+        <attvalues>
+          <attvalue for="3" value="Judices_17,Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="258" source="83" target="84" weight="0.26">
+        <attvalues>
+          <attvalue for="3" value="Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="271" source="83" target="82" weight="0.29">
+        <attvalues>
+          <attvalue for="3" value="Judices_17," />
+        </attvalues>
+      </edge>
+      <edge id="256" source="83" target="2" weight="0.49">
+        <attvalues>
+          <attvalue for="3" value="Judices_17,Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="77" source="4" target="2" weight="0.28">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="38" source="37" target="38" weight="0.12">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="247" source="37" target="33" weight="1.39">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="42" source="37" target="20" weight="1.07">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="44" source="37" target="14" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="320" source="37" target="34" weight="1.35">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="213" source="37" target="17" weight="0.18">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="39" source="37" target="39" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="43" source="37" target="36" weight="3.5">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="40" source="37" target="13" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="41" source="37" target="18" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="45" source="37" target="27" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="55" source="37" target="2" weight="0.74">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="2" source="29" target="25" weight="0.41">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="186" source="29" target="28" weight="1.12">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="145" source="29" target="26" weight="0.4">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="88" source="29" target="2" weight="1.31">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="246" source="33" target="38" weight="2.22">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="254" source="33" target="40" weight="2.83">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="243" source="33" target="23" weight="0.45">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="185" source="33" target="28" weight="0.12">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="252" source="33" target="20" weight="0.49">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="251" source="33" target="34" weight="1.08">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="249" source="33" target="13" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="248" source="33" target="39" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="286" source="33" target="32" weight="2.03">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="253" source="33" target="36" weight="5.75">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="250" source="33" target="18" weight="0.44">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="60" source="33" target="2" weight="4.85">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="108" source="86" target="88" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="61" source="86" target="2" weight="0.28">
+        <attvalues>
+          <attvalue for="3" value="Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="317" source="86" target="87" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="138" source="86" target="14" weight="0.32">
+        <attvalues>
+          <attvalue for="3" value="Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="121" source="31" target="40" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="293" source="31" target="30" weight="2.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="142" source="31" target="26" weight="0.18">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="76" source="31" target="2" weight="0.43">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="120" source="59" target="61" weight="2.81">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="119" source="59" target="60" weight="5.29">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="268" source="59" target="48" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="33" source="59" target="56" weight="3.03">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="174" source="81" target="79" weight="0.15">
+        <attvalues>
+          <attvalue for="3" value="Judices_16," />
+        </attvalues>
+      </edge>
+      <edge id="35" source="12" target="9" weight="2.16">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="150" source="12" target="25" weight="0.16">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="149" source="12" target="26" weight="0.15">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="297" source="12" target="24" weight="0.36">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="277" source="12" target="11" weight="3.03">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="160" source="12" target="10" weight="0.5">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="74" source="12" target="2" weight="1.33">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="125" source="17" target="14" weight="2.03">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_5,Judices_10,Judices_19," />
+        </attvalues>
+      </edge>
+      <edge id="14" source="17" target="67" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="148" source="17" target="22" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_2," />
+        </attvalues>
+      </edge>
+      <edge id="51" source="17" target="2" weight="2.44">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_2,Judices_3,Judices_4,Judices_5,Judices_7,Judices_8,Judices_10,Judices_12,Judices_17,Judices_18,Judices_19," />
+        </attvalues>
+      </edge>
+      <edge id="215" source="17" target="36" weight="0.18">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="274" source="17" target="35" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="214" source="17" target="18" weight="0.42">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_4,Judices_5,Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="315" source="17" target="46" weight="1.18">
+        <attvalues>
+          <attvalue for="3" value="Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="191" source="17" target="44" weight="1.27">
+        <attvalues>
+          <attvalue for="3" value="Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="218" source="17" target="82" weight="0.27">
+        <attvalues>
+          <attvalue for="3" value="Judices_17," />
+        </attvalues>
+      </edge>
+      <edge id="221" source="17" target="42" weight="0.43">
+        <attvalues>
+          <attvalue for="3" value="Judices_5,Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="154" source="17" target="20" weight="0.23">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_4,Judices_5,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="217" source="17" target="49" weight="1.02">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="330" source="17" target="34" weight="1.14">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="222" source="17" target="27" weight="1.01">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_5,Judices_7,Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="212" source="17" target="56" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_8,Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="381" source="17" target="51" weight="0.52">
+        <attvalues>
+          <attvalue for="3" value="Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="219" source="17" target="77" weight="0.31">
+        <attvalues>
+          <attvalue for="3" value="Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="102" source="17" target="66" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="209" source="17" target="69" weight="1.05">
+        <attvalues>
+          <attvalue for="3" value="Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="227" source="6" target="9" weight="0.1">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="384" source="6" target="7" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="292" source="6" target="8" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="75" source="2" target="57" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="66" source="2" target="40" weight="0.82">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="131" source="2" target="14" weight="6.14">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_5,Judices_10,Judices_19,Judices_20,Judices_21," />
+        </attvalues>
+      </edge>
+      <edge id="59" source="2" target="68" weight="0.34">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="69" source="2" target="44" weight="7.52">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="91" source="2" target="24" weight="2.97">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="80" source="2" target="45" weight="0.66">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="86" source="2" target="20" weight="0.52">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_4,Judices_5,Judices_6,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="65" source="2" target="49" weight="0.12">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="71" source="2" target="71" weight="0.35">
+        <attvalues>
+          <attvalue for="3" value="Judices_11," />
+        </attvalues>
+      </edge>
+      <edge id="72" source="2" target="26" weight="4.6">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_10,Judices_11," />
+        </attvalues>
+      </edge>
+      <edge id="57" source="2" target="18" weight="0.52">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_4,Judices_5,Judices_6,Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="58" source="2" target="87" weight="0.28">
+        <attvalues>
+          <attvalue for="3" value="Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="103" source="2" target="69" weight="5.99">
+        <attvalues>
+          <attvalue for="3" value="Judices_11,Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="54" source="2" target="9" weight="0.88">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="92" source="2" target="79" weight="2.22">
+        <attvalues>
+          <attvalue for="3" value="Judices_13,Judices_14,Judices_15,Judices_16," />
+        </attvalues>
+      </edge>
+      <edge id="64" source="2" target="48" weight="0.36">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="6" source="2" target="53" weight="1.2">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="73" source="2" target="22" weight="1.47">
+        <attvalues>
+          <attvalue for="3" value="Judices_2," />
+        </attvalues>
+      </edge>
+      <edge id="81" source="2" target="70" weight="1.24">
+        <attvalues>
+          <attvalue for="3" value="Judices_11," />
+        </attvalues>
+      </edge>
+      <edge id="95" source="2" target="78" weight="12.37">
+        <attvalues>
+          <attvalue for="3" value="Judices_13,Judices_16," />
+        </attvalues>
+      </edge>
+      <edge id="56" source="2" target="13" weight="1.52">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_3,Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="96" source="2" target="32" weight="1.29">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="62" source="2" target="36" weight="2.94">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="70" source="2" target="38" weight="0.47">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="82" source="2" target="46" weight="13.72">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="53" source="2" target="47" weight="2.75">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_13,Judices_16," />
+        </attvalues>
+      </edge>
+      <edge id="49" source="2" target="25" weight="2.57">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="242" source="2" target="23" weight="2.57">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_4,Judices_5,Judices_21," />
+        </attvalues>
+      </edge>
+      <edge id="87" source="2" target="30" weight="0.43">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="89" source="2" target="42" weight="0.24">
+        <attvalues>
+          <attvalue for="3" value="Judices_5,Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="46" source="2" target="28" weight="2.14">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="67" source="2" target="35" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="85" source="2" target="34" weight="1.52">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="79" source="2" target="88" weight="0.28">
+        <attvalues>
+          <attvalue for="3" value="Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="281" source="2" target="54" weight="1.2">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="94" source="2" target="5" weight="0.18">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="93" source="2" target="27" weight="1.88">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_5,Judices_6,Judices_7,Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="68" source="2" target="11" weight="1.33">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="382" source="7" target="9" weight="0.1">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="383" source="7" target="8" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="7" source="53" target="46" weight="1.39">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="4" source="53" target="44" weight="2.43">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="8" source="53" target="54" weight="12.59">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="5" source="53" target="45" weight="0.22">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="291" source="9" target="8" weight="0.1">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="299" source="9" target="24" weight="0.17">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="127" source="9" target="14" weight="0.19">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="37" source="9" target="10" weight="0.89">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="34" source="9" target="11" weight="2.16">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="36" source="9" target="13" weight="1.3">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="152" source="39" target="38" weight="1.01">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="321" source="39" target="34" weight="0.32">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="229" source="39" target="13" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="111" source="39" target="36" weight="0.29">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="289" source="32" target="38" weight="1.27">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="290" source="32" target="40" weight="0.53">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="245" source="32" target="23" weight="3.51">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="288" source="32" target="36" weight="0.27">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="187" source="32" target="28" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="285" source="32" target="18" weight="0.26">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="287" source="32" target="20" weight="0.3">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="331" source="84" target="85" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_18," />
+        </attvalues>
+      </edge>
+      <edge id="284" source="38" target="40" weight="3.64">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="109" source="38" target="36" weight="0.5">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="228" source="38" target="13" weight="1.01">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="318" source="38" target="34" weight="0.35">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="1" source="25" target="26" weight="4.57">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="298" source="25" target="24" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="3" source="25" target="27" weight="0.18">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="184" source="25" target="28" weight="0.84">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="278" source="25" target="11" weight="0.16">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="241" source="23" target="13" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="240" source="23" target="28" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="132" source="23" target="14" weight="0.19">
+        <attvalues>
+          <attvalue for="3" value="Judices_5,Judices_21," />
+        </attvalues>
+      </edge>
+      <edge id="135" source="42" target="14" weight="0.18">
+        <attvalues>
+          <attvalue for="3" value="Judices_5,Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="100" source="42" target="66" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="12" source="42" target="67" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="326" source="42" target="34" weight="1.28">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="162" source="42" target="56" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="115" source="42" target="36" weight="0.41">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="235" source="42" target="18" weight="0.38">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="178" source="42" target="27" weight="0.17">
+        <attvalues>
+          <attvalue for="3" value="Judices_5,Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="161" source="42" target="43" weight="0.15">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="183" source="28" target="26" weight="0.82">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="31" source="64" target="56" weight="0.48">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="327" source="34" target="40" weight="0.12">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="324" source="34" target="20" weight="0.34">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="328" source="34" target="14" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="273" source="34" target="35" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="325" source="34" target="36" weight="3.21">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="322" source="34" target="13" weight="0.32">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="323" source="34" target="18" weight="0.54">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="329" source="34" target="27" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="105" source="69" target="26" weight="0.55">
+        <attvalues>
+          <attvalue for="3" value="Judices_11," />
+        </attvalues>
+      </edge>
+      <edge id="107" source="69" target="74" weight="0.21">
+        <attvalues>
+          <attvalue for="3" value="Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="282" source="54" target="46" weight="1.39">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="279" source="54" target="44" weight="2.43">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="280" source="54" target="45" weight="0.22">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="267" source="58" target="48" weight="2.36">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="30" source="58" target="56" weight="1.03">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="173" source="80" target="79" weight="3.51">
+        <attvalues>
+          <attvalue for="3" value="Judices_16," />
+        </attvalues>
+      </edge>
+      <edge id="177" source="27" target="46" weight="0.16">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="128" source="27" target="14" weight="1.01">
+        <attvalues>
+          <attvalue for="3" value="Judices_5,Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="200" source="27" target="44" weight="3.18">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="146" source="27" target="26" weight="0.18">
+        <attvalues>
+          <attvalue for="3" value="Judices_3,Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="118" source="27" target="36" weight="0.1">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="176" source="27" target="18" weight="0.27">
+        <attvalues>
+          <attvalue for="3" value="Judices_5,Judices_6," />
+        </attvalues>
+      </edge>
+      <edge id="385" source="27" target="50" weight="0.28">
+        <attvalues>
+          <attvalue for="3" value="Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="114" source="43" target="36" weight="0.17">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="276" source="11" target="26" weight="0.15">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="295" source="11" target="24" weight="0.36">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="159" source="11" target="10" weight="0.5">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="303" source="57" target="46" weight="0.23">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="261" source="57" target="48" weight="0.21">
+        <attvalues>
+          <attvalue for="3" value="Judices_8,Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="26" source="57" target="56" weight="0.36">
+        <attvalues>
+          <attvalue for="3" value="Judices_8,Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="116" source="40" target="36" weight="0.47">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="122" source="40" target="30" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="129" source="14" target="13" weight="0.18">
+        <attvalues>
+          <attvalue for="3" value="Judices_1," />
+        </attvalues>
+      </edge>
+      <edge id="117" source="14" target="36" weight="0.1">
+        <attvalues>
+          <attvalue for="3" value="Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="123" source="14" target="88" weight="0.32">
+        <attvalues>
+          <attvalue for="3" value="Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="130" source="14" target="18" weight="0.26">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="137" source="14" target="87" weight="0.32">
+        <attvalues>
+          <attvalue for="3" value="Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="13" source="67" target="56" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="98" source="67" target="66" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="201" source="50" target="44" weight="0.34">
+        <attvalues>
+          <attvalue for="3" value="Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="194" source="44" target="46" weight="5.22">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="189" source="44" target="47" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Judices_6," />
+        </attvalues>
+      </edge>
+      <edge id="197" source="44" target="48" weight="0.45">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7,Judices_8,Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="193" source="44" target="45" weight="0.8">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="195" source="44" target="20" weight="0.35">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="198" source="44" target="49" weight="0.33">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="192" source="44" target="56" weight="0.21">
+        <attvalues>
+          <attvalue for="3" value="Judices_8,Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="199" source="44" target="51" weight="2.88">
+        <attvalues>
+          <attvalue for="3" value="Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="304" source="45" target="46" weight="6.04">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="300" source="45" target="56" weight="0.4">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="301" source="45" target="48" weight="1.12">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="307" source="20" target="46" weight="0.29">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7," />
+        </attvalues>
+      </edge>
+      <edge id="156" source="20" target="36" weight="2.46">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="155" source="20" target="18" weight="3.31">
+        <attvalues>
+          <attvalue for="3" value="Judices_1,Judices_4,Judices_5,Judices_6," />
+        </attvalues>
+      </edge>
+      <edge id="311" source="49" target="46" weight="0.2">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="269" source="49" target="51" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="302" source="68" target="26" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="112" source="36" target="13" weight="0.29">
+        <attvalues>
+          <attvalue for="3" value="Judices_4," />
+        </attvalues>
+      </edge>
+      <edge id="113" source="36" target="18" weight="1.54">
+        <attvalues>
+          <attvalue for="3" value="Judices_4,Judices_5," />
+        </attvalues>
+      </edge>
+      <edge id="144" source="26" target="70" weight="0.69">
+        <attvalues>
+          <attvalue for="3" value="Judices_11," />
+        </attvalues>
+      </edge>
+      <edge id="296" source="26" target="24" weight="0.12">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="143" source="26" target="30" weight="0.18">
+        <attvalues>
+          <attvalue for="3" value="Judices_3," />
+        </attvalues>
+      </edge>
+      <edge id="305" source="18" target="46" weight="0.15">
+        <attvalues>
+          <attvalue for="3" value="Judices_6," />
+        </attvalues>
+      </edge>
+      <edge id="182" source="18" target="75" weight="0.31">
+        <attvalues>
+          <attvalue for="3" value="Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="233" source="18" target="77" weight="0.29">
+        <attvalues>
+          <attvalue for="3" value="Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="316" source="87" target="88" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_20," />
+        </attvalues>
+      </edge>
+      <edge id="101" source="66" target="56" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Judices_10," />
+        </attvalues>
+      </edge>
+      <edge id="208" source="74" target="75" weight="0.18">
+        <attvalues>
+          <attvalue for="3" value="Judices_12," />
+        </attvalues>
+      </edge>
+      <edge id="172" source="79" target="47" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_13,Judices_16," />
+        </attvalues>
+      </edge>
+      <edge id="265" source="62" target="48" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="224" source="62" target="61" weight="0.27">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="28" source="62" target="56" weight="0.2">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="309" source="48" target="46" weight="2.65">
+        <attvalues>
+          <attvalue for="3" value="Judices_6,Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="263" source="48" target="61" weight="1.03">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="262" source="48" target="60" weight="0.12">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="264" source="48" target="56" weight="4.09">
+        <attvalues>
+          <attvalue for="3" value="Judices_8,Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="225" source="61" target="60" weight="1.23">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="29" source="61" target="56" weight="1.28">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="27" source="60" target="56" weight="1.78">
+        <attvalues>
+          <attvalue for="3" value="Judices_9," />
+        </attvalues>
+      </edge>
+      <edge id="313" source="46" target="47" weight="0.4">
+        <attvalues>
+          <attvalue for="3" value="Judices_6," />
+        </attvalues>
+      </edge>
+      <edge id="306" source="46" target="56" weight="0.49">
+        <attvalues>
+          <attvalue for="3" value="Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="312" source="46" target="51" weight="1.26">
+        <attvalues>
+          <attvalue for="3" value="Judices_7,Judices_8," />
+        </attvalues>
+      </edge>
+      <edge id="179" source="47" target="78" weight="0.22">
+        <attvalues>
+          <attvalue for="3" value="Judices_13,Judices_16," />
+        </attvalues>
+      </edge>
+      <edge id="180" source="75" target="77" weight="0.19">
+        <attvalues>
+          <attvalue for="3" value="Judices_12," />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

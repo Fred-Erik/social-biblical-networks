@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="28">
+
+<node id="22" label="Pekahiah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="23" label="Pekah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="16" label="Menahem">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="27" label="Gileadite">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="1" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="3" label="David">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="6" label="Jeroboam">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="25" label="Argob">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="18" label="Tirzah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="21" label="Asshur">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="15" label="Uzziah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="24" label="Remaliah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="17" label="Gadi">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="26" label="Arieh">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="8" label="Samaria">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="11" label="Shallum">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="10" label="Nebat">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="20" label="Pul">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="14" label="Jehu">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="13" label="Zechariah2">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="5" label="Zechariah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="0" label="Azariahu">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="7" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="19" label="Tiphsah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="4" label="Jotham">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="12" label="Jabesh">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="2" label="Azariah">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="9" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Reges_II_15,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="180">
+<edge id="1" source="1" target="9" weight="1.18" label="Reges_II_15,"/>
+<edge id="2" source="1" target="20" weight="0.15" label="Reges_II_15,"/>
+<edge id="3" source="1" target="8" weight="4.59" label="Reges_II_15,"/>
+<edge id="4" source="1" target="4" weight="0.32" label="Reges_II_15,"/>
+<edge id="5" source="1" target="21" weight="0.2" label="Reges_II_15,"/>
+<edge id="6" source="1" target="17" weight="1.15" label="Reges_II_15,"/>
+<edge id="7" source="1" target="15" weight="1.02" label="Reges_II_15,"/>
+<edge id="8" source="1" target="12" weight="1.18" label="Reges_II_15,"/>
+<edge id="9" source="1" target="2" weight="3.37" label="Reges_II_15,"/>
+<edge id="10" source="1" target="23" weight="1.1" label="Reges_II_15,"/>
+<edge id="11" source="1" target="7" weight="5.3" label="Reges_II_15,"/>
+<edge id="12" source="1" target="5" weight="1.05" label="Reges_II_15,"/>
+<edge id="13" source="1" target="0" weight="2.1" label="Reges_II_15,"/>
+<edge id="14" source="1" target="10" weight="0.53" label="Reges_II_15,"/>
+<edge id="15" source="1" target="18" weight="0.19" label="Reges_II_15,"/>
+<edge id="16" source="1" target="24" weight="1.1" label="Reges_II_15,"/>
+<edge id="17" source="1" target="16" weight="2.57" label="Reges_II_15,"/>
+<edge id="18" source="1" target="6" weight="1.58" label="Reges_II_15,"/>
+<edge id="19" source="1" target="11" weight="1.23" label="Reges_II_15,"/>
+<edge id="20" source="1" target="3" weight="0.23" label="Reges_II_15,"/>
+<edge id="21" source="1" target="22" weight="1.56" label="Reges_II_15,"/>
+<edge id="22" source="13" target="14" weight="0.25" label="Reges_II_15,"/>
+<edge id="23" source="9" target="14" weight="1.02" label="Reges_II_15,"/>
+<edge id="24" source="9" target="13" weight="0.28" label="Reges_II_15,"/>
+<edge id="25" source="9" target="20" weight="0.21" label="Reges_II_15,"/>
+<edge id="26" source="9" target="21" weight="0.25" label="Reges_II_15,"/>
+<edge id="27" source="9" target="17" weight="0.31" label="Reges_II_15,"/>
+<edge id="28" source="9" target="12" weight="0.25" label="Reges_II_15,"/>
+<edge id="29" source="9" target="23" weight="0.4" label="Reges_II_15,"/>
+<edge id="30" source="9" target="10" weight="1.07" label="Reges_II_15,"/>
+<edge id="31" source="9" target="24" weight="0.4" label="Reges_II_15,"/>
+<edge id="32" source="9" target="16" weight="0.91" label="Reges_II_15,"/>
+<edge id="33" source="9" target="11" weight="0.29" label="Reges_II_15,"/>
+<edge id="34" source="9" target="22" weight="0.53" label="Reges_II_15,"/>
+<edge id="35" source="8" target="9" weight="1.28" label="Reges_II_15,"/>
+<edge id="36" source="8" target="20" weight="0.18" label="Reges_II_15,"/>
+<edge id="37" source="8" target="19" weight="0.13" label="Reges_II_15,"/>
+<edge id="38" source="8" target="21" weight="0.25" label="Reges_II_15,"/>
+<edge id="39" source="8" target="26" weight="1.08" label="Reges_II_15,"/>
+<edge id="40" source="8" target="17" weight="1.67" label="Reges_II_15,"/>
+<edge id="41" source="8" target="15" weight="0.37" label="Reges_II_15,"/>
+<edge id="42" source="8" target="12" weight="1.79" label="Reges_II_15,"/>
+<edge id="43" source="8" target="23" weight="1.39" label="Reges_II_15,"/>
+<edge id="44" source="8" target="7" weight="5.7" label="Reges_II_15,"/>
+<edge id="45" source="8" target="5" weight="1.02" label="Reges_II_15,"/>
+<edge id="46" source="8" target="10" weight="0.67" label="Reges_II_15,"/>
+<edge id="47" source="8" target="18" weight="0.76" label="Reges_II_15,"/>
+<edge id="48" source="8" target="24" weight="1.39" label="Reges_II_15,"/>
+<edge id="49" source="8" target="16" weight="3.29" label="Reges_II_15,"/>
+<edge id="50" source="8" target="27" weight="0.33" label="Reges_II_15,"/>
+<edge id="51" source="8" target="11" weight="1.95" label="Reges_II_15,"/>
+<edge id="52" source="8" target="22" weight="1.68" label="Reges_II_15,"/>
+<edge id="53" source="8" target="25" weight="1.08" label="Reges_II_15,"/>
+<edge id="54" source="4" target="9" weight="0.12" label="Reges_II_15,"/>
+<edge id="55" source="4" target="8" weight="0.27" label="Reges_II_15,"/>
+<edge id="56" source="4" target="7" weight="0.34" label="Reges_II_15,"/>
+<edge id="57" source="4" target="5" weight="0.25" label="Reges_II_15,"/>
+<edge id="58" source="4" target="6" weight="0.32" label="Reges_II_15,"/>
+<edge id="59" source="21" target="22" weight="0.16" label="Reges_II_15,"/>
+<edge id="60" source="21" target="20" weight="1.78" label="Reges_II_15,"/>
+<edge id="61" source="26" target="27" weight="0.25" label="Reges_II_15,"/>
+<edge id="62" source="26" target="25" weight="1.0" label="Reges_II_15,"/>
+<edge id="63" source="17" target="20" weight="0.11" label="Reges_II_15,"/>
+<edge id="64" source="17" target="21" weight="0.12" label="Reges_II_15,"/>
+<edge id="65" source="17" target="16" weight="2.19" label="Reges_II_15,"/>
+<edge id="66" source="15" target="17" weight="0.12" label="Reges_II_15,"/>
+<edge id="67" source="15" target="18" weight="0.12" label="Reges_II_15,"/>
+<edge id="68" source="15" target="16" weight="0.14" label="Reges_II_15,"/>
+<edge id="69" source="12" target="14" weight="0.11" label="Reges_II_15,"/>
+<edge id="70" source="12" target="17" weight="0.25" label="Reges_II_15,"/>
+<edge id="71" source="12" target="15" weight="1.05" label="Reges_II_15,"/>
+<edge id="72" source="12" target="18" weight="0.29" label="Reges_II_15,"/>
+<edge id="73" source="12" target="16" weight="0.35" label="Reges_II_15,"/>
+<edge id="74" source="12" target="11" weight="3.2" label="Reges_II_15,"/>
+<edge id="75" source="2" target="9" weight="0.85" label="Reges_II_15,"/>
+<edge id="76" source="2" target="20" weight="0.14" label="Reges_II_15,"/>
+<edge id="77" source="2" target="8" weight="3.23" label="Reges_II_15,"/>
+<edge id="78" source="2" target="4" weight="0.11" label="Reges_II_15,"/>
+<edge id="79" source="2" target="21" weight="0.19" label="Reges_II_15,"/>
+<edge id="80" source="2" target="17" weight="1.03" label="Reges_II_15,"/>
+<edge id="81" source="2" target="23" weight="1.1" label="Reges_II_15,"/>
+<edge id="82" source="2" target="7" weight="3.98" label="Reges_II_15,"/>
+<edge id="83" source="2" target="10" weight="0.41" label="Reges_II_15,"/>
+<edge id="84" source="2" target="24" weight="1.1" label="Reges_II_15,"/>
+<edge id="85" source="2" target="16" weight="2.41" label="Reges_II_15,"/>
+<edge id="86" source="2" target="6" weight="0.47" label="Reges_II_15,"/>
+<edge id="87" source="2" target="3" weight="0.25" label="Reges_II_15,"/>
+<edge id="88" source="2" target="22" weight="1.55" label="Reges_II_15,"/>
+<edge id="89" source="23" target="26" weight="0.28" label="Reges_II_15,"/>
+<edge id="90" source="23" target="27" weight="0.15" label="Reges_II_15,"/>
+<edge id="91" source="23" target="25" weight="0.28" label="Reges_II_15,"/>
+<edge id="92" source="7" target="14" weight="0.56" label="Reges_II_15,"/>
+<edge id="93" source="7" target="13" weight="1.18" label="Reges_II_15,"/>
+<edge id="94" source="7" target="9" weight="2.97" label="Reges_II_15,"/>
+<edge id="95" source="7" target="20" weight="1.0" label="Reges_II_15,"/>
+<edge id="96" source="7" target="19" weight="0.36" label="Reges_II_15,"/>
+<edge id="97" source="7" target="21" weight="2.21" label="Reges_II_15,"/>
+<edge id="98" source="7" target="26" weight="0.27" label="Reges_II_15,"/>
+<edge id="99" source="7" target="17" weight="1.34" label="Reges_II_15,"/>
+<edge id="100" source="7" target="15" weight="0.21" label="Reges_II_15,"/>
+<edge id="101" source="7" target="12" weight="0.73" label="Reges_II_15,"/>
+<edge id="102" source="7" target="23" weight="1.83" label="Reges_II_15,"/>
+<edge id="103" source="7" target="5" weight="1.15" label="Reges_II_15,"/>
+<edge id="104" source="7" target="10" weight="4.83" label="Reges_II_15,"/>
+<edge id="105" source="7" target="18" weight="0.49" label="Reges_II_15,"/>
+<edge id="106" source="7" target="24" weight="1.83" label="Reges_II_15,"/>
+<edge id="107" source="7" target="16" weight="6.36" label="Reges_II_15,"/>
+<edge id="108" source="7" target="27" weight="0.25" label="Reges_II_15,"/>
+<edge id="109" source="7" target="11" weight="1.82" label="Reges_II_15,"/>
+<edge id="110" source="7" target="22" weight="3.12" label="Reges_II_15,"/>
+<edge id="111" source="7" target="25" weight="0.27" label="Reges_II_15,"/>
+<edge id="112" source="5" target="9" weight="0.27" label="Reges_II_15,"/>
+<edge id="113" source="5" target="10" weight="0.11" label="Reges_II_15,"/>
+<edge id="114" source="0" target="9" weight="0.3" label="Reges_II_15,"/>
+<edge id="115" source="0" target="8" weight="1.07" label="Reges_II_15,"/>
+<edge id="116" source="0" target="4" weight="0.31" label="Reges_II_15,"/>
+<edge id="117" source="0" target="2" weight="0.32" label="Reges_II_15,"/>
+<edge id="118" source="0" target="7" weight="1.23" label="Reges_II_15,"/>
+<edge id="119" source="0" target="5" weight="1.04" label="Reges_II_15,"/>
+<edge id="120" source="0" target="10" weight="0.14" label="Reges_II_15,"/>
+<edge id="121" source="0" target="6" weight="1.18" label="Reges_II_15,"/>
+<edge id="122" source="0" target="11" weight="0.1" label="Reges_II_15,"/>
+<edge id="123" source="0" target="3" weight="0.22" label="Reges_II_15,"/>
+<edge id="124" source="10" target="20" weight="0.39" label="Reges_II_15,"/>
+<edge id="125" source="10" target="21" weight="0.4" label="Reges_II_15,"/>
+<edge id="126" source="10" target="26" weight="0.13" label="Reges_II_15,"/>
+<edge id="127" source="10" target="17" weight="0.14" label="Reges_II_15,"/>
+<edge id="128" source="10" target="11" weight="0.31" label="Reges_II_15,"/>
+<edge id="129" source="10" target="12" weight="0.29" label="Reges_II_15,"/>
+<edge id="130" source="10" target="23" weight="0.4" label="Reges_II_15,"/>
+<edge id="131" source="10" target="24" weight="0.4" label="Reges_II_15,"/>
+<edge id="132" source="10" target="16" weight="0.61" label="Reges_II_15,"/>
+<edge id="133" source="10" target="22" weight="0.3" label="Reges_II_15,"/>
+<edge id="134" source="10" target="25" weight="0.13" label="Reges_II_15,"/>
+<edge id="135" source="18" target="19" weight="1.02" label="Reges_II_15,"/>
+<edge id="136" source="18" target="17" weight="1.07" label="Reges_II_15,"/>
+<edge id="137" source="18" target="16" weight="2.14" label="Reges_II_15,"/>
+<edge id="138" source="24" target="26" weight="0.28" label="Reges_II_15,"/>
+<edge id="139" source="24" target="23" weight="2.04" label="Reges_II_15,"/>
+<edge id="140" source="24" target="27" weight="0.15" label="Reges_II_15,"/>
+<edge id="141" source="24" target="25" weight="0.28" label="Reges_II_15,"/>
+<edge id="142" source="16" target="20" weight="1.9" label="Reges_II_15,"/>
+<edge id="143" source="16" target="19" weight="1.1" label="Reges_II_15,"/>
+<edge id="144" source="16" target="21" weight="2.51" label="Reges_II_15,"/>
+<edge id="145" source="16" target="23" weight="0.17" label="Reges_II_15,"/>
+<edge id="146" source="16" target="24" weight="0.17" label="Reges_II_15,"/>
+<edge id="147" source="16" target="22" weight="1.94" label="Reges_II_15,"/>
+<edge id="148" source="6" target="9" weight="1.34" label="Reges_II_15,"/>
+<edge id="149" source="6" target="20" weight="0.39" label="Reges_II_15,"/>
+<edge id="150" source="6" target="8" weight="1.69" label="Reges_II_15,"/>
+<edge id="151" source="6" target="21" weight="0.41" label="Reges_II_15,"/>
+<edge id="152" source="6" target="26" weight="0.13" label="Reges_II_15,"/>
+<edge id="153" source="6" target="17" weight="0.14" label="Reges_II_15,"/>
+<edge id="154" source="6" target="12" weight="0.36" label="Reges_II_15,"/>
+<edge id="155" source="6" target="23" weight="0.4" label="Reges_II_15,"/>
+<edge id="156" source="6" target="7" weight="5.98" label="Reges_II_15,"/>
+<edge id="157" source="6" target="5" weight="1.11" label="Reges_II_15,"/>
+<edge id="158" source="6" target="10" weight="4.16" label="Reges_II_15,"/>
+<edge id="159" source="6" target="24" weight="0.4" label="Reges_II_15,"/>
+<edge id="160" source="6" target="16" weight="0.63" label="Reges_II_15,"/>
+<edge id="161" source="6" target="11" weight="0.39" label="Reges_II_15,"/>
+<edge id="162" source="6" target="22" weight="0.3" label="Reges_II_15,"/>
+<edge id="163" source="6" target="25" weight="0.13" label="Reges_II_15,"/>
+<edge id="164" source="11" target="14" weight="0.11" label="Reges_II_15,"/>
+<edge id="165" source="11" target="19" weight="0.31" label="Reges_II_15,"/>
+<edge id="166" source="11" target="17" weight="0.31" label="Reges_II_15,"/>
+<edge id="167" source="11" target="18" weight="0.56" label="Reges_II_15,"/>
+<edge id="168" source="11" target="16" weight="0.68" label="Reges_II_15,"/>
+<edge id="169" source="11" target="15" weight="1.07" label="Reges_II_15,"/>
+<edge id="170" source="3" target="8" weight="0.13" label="Reges_II_15,"/>
+<edge id="171" source="3" target="4" weight="0.25" label="Reges_II_15,"/>
+<edge id="172" source="3" target="7" weight="0.18" label="Reges_II_15,"/>
+<edge id="173" source="3" target="5" weight="0.11" label="Reges_II_15,"/>
+<edge id="174" source="3" target="6" weight="0.15" label="Reges_II_15,"/>
+<edge id="175" source="22" target="26" weight="0.11" label="Reges_II_15,"/>
+<edge id="176" source="22" target="23" weight="0.4" label="Reges_II_15,"/>
+<edge id="177" source="22" target="24" weight="0.4" label="Reges_II_15,"/>
+<edge id="178" source="22" target="27" weight="0.11" label="Reges_II_15,"/>
+<edge id="179" source="22" target="25" weight="0.11" label="Reges_II_15,"/>
+<edge id="180" source="25" target="27" weight="0.25" label="Reges_II_15,"/>
+</edges>
+</graph></gexf>

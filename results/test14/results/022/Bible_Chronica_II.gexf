@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="3">
+
+<node id="4" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_5,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="3" label="Solomon">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_5,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="5" label="David">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_5,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="3">
+<edge id="1" source="3" target="4" weight="1.25" label="Chronica_II_5,"/>
+<edge id="2" source="3" target="5" weight="1.25" label="Chronica_II_5,"/>
+<edge id="3" source="4" target="5" weight="0.25" label="Chronica_II_5,"/>
+</edges>
+</graph></gexf>

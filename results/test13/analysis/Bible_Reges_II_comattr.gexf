@@ -1,0 +1,1341 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="3" title="label" type="string" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="occurrence" type="string" />
+      <attribute id="1" title="nametype" type="string" />
+      <attribute id="2" title="community" type="long" />
+    </attributes>
+    <nodes>
+      <node id="1" label="Sennacherib">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18,Reges_II_19," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="13" label="Egypt">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="30" label="Rezeph">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="36" label="Lebanon">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="17" label="Sepharvaim">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18,Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="8" label="Eliakim">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18,Reges_II_19," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="5" label="YHWH">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18,Reges_II_19," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="6" label="Hizkiah2">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18,Reges_II_19," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="21" label="Hilkiah2">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="31" label="Eden">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="4" label="Lachish">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18,Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="25" label="Libnah">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="22" label="Shebna2">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18,Reges_II_19," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="40" label="Nisroch">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="44" label="Esarhaddon">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="35" label="Lord">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="39" label="Nineveh">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="41" label="Adrammelech">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="11" label="Joah">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="7" label="Jerusalem">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18,Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="42" label="Sharezer">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="19" label="Ivvah">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18,Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="15" label="Hamath">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18,Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="33" label="Israel">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="pers,gens,topo" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="18" label="Hena">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18,Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="16" label="Arpad">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18,Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="20" label="Samaria">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="24" label="Amoz">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="9" label="Hilkiah">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="12" label="Asaph">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="0" label="Hizkiah">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="43" label="Ararat">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="3" label="Judah">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18,Reges_II_19," />
+          <attvalue for="1" value="pers,gens,topo" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="37" label="Egypt2">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="14" label="Jewish">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18," />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="26" label="Tirhakah">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="27" label="Cush">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="32" label="Telassar">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="10" label="Shebna">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="38" label="David">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="29" label="town">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="23" label="Isaiah">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="pers" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="28" label="Gozan">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="34" label="Zion">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="2" label="Asshur">
+        <attvalues>
+          <attvalue for="0" value="Reges_II_18,Reges_II_19," />
+          <attvalue for="1" value="topo" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="25" source="1" target="2" weight="3.33">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="90" source="1" target="23" weight="0.12">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="111" source="1" target="5" weight="1.18">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="148" source="1" target="6" weight="0.17">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="15" source="1" target="0" weight="1.16">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="16" source="1" target="39" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="2" source="1" target="33" weight="0.29">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="14" source="1" target="4" weight="0.12">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="58" source="1" target="3" weight="1.15">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="139" source="1" target="24" weight="0.12">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="37" source="13" target="2" weight="0.14">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="73" source="13" target="7" weight="0.22">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="129" source="13" target="5" weight="0.4">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="160" source="13" target="6" weight="0.16">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="63" source="13" target="3" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="197" source="30" target="18" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="198" source="30" target="16" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="196" source="30" target="32" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="199" source="30" target="17" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="200" source="30" target="29" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="135" source="30" target="5" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="167" source="30" target="6" weight="0.21">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="202" source="30" target="28" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="195" source="30" target="19" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="201" source="30" target="15" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="83" source="30" target="31" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="43" source="30" target="2" weight="0.19">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="172" source="36" target="35" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="10" source="17" target="18" weight="2.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="182" source="17" target="16" weight="1.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="183" source="17" target="20" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="39" source="17" target="2" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="189" source="17" target="29" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="131" source="17" target="5" weight="0.32">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="163" source="17" target="6" weight="0.43">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="87" source="17" target="28" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="97" source="17" target="19" weight="2.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="184" source="17" target="15" weight="1.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="79" source="17" target="31" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="74" source="17" target="7" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="102" source="17" target="32" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="38" source="8" target="2" weight="0.19">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="175" source="8" target="23" weight="1.02">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="173" source="8" target="12" weight="2.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="161" source="8" target="6" weight="1.34">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="178" source="8" target="21" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="130" source="8" target="5" weight="0.49">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="177" source="8" target="9" weight="2.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="179" source="8" target="11" weight="3.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="174" source="8" target="10" weight="2.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="180" source="8" target="22" weight="2.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="176" source="8" target="24" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="110" source="5" target="18" weight="0.32">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="114" source="5" target="16" weight="0.34">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="124" source="5" target="20" weight="0.16">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="126" source="5" target="24" weight="0.96">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="127" source="5" target="6" weight="7.15">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="128" source="5" target="9" weight="0.15">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="121" source="5" target="19" weight="0.32">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="112" source="5" target="0" weight="2.96">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="117" source="5" target="7" weight="2.23">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="118" source="5" target="31" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="109" source="5" target="4" weight="0.28">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="116" source="5" target="3" weight="2.14">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="136" source="5" target="22" weight="0.34">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="107" source="5" target="14" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="123" source="5" target="32" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="134" source="5" target="11" weight="0.19">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="115" source="5" target="10" weight="0.15">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="125" source="5" target="38" weight="0.24">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="113" source="5" target="2" weight="6.37">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="132" source="5" target="29" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="120" source="5" target="23" weight="1.45">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="119" source="5" target="28" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="122" source="5" target="34" weight="0.54">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="133" source="5" target="15" weight="0.34">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="108" source="5" target="33" weight="2.68">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="146" source="6" target="18" weight="0.43">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="151" source="6" target="16" weight="0.45">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="157" source="6" target="24" weight="1.18">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="159" source="6" target="9" weight="0.16">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="147" source="6" target="12" weight="1.15">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="149" source="6" target="0" weight="0.27">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="162" source="6" target="21" weight="1.01">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="153" source="6" target="31" weight="0.21">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="145" source="6" target="4" weight="1.12">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="62" source="6" target="3" weight="2.5">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="168" source="6" target="22" weight="1.18">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="142" source="6" target="26" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="143" source="6" target="27" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="156" source="6" target="32" weight="0.21">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="166" source="6" target="11" weight="1.17">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="152" source="6" target="10" weight="0.16">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="72" source="6" target="7" weight="2.73">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="164" source="6" target="29" weight="0.21">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="154" source="6" target="23" weight="2.49">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="158" source="6" target="28" weight="0.21">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="155" source="6" target="19" weight="0.43">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="165" source="6" target="15" weight="0.45">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="150" source="6" target="2" weight="4.37">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="144" source="6" target="33" weight="0.48">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="192" source="21" target="11" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="12" source="21" target="12" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="181" source="21" target="22" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="77" source="31" target="18" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="78" source="31" target="16" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="31" source="31" target="2" weight="0.19">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="80" source="31" target="29" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="82" source="31" target="28" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="75" source="31" target="19" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="81" source="31" target="15" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="76" source="31" target="32" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="22" source="4" target="2" weight="2.81">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="6" source="4" target="26" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="7" source="4" target="27" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="57" source="4" target="3" weight="1.37">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="64" source="4" target="7" weight="1.15">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="45" source="4" target="25" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="17" source="4" target="0" weight="1.43">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="44" source="25" target="26" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="46" source="25" target="27" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="27" source="25" target="2" weight="1.05">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="93" source="22" target="23" weight="1.02">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="13" source="22" target="12" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="140" source="22" target="24" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="194" source="22" target="11" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="54" source="40" target="43" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="56" source="40" target="39" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="55" source="40" target="41" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="53" source="40" target="42" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="137" source="44" target="43" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="49" source="44" target="41" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="5" source="44" target="42" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="3" source="35" target="33" weight="0.26">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="30" source="39" target="2" weight="0.27">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="48" source="41" target="43" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="47" source="41" target="42" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="193" source="11" target="12" weight="2.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="171" source="11" target="9" weight="2.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="52" source="11" target="10" weight="2.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="42" source="11" target="2" weight="0.15">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="65" source="7" target="18" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="71" source="7" target="20" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="67" source="7" target="2" weight="3.19">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="69" source="7" target="19" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="66" source="7" target="0" weight="0.35">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="70" source="7" target="34" weight="1.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="68" source="7" target="3" weight="1.74">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="4" source="42" target="43" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="94" source="19" target="18" weight="2.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="95" source="19" target="16" weight="1.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="96" source="19" target="20" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="33" source="19" target="2" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="185" source="19" target="29" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="84" source="19" target="28" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="98" source="19" target="15" weight="1.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="99" source="19" target="32" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="11" source="15" target="18" weight="1.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="50" source="15" target="16" weight="2.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="106" source="15" target="20" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="103" source="15" target="32" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="190" source="15" target="29" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="88" source="15" target="28" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="41" source="15" target="2" weight="0.39">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="89" source="33" target="23" weight="0.27">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="138" source="33" target="24" weight="0.26">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="21" source="33" target="2" weight="0.32">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="8" source="18" target="16" weight="1.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="9" source="18" target="20" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="23" source="18" target="2" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="187" source="18" target="29" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="85" source="18" target="28" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="100" source="18" target="32" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="105" source="16" target="20" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="28" source="16" target="2" weight="0.39">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="188" source="16" target="29" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="86" source="16" target="28" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="101" source="16" target="32" weight="0.25">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="91" source="24" target="23" weight="2.02">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="141" source="24" target="2" weight="0.16">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="170" source="9" target="12" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="169" source="9" target="10" weight="2.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="36" source="9" target="2" weight="0.14">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="51" source="12" target="10" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="24" source="12" target="2" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="59" source="0" target="3" weight="5.18">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="26" source="0" target="2" weight="4.5">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="61" source="3" target="34" weight="0.11">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="60" source="3" target="2" weight="4.34">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18,Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="20" source="14" target="2" weight="0.13">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="18" source="26" target="2" weight="0.17">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="1" source="26" target="27" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="19" source="27" target="2" weight="0.17">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="186" source="32" target="29" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="104" source="32" target="28" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="35" source="32" target="2" weight="0.19">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="29" source="10" target="2" weight="0.14">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_18," />
+        </attvalues>
+      </edge>
+      <edge id="40" source="29" target="2" weight="0.19">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="191" source="29" target="28" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="92" source="23" target="2" weight="0.4">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="32" source="28" target="2" weight="0.19">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+      <edge id="34" source="34" target="2" weight="0.14">
+        <attvalues>
+          <attvalue for="3" value="Reges_II_19," />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

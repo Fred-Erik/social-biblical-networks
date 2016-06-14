@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="14">
+
+<node id="538" label="locality">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="535" label="Jabbok">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="525" label="Laban">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="531" label="Abraham">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="533" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="527" label="Mahanaim">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="536" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="534" label="Jordan">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="530" label="Edom">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="528" label="Esau">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="537" label="Peniel">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="532" label="Isaac">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="526" label="Jacob">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="529" label="Seir">
+  <attvalues><attvalue for="occurrence" value="Genesis_32,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+</nodes>
+<edges count="23">
+<edge id="1" source="536" target="538" weight="0.12" label="Genesis_32,"/>
+<edge id="2" source="529" target="530" weight="1.0" label="Genesis_32,"/>
+<edge id="3" source="526" target="536" weight="0.67" label="Genesis_32,"/>
+<edge id="4" source="526" target="529" weight="1.18" label="Genesis_32,"/>
+<edge id="5" source="526" target="533" weight="0.28" label="Genesis_32,"/>
+<edge id="6" source="526" target="528" weight="2.66" label="Genesis_32,"/>
+<edge id="7" source="526" target="537" weight="1.06" label="Genesis_32,"/>
+<edge id="8" source="526" target="530" weight="1.18" label="Genesis_32,"/>
+<edge id="9" source="526" target="527" weight="0.46" label="Genesis_32,"/>
+<edge id="10" source="526" target="531" weight="0.28" label="Genesis_32,"/>
+<edge id="11" source="526" target="532" weight="0.28" label="Genesis_32,"/>
+<edge id="12" source="526" target="538" weight="0.15" label="Genesis_32,"/>
+<edge id="13" source="528" target="529" weight="1.13" label="Genesis_32,"/>
+<edge id="14" source="528" target="530" weight="1.13" label="Genesis_32,"/>
+<edge id="15" source="528" target="534" weight="0.15" label="Genesis_32,"/>
+<edge id="16" source="527" target="529" weight="0.25" label="Genesis_32,"/>
+<edge id="17" source="527" target="528" weight="0.33" label="Genesis_32,"/>
+<edge id="18" source="527" target="530" weight="0.25" label="Genesis_32,"/>
+<edge id="19" source="525" target="526" weight="0.79" label="Genesis_32,"/>
+<edge id="20" source="525" target="528" weight="0.25" label="Genesis_32,"/>
+<edge id="21" source="531" target="532" weight="1.0" label="Genesis_32,"/>
+<edge id="22" source="531" target="533" weight="1.0" label="Genesis_32,"/>
+<edge id="23" source="532" target="533" weight="1.0" label="Genesis_32,"/>
+</edges>
+</graph></gexf>

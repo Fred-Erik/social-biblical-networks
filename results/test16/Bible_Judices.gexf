@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="89">
+
+<node id="55" label="Jether">
+  <attvalues><attvalue for="occurrence" value="Judices_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="87" label="Eleazar">
+  <attvalues><attvalue for="occurrence" value="Judices_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="22" label="Nun">
+  <attvalues><attvalue for="occurrence" value="Judices_2,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="11" label="Othniel">
+  <attvalues><attvalue for="occurrence" value="Judices_1,Judices_3,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="77" label="Hillel">
+  <attvalues><attvalue for="occurrence" value="Judices_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="29" label="Gera">
+  <attvalues><attvalue for="occurrence" value="Judices_3,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="41" label="Makir">
+  <attvalues><attvalue for="occurrence" value="Judices_5,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+<node id="56" label="Abimelech">
+  <attvalues><attvalue for="occurrence" value="Judices_8,Judices_9,Judices_10,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="60" label="Ebed">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="16" label="Manasseh">
+  <attvalues><attvalue for="occurrence" value="Judices_1,Judices_6,Judices_7,Judices_11,Judices_12,Judices_18,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+<node id="12" label="Kenaz">
+  <attvalues><attvalue for="occurrence" value="Judices_1,Judices_3,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+<node id="64" label="ElBerith">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="38" label="Heber">
+  <attvalues><attvalue for="occurrence" value="Judices_4,Judices_5,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="45" label="Joash">
+  <attvalues><attvalue for="occurrence" value="Judices_6,Judices_7,Judices_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="70" label="Sihon">
+  <attvalues><attvalue for="occurrence" value="Judices_11,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="65" label="Tola">
+  <attvalues><attvalue for="occurrence" value="Judices_10,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="43" label="Reuben">
+  <attvalues><attvalue for="occurrence" value="Judices_5,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="20" label="Naphtali">
+  <attvalues><attvalue for="occurrence" value="Judices_1,Judices_4,Judices_5,Judices_6,Judices_7,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="73" label="Zippor">
+  <attvalues><attvalue for="occurrence" value="Judices_11,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="0" label="Joshua">
+  <attvalues><attvalue for="occurrence" value="Judices_1,Judices_2,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="26" label="Moab">
+  <attvalues><attvalue for="occurrence" value="Judices_3,Judices_10,Judices_11,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="88" label="Aaron">
+  <attvalues><attvalue for="occurrence" value="Judices_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="5" label="AdoniBezek">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="57" label="BaalBerith">
+  <attvalues><attvalue for="occurrence" value="Judices_8,Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="82" label="prophet">
+  <attvalues><attvalue for="occurrence" value="Judices_17,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="62" label="Hamor">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="61" label="Zebul">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="31" label="Anath">
+  <attvalues><attvalue for="occurrence" value="Judices_3,Judices_5,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="6" label="Sheshai">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="58" label="Jotham">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="47" label="Lord">
+  <attvalues><attvalue for="occurrence" value="Judices_6,Judices_13,Judices_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="7" label="Ahiman">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="15" label="Joseph">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="78" label="Manoah">
+  <attvalues><attvalue for="occurrence" value="Judices_13,Judices_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="34" label="Deborah">
+  <attvalues><attvalue for="occurrence" value="Judices_4,Judices_5,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="3" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Judices_1,Judices_10,Judices_15,Judices_17,Judices_18,Judices_19,Judices_20,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="54" label="Zalmunna">
+  <attvalues><attvalue for="occurrence" value="Judices_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="68" label="Jair">
+  <attvalues><attvalue for="occurrence" value="Judices_10,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="84" label="Jehonathan">
+  <attvalues><attvalue for="occurrence" value="Judices_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="66" label="Puah">
+  <attvalues><attvalue for="occurrence" value="Judices_10,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="83" label="Micah">
+  <attvalues><attvalue for="occurrence" value="Judices_17,Judices_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="37" label="Abinoam">
+  <attvalues><attvalue for="occurrence" value="Judices_4,Judices_5,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="2" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Judices_1,Judices_2,Judices_3,Judices_4,Judices_5,Judices_6,Judices_7,Judices_8,Judices_10,Judices_11,Judices_12,Judices_13,Judices_14,Judices_15,Judices_16,Judices_17,Judices_18,Judices_19,Judices_20,Judices_21,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="52" label="Zeeb">
+  <attvalues><attvalue for="occurrence" value="Judices_7,Judices_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="13" label="Moses">
+  <attvalues><attvalue for="occurrence" value="Judices_1,Judices_3,Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="86" label="Phinehas">
+  <attvalues><attvalue for="occurrence" value="Judices_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="39" label="Hobab">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="74" label="Ibzan">
+  <attvalues><attvalue for="occurrence" value="Judices_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="71" label="Chemosh">
+  <attvalues><attvalue for="occurrence" value="Judices_11,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="24" label="CushanRishathaim">
+  <attvalues><attvalue for="occurrence" value="Judices_3,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="85" label="Gershom">
+  <attvalues><attvalue for="occurrence" value="Judices_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="51" label="Oreb">
+  <attvalues><attvalue for="occurrence" value="Judices_7,Judices_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="27" label="Amalek">
+  <attvalues><attvalue for="occurrence" value="Judices_3,Judices_5,Judices_6,Judices_7,Judices_10,"/><attvalue for="nametype" value="pers,gens"/></attvalues>
+</node>
+<node id="40" label="Jael">
+  <attvalues><attvalue for="occurrence" value="Judices_4,Judices_5,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="59" label="Gaal">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="8" label="Talmai">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="9" label="Caleb">
+  <attvalues><attvalue for="occurrence" value="Judices_1,Judices_3,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="79" label="Samson">
+  <attvalues><attvalue for="occurrence" value="Judices_13,Judices_14,Judices_15,Judices_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="35" label="Lappidoth">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="72" label="Balak">
+  <attvalues><attvalue for="occurrence" value="Judices_11,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="21" label="Dan">
+  <attvalues><attvalue for="occurrence" value="Judices_1,Judices_5,Judices_18,Judices_20,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="1" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Judices_1,Judices_2,Judices_3,Judices_4,Judices_5,Judices_6,Judices_7,Judices_8,Judices_9,Judices_10,Judices_11,Judices_12,Judices_13,Judices_14,Judices_15,Judices_16,Judices_17,Judices_18,Judices_19,Judices_20,Judices_21,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="4" label="Simeon">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="63" label="Shechem">
+  <attvalues><attvalue for="occurrence" value="Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="18" label="Zebulun">
+  <attvalues><attvalue for="occurrence" value="Judices_1,Judices_4,Judices_5,Judices_6,Judices_12,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="32" label="Jabin">
+  <attvalues><attvalue for="occurrence" value="Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="19" label="Asher">
+  <attvalues><attvalue for="occurrence" value="Judices_1,Judices_5,Judices_6,Judices_7,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="10" label="Acsah">
+  <attvalues><attvalue for="occurrence" value="Judices_1,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="81" label="Dagon">
+  <attvalues><attvalue for="occurrence" value="Judices_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="23" label="Canaan">
+  <attvalues><attvalue for="occurrence" value="Judices_3,Judices_4,Judices_5,Judices_21,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="75" label="judge2">
+  <attvalues><attvalue for="occurrence" value="Judices_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="50" label="Purah">
+  <attvalues><attvalue for="occurrence" value="Judices_7,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="17" label="Ephraim">
+  <attvalues><attvalue for="occurrence" value="Judices_1,Judices_2,Judices_3,Judices_4,Judices_5,Judices_7,Judices_8,Judices_10,Judices_12,Judices_17,Judices_18,Judices_19,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="30" label="Shamgar">
+  <attvalues><attvalue for="occurrence" value="Judices_3,Judices_5,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="67" label="Dodo">
+  <attvalues><attvalue for="occurrence" value="Judices_10,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="49" label="Abiezer">
+  <attvalues><attvalue for="occurrence" value="Judices_6,Judices_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="14" label="Benjamin">
+  <attvalues><attvalue for="occurrence" value="Judices_1,Judices_5,Judices_10,Judices_19,Judices_20,Judices_21,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="48" label="JerubBaal">
+  <attvalues><attvalue for="occurrence" value="Judices_6,Judices_7,Judices_8,Judices_9,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="36" label="Barak">
+  <attvalues><attvalue for="occurrence" value="Judices_4,Judices_5,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="44" label="Midian">
+  <attvalues><attvalue for="occurrence" value="Judices_6,Judices_7,Judices_8,Judices_9,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="53" label="Zebah">
+  <attvalues><attvalue for="occurrence" value="Judices_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="69" label="judge">
+  <attvalues><attvalue for="occurrence" value="Judices_11,Judices_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="76" label="Abdon">
+  <attvalues><attvalue for="occurrence" value="Judices_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="33" label="Sisera">
+  <attvalues><attvalue for="occurrence" value="Judices_4,Judices_5,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="46" label="Gideon">
+  <attvalues><attvalue for="occurrence" value="Judices_6,Judices_7,Judices_8,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="25" label="Eglon">
+  <attvalues><attvalue for="occurrence" value="Judices_3,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="28" label="Ehud">
+  <attvalues><attvalue for="occurrence" value="Judices_3,Judices_4,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="80" label="Delilah">
+  <attvalues><attvalue for="occurrence" value="Judices_16,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="42" label="Issachar">
+  <attvalues><attvalue for="occurrence" value="Judices_5,Judices_10,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+</nodes>
+<edges count="385">
+<edge id="1" source="25" target="26" weight="4.57" label="Judices_3,"/>
+<edge id="2" source="25" target="29" weight="0.41" label="Judices_3,"/>
+<edge id="3" source="25" target="27" weight="0.18" label="Judices_3,"/>
+<edge id="4" source="53" target="44" weight="2.43" label="Judices_8,"/>
+<edge id="5" source="53" target="45" weight="0.22" label="Judices_8,"/>
+<edge id="6" source="53" target="2" weight="1.2" label="Judices_8,"/>
+<edge id="7" source="53" target="46" weight="1.39" label="Judices_8,"/>
+<edge id="8" source="53" target="54" weight="12.59" label="Judices_8,"/>
+<edge id="9" source="53" target="1" weight="0.15" label="Judices_8,"/>
+<edge id="10" source="67" target="1" weight="1.15" label="Judices_10,"/>
+<edge id="11" source="67" target="65" weight="1.0" label="Judices_10,"/>
+<edge id="12" source="67" target="42" weight="1.0" label="Judices_10,"/>
+<edge id="13" source="67" target="56" weight="1.0" label="Judices_10,"/>
+<edge id="14" source="67" target="17" weight="0.25" label="Judices_10,"/>
+<edge id="15" source="19" target="16" weight="1.12" label="Judices_1,Judices_6,Judices_7,"/>
+<edge id="16" source="19" target="21" weight="0.27" label="Judices_1,Judices_5,"/>
+<edge id="17" source="3" target="8" weight="0.2" label="Judices_1,"/>
+<edge id="18" source="3" target="4" weight="2.6" label="Judices_1,"/>
+<edge id="19" source="3" target="17" weight="2.85" label="Judices_1,Judices_10,Judices_17,Judices_18,Judices_19,"/>
+<edge id="20" source="3" target="9" weight="0.62" label="Judices_1,"/>
+<edge id="21" source="3" target="6" weight="0.2" label="Judices_1,"/>
+<edge id="22" source="3" target="13" weight="1.22" label="Judices_1,"/>
+<edge id="23" source="3" target="10" weight="0.11" label="Judices_1,"/>
+<edge id="24" source="3" target="7" weight="0.2" label="Judices_1,"/>
+<edge id="25" source="3" target="5" weight="0.22" label="Judices_1,"/>
+<edge id="26" source="56" target="57" weight="0.36" label="Judices_8,Judices_9,"/>
+<edge id="27" source="56" target="60" weight="1.78" label="Judices_9,"/>
+<edge id="28" source="56" target="62" weight="0.2" label="Judices_9,"/>
+<edge id="29" source="56" target="61" weight="1.28" label="Judices_9,"/>
+<edge id="30" source="56" target="58" weight="1.03" label="Judices_9,"/>
+<edge id="31" source="56" target="64" weight="0.48" label="Judices_9,"/>
+<edge id="32" source="56" target="63" weight="0.2" label="Judices_9,"/>
+<edge id="33" source="56" target="59" weight="3.03" label="Judices_9,"/>
+<edge id="34" source="9" target="11" weight="2.16" label="Judices_1,Judices_3,"/>
+<edge id="35" source="9" target="12" weight="2.16" label="Judices_1,Judices_3,"/>
+<edge id="36" source="9" target="13" weight="1.3" label="Judices_1,Judices_3,"/>
+<edge id="37" source="9" target="10" weight="0.89" label="Judices_1,"/>
+<edge id="38" source="37" target="38" weight="0.12" label="Judices_4,Judices_5,"/>
+<edge id="39" source="37" target="39" weight="0.11" label="Judices_4,"/>
+<edge id="40" source="37" target="13" weight="0.11" label="Judices_4,"/>
+<edge id="41" source="37" target="18" weight="0.13" label="Judices_4,Judices_5,"/>
+<edge id="42" source="37" target="20" weight="1.07" label="Judices_4,Judices_5,"/>
+<edge id="43" source="37" target="36" weight="3.5" label="Judices_4,Judices_5,"/>
+<edge id="44" source="37" target="14" weight="0.11" label="Judices_5,"/>
+<edge id="45" source="37" target="27" weight="0.11" label="Judices_5,"/>
+<edge id="46" source="2" target="28" weight="2.14" label="Judices_3,Judices_4,"/>
+<edge id="47" source="2" target="73" weight="0.18" label="Judices_11,"/>
+<edge id="48" source="2" target="41" weight="0.28" label="Judices_5,"/>
+<edge id="49" source="2" target="25" weight="2.57" label="Judices_3,"/>
+<edge id="50" source="2" target="19" weight="0.19" label="Judices_1,Judices_5,Judices_6,Judices_7,"/>
+<edge id="51" source="2" target="17" weight="2.44" label="Judices_1,Judices_2,Judices_3,Judices_4,Judices_5,Judices_7,Judices_8,Judices_10,Judices_12,Judices_17,Judices_18,Judices_19,"/>
+<edge id="52" source="2" target="3" weight="2.9" label="Judices_1,Judices_10,Judices_15,Judices_17,Judices_18,Judices_19,Judices_20,"/>
+<edge id="53" source="2" target="47" weight="2.75" label="Judices_6,Judices_13,Judices_16,"/>
+<edge id="54" source="2" target="9" weight="0.88" label="Judices_1,Judices_3,"/>
+<edge id="55" source="2" target="37" weight="0.74" label="Judices_4,Judices_5,"/>
+<edge id="56" source="2" target="13" weight="1.52" label="Judices_1,Judices_3,Judices_4,"/>
+<edge id="57" source="2" target="18" weight="0.52" label="Judices_1,Judices_4,Judices_5,Judices_6,Judices_12,"/>
+<edge id="58" source="2" target="87" weight="0.28" label="Judices_20,"/>
+<edge id="59" source="2" target="68" weight="0.34" label="Judices_10,"/>
+<edge id="60" source="2" target="33" weight="4.85" label="Judices_4,Judices_5,"/>
+<edge id="61" source="2" target="86" weight="0.28" label="Judices_20,"/>
+<edge id="62" source="2" target="36" weight="2.94" label="Judices_4,Judices_5,"/>
+<edge id="63" source="2" target="16" weight="0.8" label="Judices_1,Judices_6,Judices_7,Judices_11,Judices_12,Judices_18,"/>
+<edge id="64" source="2" target="48" weight="0.36" label="Judices_6,Judices_7,Judices_8,"/>
+<edge id="65" source="2" target="49" weight="0.12" label="Judices_6,Judices_8,"/>
+<edge id="66" source="2" target="40" weight="0.82" label="Judices_4,Judices_5,"/>
+<edge id="67" source="2" target="35" weight="0.13" label="Judices_4,"/>
+<edge id="68" source="2" target="11" weight="1.33" label="Judices_1,Judices_3,"/>
+<edge id="69" source="2" target="44" weight="7.52" label="Judices_6,Judices_7,Judices_8,"/>
+<edge id="70" source="2" target="38" weight="0.47" label="Judices_4,Judices_5,"/>
+<edge id="71" source="2" target="71" weight="0.35" label="Judices_11,"/>
+<edge id="72" source="2" target="26" weight="4.6" label="Judices_3,Judices_10,Judices_11,"/>
+<edge id="73" source="2" target="22" weight="1.47" label="Judices_2,"/>
+<edge id="74" source="2" target="12" weight="1.33" label="Judices_1,Judices_3,"/>
+<edge id="75" source="2" target="57" weight="0.25" label="Judices_8,"/>
+<edge id="76" source="2" target="31" weight="0.43" label="Judices_3,Judices_5,"/>
+<edge id="77" source="2" target="4" weight="0.28" label="Judices_1,"/>
+<edge id="78" source="2" target="72" weight="0.18" label="Judices_11,"/>
+<edge id="79" source="2" target="88" weight="0.28" label="Judices_20,"/>
+<edge id="80" source="2" target="45" weight="0.66" label="Judices_6,Judices_7,Judices_8,"/>
+<edge id="81" source="2" target="70" weight="1.24" label="Judices_11,"/>
+<edge id="82" source="2" target="46" weight="13.72" label="Judices_6,Judices_7,Judices_8,"/>
+<edge id="83" source="2" target="1" weight="70.32" label="Judices_1,Judices_2,Judices_3,Judices_4,Judices_5,Judices_6,Judices_7,Judices_8,Judices_10,Judices_11,Judices_12,Judices_13,Judices_14,Judices_15,Judices_16,Judices_17,Judices_18,Judices_19,Judices_20,Judices_21,"/>
+<edge id="84" source="2" target="15" weight="0.53" label="Judices_1,"/>
+<edge id="85" source="2" target="34" weight="1.52" label="Judices_4,Judices_5,"/>
+<edge id="86" source="2" target="20" weight="0.52" label="Judices_1,Judices_4,Judices_5,Judices_6,Judices_7,"/>
+<edge id="87" source="2" target="30" weight="0.43" label="Judices_3,Judices_5,"/>
+<edge id="88" source="2" target="29" weight="1.31" label="Judices_3,"/>
+<edge id="89" source="2" target="42" weight="0.24" label="Judices_5,Judices_10,"/>
+<edge id="90" source="2" target="21" weight="1.03" label="Judices_1,Judices_5,Judices_18,Judices_20,"/>
+<edge id="91" source="2" target="24" weight="2.97" label="Judices_3,"/>
+<edge id="92" source="2" target="79" weight="2.22" label="Judices_13,Judices_14,Judices_15,Judices_16,"/>
+<edge id="93" source="2" target="27" weight="1.88" label="Judices_3,Judices_5,Judices_6,Judices_7,Judices_10,"/>
+<edge id="94" source="2" target="5" weight="0.18" label="Judices_1,"/>
+<edge id="95" source="2" target="78" weight="12.37" label="Judices_13,Judices_16,"/>
+<edge id="96" source="2" target="32" weight="1.29" label="Judices_4,"/>
+<edge id="97" source="66" target="1" weight="1.15" label="Judices_10,"/>
+<edge id="98" source="66" target="67" weight="1.0" label="Judices_10,"/>
+<edge id="99" source="66" target="65" weight="1.0" label="Judices_10,"/>
+<edge id="100" source="66" target="42" weight="1.0" label="Judices_10,"/>
+<edge id="101" source="66" target="56" weight="1.0" label="Judices_10,"/>
+<edge id="102" source="66" target="17" weight="0.25" label="Judices_10,"/>
+<edge id="103" source="69" target="2" weight="5.99" label="Judices_11,Judices_12,"/>
+<edge id="104" source="69" target="16" weight="0.49" label="Judices_11,Judices_12,"/>
+<edge id="105" source="69" target="26" weight="0.55" label="Judices_11,"/>
+<edge id="106" source="69" target="1" weight="5.77" label="Judices_11,Judices_12,"/>
+<edge id="107" source="69" target="74" weight="0.21" label="Judices_12,"/>
+<edge id="108" source="86" target="88" weight="1.0" label="Judices_20,"/>
+<edge id="109" source="36" target="38" weight="0.5" label="Judices_4,Judices_5,"/>
+<edge id="110" source="36" target="41" weight="0.1" label="Judices_5,"/>
+<edge id="111" source="36" target="39" weight="0.29" label="Judices_4,"/>
+<edge id="112" source="36" target="13" weight="0.29" label="Judices_4,"/>
+<edge id="113" source="36" target="18" weight="1.54" label="Judices_4,Judices_5,"/>
+<edge id="114" source="36" target="43" weight="0.17" label="Judices_5,"/>
+<edge id="115" source="36" target="42" weight="0.41" label="Judices_5,"/>
+<edge id="116" source="36" target="40" weight="0.47" label="Judices_4,Judices_5,"/>
+<edge id="117" source="36" target="14" weight="0.1" label="Judices_5,"/>
+<edge id="118" source="36" target="27" weight="0.1" label="Judices_5,"/>
+<edge id="119" source="59" target="60" weight="5.29" label="Judices_9,"/>
+<edge id="120" source="59" target="61" weight="2.81" label="Judices_9,"/>
+<edge id="121" source="40" target="31" weight="1.0" label="Judices_5,"/>
+<edge id="122" source="40" target="30" weight="1.0" label="Judices_5,"/>
+<edge id="123" source="14" target="88" weight="0.32" label="Judices_20,"/>
+<edge id="124" source="14" target="41" weight="0.25" label="Judices_5,"/>
+<edge id="125" source="14" target="17" weight="2.03" label="Judices_1,Judices_5,Judices_10,Judices_19,"/>
+<edge id="126" source="14" target="3" weight="1.37" label="Judices_1,Judices_10,Judices_19,Judices_20,"/>
+<edge id="127" source="14" target="9" weight="0.19" label="Judices_1,"/>
+<edge id="128" source="14" target="27" weight="1.01" label="Judices_5,Judices_10,"/>
+<edge id="129" source="14" target="13" weight="0.18" label="Judices_1,"/>
+<edge id="130" source="14" target="18" weight="0.26" label="Judices_1,Judices_5,"/>
+<edge id="131" source="14" target="2" weight="6.14" label="Judices_1,Judices_5,Judices_10,Judices_19,Judices_20,Judices_21,"/>
+<edge id="132" source="14" target="23" weight="0.19" label="Judices_5,Judices_21,"/>
+<edge id="133" source="14" target="15" weight="0.46" label="Judices_1,"/>
+<edge id="134" source="14" target="1" weight="28.15" label="Judices_1,Judices_5,Judices_10,Judices_19,Judices_20,Judices_21,"/>
+<edge id="135" source="14" target="42" weight="0.18" label="Judices_5,Judices_10,"/>
+<edge id="136" source="14" target="21" weight="0.14" label="Judices_1,Judices_5,Judices_20,"/>
+<edge id="137" source="14" target="87" weight="0.32" label="Judices_20,"/>
+<edge id="138" source="14" target="86" weight="0.32" label="Judices_20,"/>
+<edge id="139" source="52" target="17" weight="0.49" label="Judices_7,Judices_8,"/>
+<edge id="140" source="52" target="51" weight="3.86" label="Judices_7,Judices_8,"/>
+<edge id="141" source="26" target="73" weight="1.01" label="Judices_11,"/>
+<edge id="142" source="26" target="31" weight="0.18" label="Judices_3,"/>
+<edge id="143" source="26" target="30" weight="0.18" label="Judices_3,"/>
+<edge id="144" source="26" target="70" weight="0.69" label="Judices_11,"/>
+<edge id="145" source="26" target="29" weight="0.4" label="Judices_3,"/>
+<edge id="146" source="26" target="27" weight="0.18" label="Judices_3,Judices_10,"/>
+<edge id="147" source="26" target="72" weight="1.01" label="Judices_11,"/>
+<edge id="148" source="22" target="17" weight="0.25" label="Judices_2,"/>
+<edge id="149" source="12" target="26" weight="0.15" label="Judices_3,"/>
+<edge id="150" source="12" target="25" weight="0.16" label="Judices_3,"/>
+<edge id="151" source="62" target="63" weight="1.0" label="Judices_9,"/>
+<edge id="152" source="39" target="38" weight="1.01" label="Judices_4,"/>
+<edge id="153" source="20" target="19" weight="2.12" label="Judices_1,Judices_5,Judices_6,Judices_7,"/>
+<edge id="154" source="20" target="17" weight="0.23" label="Judices_1,Judices_4,Judices_5,Judices_7,"/>
+<edge id="155" source="20" target="18" weight="3.31" label="Judices_1,Judices_4,Judices_5,Judices_6,"/>
+<edge id="156" source="20" target="36" weight="2.46" label="Judices_4,Judices_5,"/>
+<edge id="157" source="20" target="16" weight="1.12" label="Judices_1,Judices_6,Judices_7,"/>
+<edge id="158" source="20" target="21" weight="0.1" label="Judices_1,Judices_5,"/>
+<edge id="159" source="10" target="11" weight="0.5" label="Judices_1,"/>
+<edge id="160" source="10" target="12" weight="0.5" label="Judices_1,"/>
+<edge id="161" source="42" target="43" weight="0.15" label="Judices_5,"/>
+<edge id="162" source="42" target="56" weight="1.0" label="Judices_10,"/>
+<edge id="163" source="21" target="85" weight="0.32" label="Judices_18,"/>
+<edge id="164" source="21" target="84" weight="0.32" label="Judices_18,"/>
+<edge id="165" source="21" target="83" weight="1.51" label="Judices_18,"/>
+<edge id="166" source="21" target="16" weight="0.32" label="Judices_1,Judices_18,"/>
+<edge id="167" source="65" target="1" weight="1.15" label="Judices_10,"/>
+<edge id="168" source="65" target="42" weight="1.0" label="Judices_10,"/>
+<edge id="169" source="65" target="56" weight="1.0" label="Judices_10,"/>
+<edge id="170" source="65" target="17" weight="0.25" label="Judices_10,"/>
+<edge id="171" source="79" target="3" weight="0.7" label="Judices_15,"/>
+<edge id="172" source="79" target="47" weight="0.25" label="Judices_13,Judices_16,"/>
+<edge id="173" source="79" target="80" weight="3.51" label="Judices_16,"/>
+<edge id="174" source="79" target="81" weight="0.15" label="Judices_16,"/>
+<edge id="175" source="27" target="41" weight="0.25" label="Judices_5,"/>
+<edge id="176" source="27" target="18" weight="0.27" label="Judices_5,Judices_6,"/>
+<edge id="177" source="27" target="46" weight="0.16" label="Judices_6,Judices_7,"/>
+<edge id="178" source="27" target="42" weight="0.17" label="Judices_5,Judices_10,"/>
+<edge id="179" source="78" target="47" weight="0.22" label="Judices_13,Judices_16,"/>
+<edge id="180" source="75" target="77" weight="0.19" label="Judices_12,"/>
+<edge id="181" source="75" target="76" weight="0.19" label="Judices_12,"/>
+<edge id="182" source="75" target="18" weight="0.31" label="Judices_12,"/>
+<edge id="183" source="28" target="26" weight="0.82" label="Judices_3,"/>
+<edge id="184" source="28" target="25" weight="0.84" label="Judices_3,"/>
+<edge id="185" source="28" target="33" weight="0.12" label="Judices_4,"/>
+<edge id="186" source="28" target="29" weight="1.12" label="Judices_3,"/>
+<edge id="187" source="28" target="32" weight="0.25" label="Judices_4,"/>
+<edge id="188" source="44" target="52" weight="2.87" label="Judices_7,Judices_8,"/>
+<edge id="189" source="44" target="47" weight="0.11" label="Judices_6,"/>
+<edge id="190" source="44" target="19" weight="0.35" label="Judices_6,Judices_7,"/>
+<edge id="191" source="44" target="17" weight="1.27" label="Judices_7,Judices_8,"/>
+<edge id="192" source="44" target="56" weight="0.21" label="Judices_8,Judices_9,"/>
+<edge id="193" source="44" target="45" weight="0.8" label="Judices_6,Judices_7,Judices_8,"/>
+<edge id="194" source="44" target="46" weight="5.22" label="Judices_6,Judices_7,Judices_8,"/>
+<edge id="195" source="44" target="20" weight="0.35" label="Judices_6,Judices_7,"/>
+<edge id="196" source="44" target="16" weight="0.44" label="Judices_6,Judices_7,"/>
+<edge id="197" source="44" target="48" weight="0.45" label="Judices_6,Judices_7,Judices_8,Judices_9,"/>
+<edge id="198" source="44" target="49" weight="0.33" label="Judices_6,Judices_8,"/>
+<edge id="199" source="44" target="51" weight="2.88" label="Judices_7,Judices_8,"/>
+<edge id="200" source="44" target="27" weight="3.18" label="Judices_6,Judices_7,"/>
+<edge id="201" source="44" target="50" weight="0.34" label="Judices_7,"/>
+<edge id="202" source="16" target="85" weight="1.0" label="Judices_18,"/>
+<edge id="203" source="16" target="47" weight="0.11" label="Judices_6,"/>
+<edge id="204" source="16" target="49" weight="0.25" label="Judices_6,"/>
+<edge id="205" source="16" target="84" weight="1.0" label="Judices_18,"/>
+<edge id="206" source="73" target="72" weight="1.0" label="Judices_11,"/>
+<edge id="207" source="41" target="42" weight="0.36" label="Judices_5,"/>
+<edge id="208" source="74" target="75" weight="0.18" label="Judices_12,"/>
+<edge id="209" source="17" target="69" weight="1.05" label="Judices_12,"/>
+<edge id="210" source="17" target="41" weight="0.25" label="Judices_5,"/>
+<edge id="211" source="17" target="19" weight="0.17" label="Judices_1,Judices_5,Judices_7,"/>
+<edge id="212" source="17" target="56" weight="0.25" label="Judices_8,Judices_10,"/>
+<edge id="213" source="17" target="37" weight="0.18" label="Judices_4,Judices_5,"/>
+<edge id="214" source="17" target="18" weight="0.42" label="Judices_1,Judices_4,Judices_5,Judices_12,"/>
+<edge id="215" source="17" target="36" weight="0.18" label="Judices_4,Judices_5,"/>
+<edge id="216" source="17" target="16" weight="1.83" label="Judices_1,Judices_7,Judices_12,Judices_18,"/>
+<edge id="217" source="17" target="49" weight="1.02" label="Judices_8,"/>
+<edge id="218" source="17" target="82" weight="0.27" label="Judices_17,"/>
+<edge id="219" source="17" target="77" weight="0.31" label="Judices_12,"/>
+<edge id="220" source="17" target="76" weight="0.31" label="Judices_12,"/>
+<edge id="221" source="17" target="42" weight="0.43" label="Judices_5,Judices_10,"/>
+<edge id="222" source="17" target="27" weight="1.01" label="Judices_3,Judices_5,Judices_7,Judices_10,"/>
+<edge id="223" source="17" target="83" weight="2.71" label="Judices_17,Judices_18,"/>
+<edge id="224" source="61" target="62" weight="0.27" label="Judices_9,"/>
+<edge id="225" source="61" target="60" weight="1.23" label="Judices_9,"/>
+<edge id="226" source="61" target="63" weight="0.27" label="Judices_9,"/>
+<edge id="227" source="6" target="9" weight="0.1" label="Judices_1,"/>
+<edge id="228" source="13" target="38" weight="1.01" label="Judices_4,"/>
+<edge id="229" source="13" target="39" weight="1.0" label="Judices_4,"/>
+<edge id="230" source="18" target="41" weight="1.01" label="Judices_5,"/>
+<edge id="231" source="18" target="19" weight="1.18" label="Judices_1,Judices_5,Judices_6,"/>
+<edge id="232" source="18" target="16" weight="0.12" label="Judices_1,Judices_6,Judices_12,"/>
+<edge id="233" source="18" target="77" weight="0.29" label="Judices_12,"/>
+<edge id="234" source="18" target="76" weight="0.29" label="Judices_12,"/>
+<edge id="235" source="18" target="42" weight="0.38" label="Judices_5,"/>
+<edge id="236" source="0" target="22" weight="1.31" label="Judices_2,"/>
+<edge id="237" source="0" target="17" weight="0.4" label="Judices_1,Judices_2,"/>
+<edge id="238" source="0" target="2" weight="5.42" label="Judices_1,Judices_2,"/>
+<edge id="239" source="0" target="1" weight="3.72" label="Judices_1,Judices_2,"/>
+<edge id="240" source="23" target="28" weight="0.25" label="Judices_3,Judices_4,"/>
+<edge id="241" source="23" target="13" weight="0.25" label="Judices_3,Judices_4,"/>
+<edge id="242" source="23" target="2" weight="2.57" label="Judices_3,Judices_4,Judices_5,Judices_21,"/>
+<edge id="243" source="23" target="33" weight="0.45" label="Judices_4,Judices_5,"/>
+<edge id="244" source="23" target="1" weight="4.21" label="Judices_3,Judices_4,Judices_5,Judices_21,"/>
+<edge id="245" source="23" target="32" weight="3.51" label="Judices_4,"/>
+<edge id="246" source="33" target="38" weight="2.22" label="Judices_4,Judices_5,"/>
+<edge id="247" source="33" target="37" weight="1.39" label="Judices_4,Judices_5,"/>
+<edge id="248" source="33" target="39" weight="0.25" label="Judices_4,"/>
+<edge id="249" source="33" target="13" weight="0.25" label="Judices_4,"/>
+<edge id="250" source="33" target="18" weight="0.44" label="Judices_4,Judices_5,"/>
+<edge id="251" source="33" target="34" weight="1.08" label="Judices_4,Judices_5,"/>
+<edge id="252" source="33" target="20" weight="0.49" label="Judices_4,Judices_5,"/>
+<edge id="253" source="33" target="36" weight="5.75" label="Judices_4,Judices_5,"/>
+<edge id="254" source="33" target="40" weight="2.83" label="Judices_4,Judices_5,"/>
+<edge id="255" source="83" target="16" weight="0.26" label="Judices_18,"/>
+<edge id="256" source="83" target="2" weight="0.49" label="Judices_17,Judices_18,"/>
+<edge id="257" source="83" target="3" weight="0.85" label="Judices_17,Judices_18,"/>
+<edge id="258" source="83" target="84" weight="0.26" label="Judices_18,"/>
+<edge id="259" source="83" target="1" weight="0.49" label="Judices_17,Judices_18,"/>
+<edge id="260" source="83" target="85" weight="0.26" label="Judices_18,"/>
+<edge id="261" source="48" target="57" weight="0.21" label="Judices_8,Judices_9,"/>
+<edge id="262" source="48" target="60" weight="0.12" label="Judices_9,"/>
+<edge id="263" source="48" target="61" weight="1.03" label="Judices_9,"/>
+<edge id="264" source="48" target="56" weight="4.09" label="Judices_8,Judices_9,"/>
+<edge id="265" source="48" target="62" weight="0.25" label="Judices_9,"/>
+<edge id="266" source="48" target="63" weight="0.25" label="Judices_9,"/>
+<edge id="267" source="48" target="58" weight="2.36" label="Judices_9,"/>
+<edge id="268" source="48" target="59" weight="0.13" label="Judices_9,"/>
+<edge id="269" source="49" target="51" weight="0.25" label="Judices_8,"/>
+<edge id="270" source="49" target="52" weight="0.25" label="Judices_8,"/>
+<edge id="271" source="82" target="83" weight="0.29" label="Judices_17,"/>
+<edge id="272" source="82" target="1" weight="0.11" label="Judices_17,"/>
+<edge id="273" source="35" target="34" weight="1.0" label="Judices_4,"/>
+<edge id="274" source="35" target="17" weight="1.0" label="Judices_4,"/>
+<edge id="275" source="76" target="77" weight="2.12" label="Judices_12,"/>
+<edge id="276" source="11" target="26" weight="0.15" label="Judices_3,"/>
+<edge id="277" source="11" target="12" weight="3.03" label="Judices_1,Judices_3,"/>
+<edge id="278" source="11" target="25" weight="0.16" label="Judices_3,"/>
+<edge id="279" source="54" target="44" weight="2.43" label="Judices_8,"/>
+<edge id="280" source="54" target="45" weight="0.22" label="Judices_8,"/>
+<edge id="281" source="54" target="2" weight="1.2" label="Judices_8,"/>
+<edge id="282" source="54" target="46" weight="1.39" label="Judices_8,"/>
+<edge id="283" source="54" target="1" weight="0.15" label="Judices_8,"/>
+<edge id="284" source="38" target="40" weight="3.64" label="Judices_4,Judices_5,"/>
+<edge id="285" source="32" target="18" weight="0.26" label="Judices_4,"/>
+<edge id="286" source="32" target="33" weight="2.03" label="Judices_4,"/>
+<edge id="287" source="32" target="20" weight="0.3" label="Judices_4,"/>
+<edge id="288" source="32" target="36" weight="0.27" label="Judices_4,"/>
+<edge id="289" source="32" target="38" weight="1.27" label="Judices_4,"/>
+<edge id="290" source="32" target="40" weight="0.53" label="Judices_4,"/>
+<edge id="291" source="8" target="9" weight="0.1" label="Judices_1,"/>
+<edge id="292" source="8" target="6" weight="1.0" label="Judices_1,"/>
+<edge id="293" source="31" target="30" weight="2.0" label="Judices_3,Judices_5,"/>
+<edge id="294" source="43" target="21" weight="0.15" label="Judices_5,"/>
+<edge id="295" source="24" target="11" weight="0.36" label="Judices_3,"/>
+<edge id="296" source="24" target="26" weight="0.12" label="Judices_3,"/>
+<edge id="297" source="24" target="12" weight="0.36" label="Judices_3,"/>
+<edge id="298" source="24" target="25" weight="0.13" label="Judices_3,"/>
+<edge id="299" source="24" target="9" weight="0.17" label="Judices_3,"/>
+<edge id="300" source="45" target="56" weight="0.4" label="Judices_8,"/>
+<edge id="301" source="45" target="48" weight="1.12" label="Judices_6,Judices_7,Judices_8,"/>
+<edge id="302" source="68" target="26" weight="0.11" label="Judices_10,"/>
+<edge id="303" source="46" target="57" weight="0.23" label="Judices_8,"/>
+<edge id="304" source="46" target="45" weight="6.04" label="Judices_6,Judices_7,Judices_8,"/>
+<edge id="305" source="46" target="18" weight="0.15" label="Judices_6,"/>
+<edge id="306" source="46" target="56" weight="0.49" label="Judices_8,"/>
+<edge id="307" source="46" target="20" weight="0.29" label="Judices_6,Judices_7,"/>
+<edge id="308" source="46" target="16" weight="0.27" label="Judices_6,Judices_7,"/>
+<edge id="309" source="46" target="48" weight="2.65" label="Judices_6,Judices_7,Judices_8,"/>
+<edge id="310" source="46" target="19" weight="0.29" label="Judices_6,Judices_7,"/>
+<edge id="311" source="46" target="49" weight="0.2" label="Judices_6,Judices_8,"/>
+<edge id="312" source="46" target="51" weight="1.26" label="Judices_7,Judices_8,"/>
+<edge id="313" source="46" target="47" weight="0.4" label="Judices_6,"/>
+<edge id="314" source="46" target="52" weight="1.3" label="Judices_7,Judices_8,"/>
+<edge id="315" source="46" target="17" weight="1.18" label="Judices_7,Judices_8,"/>
+<edge id="316" source="87" target="88" weight="1.0" label="Judices_20,"/>
+<edge id="317" source="87" target="86" weight="1.0" label="Judices_20,"/>
+<edge id="318" source="34" target="38" weight="0.35" label="Judices_4,Judices_5,"/>
+<edge id="319" source="34" target="41" weight="0.27" label="Judices_5,"/>
+<edge id="320" source="34" target="37" weight="1.35" label="Judices_4,Judices_5,"/>
+<edge id="321" source="34" target="39" weight="0.32" label="Judices_4,"/>
+<edge id="322" source="34" target="13" weight="0.32" label="Judices_4,"/>
+<edge id="323" source="34" target="18" weight="0.54" label="Judices_4,Judices_5,"/>
+<edge id="324" source="34" target="20" weight="0.34" label="Judices_4,Judices_5,"/>
+<edge id="325" source="34" target="36" weight="3.21" label="Judices_4,Judices_5,"/>
+<edge id="326" source="34" target="42" weight="1.28" label="Judices_5,"/>
+<edge id="327" source="34" target="40" weight="0.12" label="Judices_4,Judices_5,"/>
+<edge id="328" source="34" target="14" weight="0.13" label="Judices_5,"/>
+<edge id="329" source="34" target="27" weight="0.13" label="Judices_5,"/>
+<edge id="330" source="34" target="17" weight="1.14" label="Judices_4,Judices_5,"/>
+<edge id="331" source="84" target="85" weight="1.0" label="Judices_18,"/>
+<edge id="332" source="1" target="25" weight="4.26" label="Judices_3,"/>
+<edge id="333" source="1" target="19" weight="1.11" label="Judices_1,Judices_5,Judices_6,Judices_7,"/>
+<edge id="334" source="1" target="3" weight="1.63" label="Judices_1,Judices_10,Judices_15,Judices_17,Judices_18,Judices_19,Judices_20,"/>
+<edge id="335" source="1" target="56" weight="4.09" label="Judices_8,Judices_9,Judices_10,"/>
+<edge id="336" source="1" target="9" weight="0.64" label="Judices_1,Judices_3,"/>
+<edge id="337" source="1" target="37" weight="0.75" label="Judices_4,Judices_5,"/>
+<edge id="338" source="1" target="86" weight="0.22" label="Judices_20,"/>
+<edge id="339" source="1" target="36" weight="0.89" label="Judices_4,Judices_5,"/>
+<edge id="340" source="1" target="40" weight="0.64" label="Judices_4,Judices_5,"/>
+<edge id="341" source="1" target="71" weight="0.2" label="Judices_11,"/>
+<edge id="342" source="1" target="26" weight="9.26" label="Judices_3,Judices_10,Judices_11,"/>
+<edge id="343" source="1" target="22" weight="0.48" label="Judices_2,"/>
+<edge id="344" source="1" target="77" weight="1.6" label="Judices_12,"/>
+<edge id="345" source="1" target="12" weight="1.12" label="Judices_1,Judices_3,"/>
+<edge id="346" source="1" target="20" weight="1.58" label="Judices_1,Judices_4,Judices_5,Judices_6,Judices_7,"/>
+<edge id="347" source="1" target="29" weight="0.69" label="Judices_3,"/>
+<edge id="348" source="1" target="42" weight="1.19" label="Judices_5,Judices_10,"/>
+<edge id="349" source="1" target="21" weight="2.17" label="Judices_1,Judices_5,Judices_18,Judices_20,"/>
+<edge id="350" source="1" target="79" weight="0.34" label="Judices_13,Judices_14,Judices_15,Judices_16,"/>
+<edge id="351" source="1" target="27" weight="1.09" label="Judices_3,Judices_5,Judices_6,Judices_7,Judices_10,"/>
+<edge id="352" source="1" target="78" weight="0.34" label="Judices_13,Judices_16,"/>
+<edge id="353" source="1" target="75" weight="1.95" label="Judices_12,"/>
+<edge id="354" source="1" target="28" weight="1.55" label="Judices_3,Judices_4,"/>
+<edge id="355" source="1" target="44" weight="10.8" label="Judices_6,Judices_7,Judices_8,Judices_9,"/>
+<edge id="356" source="1" target="16" weight="1.58" label="Judices_1,Judices_6,Judices_7,Judices_11,Judices_12,Judices_18,"/>
+<edge id="357" source="1" target="73" weight="0.39" label="Judices_11,"/>
+<edge id="358" source="1" target="74" weight="1.64" label="Judices_12,"/>
+<edge id="359" source="1" target="17" weight="4.62" label="Judices_1,Judices_2,Judices_3,Judices_4,Judices_5,Judices_7,Judices_8,Judices_10,Judices_12,Judices_17,Judices_18,Judices_19,"/>
+<edge id="360" source="1" target="47" weight="0.33" label="Judices_6,Judices_13,Judices_16,"/>
+<edge id="361" source="1" target="13" weight="1.59" label="Judices_1,Judices_3,Judices_4,"/>
+<edge id="362" source="1" target="18" weight="0.79" label="Judices_1,Judices_4,Judices_5,Judices_6,Judices_12,"/>
+<edge id="363" source="1" target="33" weight="0.54" label="Judices_4,Judices_5,"/>
+<edge id="364" source="1" target="48" weight="1.62" label="Judices_6,Judices_7,Judices_8,Judices_9,"/>
+<edge id="365" source="1" target="35" weight="1.6" label="Judices_4,"/>
+<edge id="366" source="1" target="76" weight="1.6" label="Judices_12,"/>
+<edge id="367" source="1" target="11" weight="1.12" label="Judices_1,Judices_3,"/>
+<edge id="368" source="1" target="32" weight="2.83" label="Judices_4,"/>
+<edge id="369" source="1" target="57" weight="0.48" label="Judices_8,Judices_9,"/>
+<edge id="370" source="1" target="31" weight="0.84" label="Judices_3,Judices_5,"/>
+<edge id="371" source="1" target="24" weight="2.93" label="Judices_3,"/>
+<edge id="372" source="1" target="45" weight="1.51" label="Judices_6,Judices_7,Judices_8,"/>
+<edge id="373" source="1" target="70" weight="4.83" label="Judices_11,"/>
+<edge id="374" source="1" target="68" weight="0.79" label="Judices_10,"/>
+<edge id="375" source="1" target="46" weight="5.93" label="Judices_6,Judices_7,Judices_8,"/>
+<edge id="376" source="1" target="87" weight="0.22" label="Judices_20,"/>
+<edge id="377" source="1" target="34" weight="3.58" label="Judices_4,Judices_5,"/>
+<edge id="378" source="1" target="30" weight="0.84" label="Judices_3,Judices_5,"/>
+<edge id="379" source="1" target="88" weight="0.22" label="Judices_20,"/>
+<edge id="380" source="1" target="72" weight="0.39" label="Judices_11,"/>
+<edge id="381" source="51" target="17" weight="0.52" label="Judices_7,Judices_8,"/>
+<edge id="382" source="7" target="9" weight="0.1" label="Judices_1,"/>
+<edge id="383" source="7" target="8" weight="1.0" label="Judices_1,"/>
+<edge id="384" source="7" target="6" weight="1.0" label="Judices_1,"/>
+<edge id="385" source="50" target="27" weight="0.28" label="Judices_7,"/>
+</edges>
+</graph></gexf>

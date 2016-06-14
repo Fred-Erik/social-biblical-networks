@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="6">
+
+<node id="8" label="Damascus">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_24,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="10" label="Joash">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_24,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="9" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_24,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="7" label="Jerusalem">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_24,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="5" label="Aram">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_24,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="6" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_24,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+</nodes>
+<edges count="9">
+<edge id="1" source="7" target="6" weight="1.0" label="Chronica_II_24,"/>
+<edge id="2" source="7" target="8" weight="0.11" label="Chronica_II_24,"/>
+<edge id="3" source="5" target="7" weight="0.31" label="Chronica_II_24,"/>
+<edge id="4" source="5" target="6" weight="0.31" label="Chronica_II_24,"/>
+<edge id="5" source="5" target="9" weight="0.41" label="Chronica_II_24,"/>
+<edge id="6" source="5" target="8" weight="0.31" label="Chronica_II_24,"/>
+<edge id="7" source="8" target="9" weight="0.17" label="Chronica_II_24,"/>
+<edge id="8" source="9" target="10" weight="0.36" label="Chronica_II_24,"/>
+<edge id="9" source="6" target="8" weight="0.11" label="Chronica_II_24,"/>
+</edges>
+</graph></gexf>

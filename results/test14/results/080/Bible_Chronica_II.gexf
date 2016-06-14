@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="6">
+
+<node id="10" label="Jerusalem">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_36,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="8" label="Zedekiah">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_36,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="7" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_36,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="9" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_36,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="6" label="Babel">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_36,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="5" label="Nebuchadnezzar">
+  <attvalues><attvalue for="occurrence" value="Chronica_II_36,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="15">
+<edge id="1" source="10" target="6" weight="0.25" label="Chronica_II_36,"/>
+<edge id="2" source="10" target="9" weight="1.0" label="Chronica_II_36,"/>
+<edge id="3" source="10" target="7" weight="0.25" label="Chronica_II_36,"/>
+<edge id="4" source="10" target="8" weight="1.0" label="Chronica_II_36,"/>
+<edge id="5" source="10" target="5" weight="0.11" label="Chronica_II_36,"/>
+<edge id="6" source="9" target="6" weight="0.25" label="Chronica_II_36,"/>
+<edge id="7" source="9" target="7" weight="0.25" label="Chronica_II_36,"/>
+<edge id="8" source="9" target="8" weight="1.0" label="Chronica_II_36,"/>
+<edge id="9" source="9" target="5" weight="0.11" label="Chronica_II_36,"/>
+<edge id="10" source="8" target="7" weight="0.25" label="Chronica_II_36,"/>
+<edge id="11" source="8" target="6" weight="0.25" label="Chronica_II_36,"/>
+<edge id="12" source="8" target="5" weight="0.11" label="Chronica_II_36,"/>
+<edge id="13" source="5" target="7" weight="0.25" label="Chronica_II_36,"/>
+<edge id="14" source="5" target="6" weight="0.25" label="Chronica_II_36,"/>
+<edge id="15" source="6" target="7" weight="1.0" label="Chronica_II_36,"/>
+</edges>
+</graph></gexf>

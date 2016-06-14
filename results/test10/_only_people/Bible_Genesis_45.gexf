@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="5">
+
+<node id="472" label="Canaan">
+  <attvalues><attvalue for="occurrence" value="Genesis_45,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="471" label="Benjamin">
+  <attvalues><attvalue for="occurrence" value="Genesis_45,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="470" label="Joseph">
+  <attvalues><attvalue for="occurrence" value="Genesis_45,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="473" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Genesis_45,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="474" label="Jacob">
+  <attvalues><attvalue for="occurrence" value="Genesis_45,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="6">
+<edge id="1" source="473" target="474" weight="0.27" label="Genesis_45,"/>
+<edge id="2" source="470" target="471" weight="0.22" label="Genesis_45,"/>
+<edge id="3" source="470" target="472" weight="0.22" label="Genesis_45,"/>
+<edge id="4" source="470" target="473" weight="0.58" label="Genesis_45,"/>
+<edge id="5" source="470" target="474" weight="0.62" label="Genesis_45,"/>
+<edge id="6" source="474" target="472" weight="1.02" label="Genesis_45,"/>
+</edges>
+</graph></gexf>

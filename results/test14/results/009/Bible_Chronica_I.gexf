@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="5">
+
+<node id="19" label="Jerusalem">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_20,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="17" label="Rabbah">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_20,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="18" label="David">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="15" label="Joab">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_20,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="16" label="Ammon">
+  <attvalues><attvalue for="occurrence" value="Chronica_I_20,"/><attvalue for="nametype" value="gens"/></attvalues>
+</node>
+</nodes>
+<edges count="8">
+<edge id="1" source="19" target="18" weight="1.0" label="Chronica_I_20,"/>
+<edge id="2" source="17" target="19" weight="0.5" label="Chronica_I_20,"/>
+<edge id="3" source="17" target="18" weight="0.5" label="Chronica_I_20,"/>
+<edge id="4" source="16" target="17" weight="0.15" label="Chronica_I_20,"/>
+<edge id="5" source="15" target="19" weight="0.29" label="Chronica_I_20,"/>
+<edge id="6" source="15" target="16" weight="0.29" label="Chronica_I_20,"/>
+<edge id="7" source="15" target="17" weight="1.2" label="Chronica_I_20,"/>
+<edge id="8" source="15" target="18" weight="0.29" label="Chronica_I_20,"/>
+</edges>
+</graph></gexf>

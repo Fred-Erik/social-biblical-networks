@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="5">
+
+<node id="4" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="1" label="Sarai">
+  <attvalues><attvalue for="occurrence" value="Genesis_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="0" label="Egypt">
+  <attvalues><attvalue for="occurrence" value="Genesis_12,"/><attvalue for="nametype" value="topo"/></attvalues>
+</node>
+<node id="3" label="Abram">
+  <attvalues><attvalue for="occurrence" value="Genesis_12,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="2" label="Egyptian">
+  <attvalues><attvalue for="occurrence" value="Genesis_12,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+</nodes>
+<edges count="8">
+<edge id="1" source="1" target="3" weight="1.4" label="Genesis_12,"/>
+<edge id="2" source="1" target="2" weight="0.14" label="Genesis_12,"/>
+<edge id="3" source="1" target="4" weight="1.0" label="Genesis_12,"/>
+<edge id="4" source="3" target="2" weight="0.36" label="Genesis_12,"/>
+<edge id="5" source="3" target="4" weight="1.38" label="Genesis_12,"/>
+<edge id="6" source="0" target="1" weight="0.28" label="Genesis_12,"/>
+<edge id="7" source="0" target="3" weight="1.07" label="Genesis_12,"/>
+<edge id="8" source="0" target="2" weight="0.34" label="Genesis_12,"/>
+</edges>
+</graph></gexf>
