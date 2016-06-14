@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="11">
+
+<node id="8" label="Midianite">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="10" label="Potiphar">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="6" label="Ishmaelite">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="4" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="0" label="Jacob">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="7" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="3" label="motherofDanNaphtali">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="2" label="Joseph">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="5" label="Reuben">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="1" label="Canaan">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="9" label="Medanite">
+  <attvalues><attvalue for="occurrence" value="Genesis_37,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+</nodes>
+<edges count="14">
+<edge id="1" source="0" target="3" weight="0.17" label="Genesis_37,"/>
+<edge id="2" source="0" target="1" weight="1.25" label="Genesis_37,"/>
+<edge id="3" source="3" target="4" weight="0.11" label="Genesis_37,"/>
+<edge id="4" source="5" target="6" weight="0.14" label="Genesis_37,"/>
+<edge id="5" source="6" target="8" weight="0.11" label="Genesis_37,"/>
+<edge id="6" source="6" target="7" weight="0.14" label="Genesis_37,"/>
+<edge id="7" source="10" target="9" weight="1.0" label="Genesis_37,"/>
+<edge id="8" source="2" target="8" weight="0.25" label="Genesis_37,"/>
+<edge id="9" source="2" target="0" weight="0.81" label="Genesis_37,"/>
+<edge id="10" source="2" target="4" weight="2.34" label="Genesis_37,"/>
+<edge id="11" source="2" target="3" weight="0.63" label="Genesis_37,"/>
+<edge id="12" source="2" target="5" weight="0.81" label="Genesis_37,"/>
+<edge id="13" source="2" target="6" weight="1.69" label="Genesis_37,"/>
+<edge id="14" source="2" target="1" weight="0.19" label="Genesis_37,"/>
+</edges>
+</graph></gexf>

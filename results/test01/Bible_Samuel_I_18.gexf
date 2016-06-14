@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="11">
+
+<node id="10" label="Michal">
+  <attvalues><attvalue for="occurrence" value="Samuel_I_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="0" label="Saul">
+  <attvalues><attvalue for="occurrence" value="Samuel_I_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="1" label="Jehonathan">
+  <attvalues><attvalue for="occurrence" value="Samuel_I_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="6" label="Judah">
+  <attvalues><attvalue for="occurrence" value="Samuel_I_18,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="3" label="Philistine">
+  <attvalues><attvalue for="occurrence" value="Samuel_I_18,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="4" label="Israel">
+  <attvalues><attvalue for="occurrence" value="Samuel_I_18,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="2" label="David">
+  <attvalues><attvalue for="occurrence" value="Samuel_I_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="8" label="Adriel">
+  <attvalues><attvalue for="occurrence" value="Samuel_I_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="9" label="Meholathite">
+  <attvalues><attvalue for="occurrence" value="Samuel_I_18,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="7" label="Merab">
+  <attvalues><attvalue for="occurrence" value="Samuel_I_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="5" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Samuel_I_18,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="33">
+<edge id="1" source="4" target="5" weight="0.12" label="Samuel_I_18,"/>
+<edge id="2" source="4" target="7" weight="0.17" label="Samuel_I_18,"/>
+<edge id="3" source="4" target="6" weight="1.01" label="Samuel_I_18,"/>
+<edge id="4" source="9" target="10" weight="0.25" label="Samuel_I_18,"/>
+<edge id="5" source="9" target="8" weight="1.0" label="Samuel_I_18,"/>
+<edge id="6" source="8" target="10" weight="0.25" label="Samuel_I_18,"/>
+<edge id="7" source="3" target="5" weight="0.17" label="Samuel_I_18,"/>
+<edge id="8" source="3" target="10" weight="0.24" label="Samuel_I_18,"/>
+<edge id="9" source="3" target="4" weight="0.34" label="Samuel_I_18,"/>
+<edge id="10" source="7" target="9" weight="0.26" label="Samuel_I_18,"/>
+<edge id="11" source="7" target="8" weight="0.26" label="Samuel_I_18,"/>
+<edge id="12" source="7" target="10" weight="0.12" label="Samuel_I_18,"/>
+<edge id="13" source="2" target="10" weight="2.31" label="Samuel_I_18,"/>
+<edge id="14" source="2" target="4" weight="1.89" label="Samuel_I_18,"/>
+<edge id="15" source="2" target="9" weight="0.59" label="Samuel_I_18,"/>
+<edge id="16" source="2" target="8" weight="0.59" label="Samuel_I_18,"/>
+<edge id="17" source="2" target="3" weight="5.25" label="Samuel_I_18,"/>
+<edge id="18" source="2" target="1" weight="3.43" label="Samuel_I_18,"/>
+<edge id="19" source="2" target="7" weight="1.57" label="Samuel_I_18,"/>
+<edge id="20" source="2" target="5" weight="2.35" label="Samuel_I_18,"/>
+<edge id="21" source="2" target="6" weight="1.16" label="Samuel_I_18,"/>
+<edge id="22" source="0" target="5" weight="2.34" label="Samuel_I_18,"/>
+<edge id="23" source="0" target="10" weight="4.52" label="Samuel_I_18,"/>
+<edge id="24" source="0" target="8" weight="0.74" label="Samuel_I_18,"/>
+<edge id="25" source="0" target="3" weight="4.1" label="Samuel_I_18,"/>
+<edge id="26" source="0" target="1" weight="1.38" label="Samuel_I_18,"/>
+<edge id="27" source="0" target="7" weight="1.69" label="Samuel_I_18,"/>
+<edge id="28" source="0" target="2" weight="25.51" label="Samuel_I_18,"/>
+<edge id="29" source="0" target="9" weight="0.74" label="Samuel_I_18,"/>
+<edge id="30" source="0" target="4" weight="2.01" label="Samuel_I_18,"/>
+<edge id="31" source="0" target="6" weight="0.26" label="Samuel_I_18,"/>
+<edge id="32" source="5" target="7" weight="0.1" label="Samuel_I_18,"/>
+<edge id="33" source="5" target="10" weight="0.38" label="Samuel_I_18,"/>
+</edges>
+</graph></gexf>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.1draft" version="1.2">
+<meta>
+<creator>LAF-Fabric</creator>
+</meta>
+<graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="occurrence" title="occurrence" type="string"></attribute>
+<attribute id="nametype" title="nametype" type="string"></attribute>
+</attributes>
+<nodes count="6">
+
+<node id="0" label="Abram">
+  <attvalues><attvalue for="occurrence" value="Genesis_13,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="5" label="Canaan">
+  <attvalues><attvalue for="occurrence" value="Genesis_13,"/><attvalue for="nametype" value="pers,gens,topo"/></attvalues>
+</node>
+<node id="2" label="YHWH">
+  <attvalues><attvalue for="occurrence" value="Genesis_13,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+<node id="4" label="Perizzite">
+  <attvalues><attvalue for="occurrence" value="Genesis_13,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="3" label="Canaanite">
+  <attvalues><attvalue for="occurrence" value="Genesis_13,"/><attvalue for="nametype" value=""/></attvalues>
+</node>
+<node id="1" label="Lot">
+  <attvalues><attvalue for="occurrence" value="Genesis_13,"/><attvalue for="nametype" value="pers"/></attvalues>
+</node>
+</nodes>
+<edges count="11">
+<edge id="1" source="1" target="4" weight="0.57" label="Genesis_13,"/>
+<edge id="2" source="1" target="2" weight="2.62" label="Genesis_13,"/>
+<edge id="3" source="1" target="5" weight="0.51" label="Genesis_13,"/>
+<edge id="4" source="1" target="3" weight="0.57" label="Genesis_13,"/>
+<edge id="5" source="2" target="5" weight="0.15" label="Genesis_13,"/>
+<edge id="6" source="4" target="3" weight="1.0" label="Genesis_13,"/>
+<edge id="7" source="0" target="4" weight="0.58" label="Genesis_13,"/>
+<edge id="8" source="0" target="1" weight="6.18" label="Genesis_13,"/>
+<edge id="9" source="0" target="2" weight="3.02" label="Genesis_13,"/>
+<edge id="10" source="0" target="3" weight="0.58" label="Genesis_13,"/>
+<edge id="11" source="0" target="5" weight="1.07" label="Genesis_13,"/>
+</edges>
+</graph></gexf>
